@@ -1,3 +1,63 @@
 # golden-agents-bredius
 
 Pipeline to transform the RKD's Bredius RDF data to fit in the Golden Agents (https://www.goldenagents.org) infrastructure. 
+
+## Introduction
+Early 2021 the RKD launched a crowdsourcing platform to digitize and index the archival material made by art historian Abraham Bredius (1855-1946), who was one of the first researchers to delve into the Dutch archives (which at the time were not open to the public), taking a systematic approach to his search for life facts about artists working between the late sixteenth and early eighteenth century. Bredius' research resulted in tens of thousands of excerpts: summaries of equally numerous archive entries, written on small scraps of paper. The data collected by Bredius still offers a wealth of information and presents an initial point of access to the original archives.
+
+By digitizing this material, one obtains more information on place names, dates, persons and occupations, and record types that are relevant for art historical research. Further more, the Golden Agents project integrates this dataset in RDF/LOD in its infrastructure, by which it offers a researcher additional context on this material, for instance by reconciling it with the original (digitized/indexed) material that is kept in the Amsterdam City Archives, but also by connecting the actors that are described to other (biographical) datasets, leading to a more accessible entry to information on the lifes of both producers and consumers of creative goods in seventeenth and eighteenth century Amsterdam.
+
+More information can be read on the website of the RKD: https://rkd.nl/en/projects-publications/projects/916-bredius-notes
+
+## Changes/additions
+This repository hold the data coming from the crowdsourcing initative, as well as a script that modifies the data slightly so that it fits in the Golden Agents infrastructure. What is added and changed is the following:
+
+  1. Add a `schema:url` to every `schema:Manuscript` (=index on an excerpt) to the public page of the excerpt, such as <<https://rkd.nl/explore/excerpts/778414>>
+  2. Remove the `schema:additionalType` statement on persons and model their described roles in the excerpts using the `schema:Role` approach, in order to preserve context when these resources are disambiguated.
+  3. Add a thumbnail of the excerpt in a `schema:image` statement to every excerpt.
+  
+## Example
+
+```turtle
+<https://data.rkd.nl/excerpts/780314> a schema:ArchiveComponent,
+        schema:Manuscript ;
+    schema:about [ a schema:Role ;
+            schema:about <https://data.rkd.nl/excerpts/780314/person/IDD0H5DSSR1SCFN1A5DU53OJU1KNT542P0OIQQ00KNCFUGXPBW5HEO> ;
+            schema:name "Isaacq Dellenboom (merchant)"@en,
+                "Isaacq Dellenboom (koopman)"@nl ;
+            schema:roleName <https://data.rkd.nl/thesau/63026> ],
+        [ a schema:Role ;
+            schema:about <https://data.rkd.nl/excerpts/780314/person/IDO0YYBU40NYMTJDBADXGVRMYUUJ1NEKFJLTJG44J0DVUC2ACJKAN> ;
+            schema:name "Pieter van Roon (notary)"@en,
+                "Pieter van Roon (notaris)"@nl ;
+            schema:roleName <https://data.rkd.nl/thesau/65019> ],
+        <https://data.rkd.nl/thesau/3> ;
+    schema:contentReferenceTime [ a schema:StructuredValue ;
+            schema:endDate "1683-08-11"^^xsd:date ;
+            schema:startDate "1683-08-05"^^xsd:date ] ;
+    schema:identifier "0380.226_0021_02.C02",
+        "780314" ;
+    schema:image <https://images.rkd.nl/rkd/thumb/650x650/88d23d6d-d085-f3c2-0d57-536eb25ba9ef.jpg> ;
+    schema:isBasedOn <https://data.rkd.nl/collection/bredius/externalitem/780314> ;
+    schema:isPartOf <https://data.rkd.nl/collections/380> ;
+    schema:url <https://rkd.nl/explore/excerpts/780314> .
+    
+<https://data.rkd.nl/excerpts/780314/person/IDD0H5DSSR1SCFN1A5DU53OJU1KNT542P0OIQQ00KNCFUGXPBW5HEO> a schema:Person ;
+    schema:name "Isaacq Dellenboom" ;
+    schema:subjectOf <https://data.rkd.nl/excerpts/780314> .
+
+<https://data.rkd.nl/excerpts/780314/person/IDO0YYBU40NYMTJDBADXGVRMYUUJ1NEKFJLTJG44J0DVUC2ACJKAN> a schema:Person ;
+    schema:name "Pieter van Roon" ;
+    schema:subjectOf <https://data.rkd.nl/excerpts/780314> .
+
+<https://data.rkd.nl/thesau/3> a schema:Place ;
+    schema:name "The Hague"@en,
+        "Den Haag"@nl .
+
+<https://data.rkd.nl/collection/bredius/externalitem/780314> a schema:CreativeWork ;
+    schema:name "Verbalen"@nl .
+```
+
+## License
+
+## Contact
