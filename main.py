@@ -195,6 +195,6 @@ def getAPI(identifier: str) -> dict:
 if __name__ == '__main__':
 
     FILEPATH = "data/20210721brediusexportgoldenagents.xml"
-    DESTINATION = "data/20210721brediusexportgoldenagents.ttl"
+    DESTINATION = "data/ga_20210721brediusexportgoldenagents.ttl"
 
     main(FILEPATH, DESTINATION)
