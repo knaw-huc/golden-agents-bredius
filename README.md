@@ -1,4 +1,4 @@
-# golden-agents-bredius
+# Golden Agents / RKD - Bredius Notes
 
 Pipeline to transform the RKD's Bredius RDF data to fit in the Golden Agents (https://www.goldenagents.org) infrastructure. 
 
@@ -15,6 +15,8 @@ This repository hold the data coming from the crowdsourcing initative, as well a
   1. Add a `schema:url` to every `schema:Manuscript` (=index on an excerpt) to the public page of the excerpt, such as <<https://rkd.nl/explore/excerpts/778414>>
   2. Remove the `schema:additionalType` statement on persons and model their described roles in the excerpts using the `schema:Role` approach, in order to preserve context when these resources are disambiguated.
   3. Add a thumbnail of the excerpt in a `schema:image` statement to every excerpt.
+  
+The updated RDF in text/turtle (.ttl) can be found here: [ga_20210721brediusexportgoldenagents.ttl](data/ga_20210721brediusexportgoldenagents.ttl)
   
 ## Example
 
@@ -60,4 +62,10 @@ This repository hold the data coming from the crowdsourcing initative, as well a
 
 ## License
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+The original data was created in the Bredius Notes project and is processed by the RKD (https://rkd.nl/en/). The data in this repository is licensed under a Creative Commons Attribution 4.0 International license and can be used freely, as long as you provide attribution to both the Golden Agents Project (e.g. by citation) as well as the RKD (e.g. by linking to individual excerpts on rkd.nl).
+
 ## Contact
+
+More info and questions: https://www.goldenagents.org/about/ or l.vanwissen@uva.nl
