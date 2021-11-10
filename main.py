@@ -3,10 +3,12 @@ Golden Agents RKD Bredius excerpts pipeline.
 
 l.vanwissen@uva.nl
 """
+import time
+import requests
+from json.decoder import JSONDecodeError
 
 import rdflib
 from rdflib import RDF, Namespace, BNode, URIRef, Literal
-import requests
 
 SCHEMA = Namespace("http://schema.org/")
 
@@ -108,10 +110,15 @@ def correctRoles(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
         OPTIONAL {
             ?person schema:additionalType ?additionalType .
 
-            ?additionalType schema:name ?labelEN, ?labelNL .
+            OPTIONAL {
+                ?additionalType schema:name ?labelEN .
+                FILTER(LANG(?labelEN) = 'en')
+            }
 
-            FILTER(LANG(?labelEN) = 'en')
-            FILTER(LANG(?labelNL) = 'nl')
+            OPTIONAL {
+                ?additionalType schema:name ?labelNL .
+                FILTER(LANG(?labelNL) = 'nl')
+            }
         }
     }
     """
@@ -132,10 +139,12 @@ def correctRoles(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
             g.remove((r.person, SCHEMA.additionalType, r.additionalType))
             g.add((roleBnode, SCHEMA.roleName, r.additionalType))
 
-            g.add((roleBnode, SCHEMA.name,
-                   Literal(f"{r.personName} ({r.labelEN})", lang='en')))
-            g.add((roleBnode, SCHEMA.name,
-                   Literal(f"{r.personName} ({r.labelNL})", lang='nl')))
+            if r.labelEN:
+                g.add((roleBnode, SCHEMA.name,
+                       Literal(f"{r.personName} ({r.labelEN})", lang='en')))
+            if r.labelNL:
+                g.add((roleBnode, SCHEMA.name,
+                       Literal(f"{r.personName} ({r.labelNL})", lang='nl')))
         else:
             g.add((roleBnode, SCHEMA.name,
                    Literal(f"{r.personName} (Unknown)", lang='en')))
@@ -164,6 +173,8 @@ def addImages(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
         piref = str(m).rsplit('/', 1)[-1]
 
         data = getAPI(identifier=piref)
+        if not data:
+            continue
         uuids = data["response"]["docs"][0]["picturae_images"]
 
         for uuid in uuids:
@@ -174,12 +185,13 @@ def addImages(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     return g
 
 
-def getAPI(identifier: str) -> dict:
+def getAPI(identifier: str, retry=False) -> dict:
     """
     Fetch the RKD API for a single identifier and return the result as dict.
 
     Args:
         identifier: The excerpt identifier to fetch.
+        retry: Whether to retry the request if the first attempt fails.
 
     Returns:
         The result of the API call as dict.
@@ -188,8 +200,19 @@ def getAPI(identifier: str) -> dict:
     url = f"https://rkd.nl/api/record/excerpts/{identifier}"
     params = {"format": "json"}
 
-    r = requests.get(url, params=params)
-    return r.json()
+    if retry:
+        time.sleep(10)
+
+    try:
+        r = requests.get(url, params=params)
+        return r.json()
+    except JSONDecodeError:
+        if retry:
+            return {}
+        else:
+            return getAPI(identifier, retry=True)
+    except requests.exceptions.ConnectionError:
+        return getAPI(identifier, retry=True)
 
 
 if __name__ == '__main__':
