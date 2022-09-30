@@ -10,7 +10,7 @@ from json.decoder import JSONDecodeError
 import rdflib
 from rdflib import RDF, Namespace, BNode, URIRef, Literal
 
-SCHEMA = Namespace("http://schema.org/")
+SCHEMA = Namespace("https://schema.org/")
 
 
 def main(filepath: str, destination: str) -> None:
@@ -98,7 +98,7 @@ def correctRoles(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     q = """
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-    PREFIX schema: <http://schema.org/>
+    PREFIX schema: <https://schema.org/>
 
     SELECT * WHERE {
         ?manuscript a schema:Manuscript ;
