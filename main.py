@@ -269,6 +269,8 @@ def addImages(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
         data = getAPI(identifier=piref)
         if not data:
             continue
+        elif 'response' not in data:
+            continue
         uuids = data["response"]["docs"][0]["picturae_images"]
 
         for uuid in uuids:
