@@ -33,7 +33,7 @@ def main(filepath: str, destination: str) -> None:
 
     # Save the enriched file
     print("5/5 Saving the graph to a file")
-    g.serialize(destination, format='turtle')
+    g.serialize(destination, format="turtle")
 
 
 def loadRDF(filepath: str) -> rdflib.ConjunctiveGraph:
@@ -48,7 +48,7 @@ def loadRDF(filepath: str) -> rdflib.ConjunctiveGraph:
     """
 
     g = rdflib.ConjunctiveGraph()
-    g.load(filepath)
+    g.parse(filepath)
     return g
 
 
@@ -66,7 +66,7 @@ def addURL(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     manuscripts = g.subjects(RDF.type, SCHEMA.Manuscript)
 
     for m in manuscripts:
-        url = str(m).replace('data.rkd.nl', 'rkd.nl/explore')
+        url = str(m).replace("data.rkd.nl", "rkd.nl/explore")
 
         g.add((m, SCHEMA.url, URIRef(url)))
 
@@ -140,16 +140,36 @@ def correctRoles(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
             g.add((roleBnode, SCHEMA.roleName, r.additionalType))
 
             if r.labelEN:
-                g.add((roleBnode, SCHEMA.name,
-                       Literal(f"{r.personName} ({r.labelEN})", lang='en')))
+                g.add(
+                    (
+                        roleBnode,
+                        SCHEMA.name,
+                        Literal(f"{r.personName} ({r.labelEN})", lang="en"),
+                    )
+                )
             if r.labelNL:
-                g.add((roleBnode, SCHEMA.name,
-                       Literal(f"{r.personName} ({r.labelNL})", lang='nl')))
+                g.add(
+                    (
+                        roleBnode,
+                        SCHEMA.name,
+                        Literal(f"{r.personName} ({r.labelNL})", lang="nl"),
+                    )
+                )
         else:
-            g.add((roleBnode, SCHEMA.name,
-                   Literal(f"{r.personName} (Unknown)", lang='en')))
-            g.add((roleBnode, SCHEMA.name,
-                   Literal(f"{r.personName} (Onbekend)", lang='nl')))
+            g.add(
+                (
+                    roleBnode,
+                    SCHEMA.name,
+                    Literal(f"{r.personName} (Unknown)", lang="en"),
+                )
+            )
+            g.add(
+                (
+                    roleBnode,
+                    SCHEMA.name,
+                    Literal(f"{r.personName} (Onbekend)", lang="nl"),
+                )
+            )
 
     return g
 
@@ -170,7 +190,7 @@ def addImages(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     manuscripts = g.subjects(RDF.type, SCHEMA.Manuscript)
 
     for m in manuscripts:
-        piref = str(m).rsplit('/', 1)[-1]
+        piref = str(m).rsplit("/", 1)[-1]
 
         data = getAPI(identifier=piref)
         if not data:
@@ -178,8 +198,7 @@ def addImages(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
         uuids = data["response"]["docs"][0]["picturae_images"]
 
         for uuid in uuids:
-            image = URIRef(
-                f"https://images.rkd.nl/rkd/thumb/650x650/{uuid}.jpg")
+            image = URIRef(f"https://images.rkd.nl/rkd/thumb/650x650/{uuid}.jpg")
             g.add((m, SCHEMA.image, image))
 
     return g
@@ -215,9 +234,10 @@ def getAPI(identifier: str, retry=False) -> dict:
         return getAPI(identifier, retry=True)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
-    FILEPATH = "data/20210721brediusexportgoldenagents.xml"
+    FILEPATH = "data/20220926_BrediusExportVolledig.xml"
+    # FILEPATH = "data/20210721brediusexportgoldenagents.xml"
     DESTINATION = "data/ga_20210721brediusexportgoldenagents.ttl"
 
     main(FILEPATH, DESTINATION)
