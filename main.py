@@ -11,18 +11,20 @@ from isodate import parse_date
 import rdflib
 from rdflib import RDF, Namespace, BNode, URIRef, Literal
 
+from typing import Union
+
 SCHEMA = Namespace("https://schema.org/")
 
 
-def main(filepath: str, destination: str, thesaurusfile: str = "") -> None:
+def main(filepath: str, thesaurusfile: str, destination: str) -> None:
 
     # Load the file from the RKD, and load the thesaurus (in SKOS) separately
     print("1/7 Loading the file(s) into a memory store graph")
-    g = loadRDF(filepath, thesaurusfile)
+    g, gThes = loadRDF(filepath, thesaurusfile)
 
     # Remove all the wrong labels from the thesaurus entries
     print("2/7 Removing all the thesaurus labels")
-    g = removeLabels(g)
+    g = removeLabels(g, gThes)
 
     # Add a URL of the RKD website to the resources
     print("3/7 Adding the URL to the public permalink")
@@ -30,22 +32,31 @@ def main(filepath: str, destination: str, thesaurusfile: str = "") -> None:
 
     # Correct the roles to schema.Role objects
     print("4/7 Correcting the schema:additionalType statements")
-    g = correctRoles(g)
+    g = correctRoles(g, gThes)
 
     # Add depictions to experpts from RKD API
     print("5/7 Adding a URI of a thumbnail")
     g = addImages(g)
 
-    # Find incorrect dates
+    # Find incorrect dates and empty URI
     print("6/7 Get a list of incorrectly formatted dates and remove these")
-    g = fixDates(g)
+    g = fixDatesURI(g)
 
     # Save the enriched/corrected file
-    print("7/7 Saving the graph to a file")
-    g.serialize(destination, format="turtle")
+    print("7/7 Saving the (skolemized) graph to a file")
+
+    # Skolemize BNodes
+    g = g.skolemize(
+        new_graph=rdflib.Graph(identifier=g.identifier),
+        authority="https://data.goldenagents.org/",
+        basepath=rdflib.term.skolem_genid,
+    )
+
+    g.bind("schema", SCHEMA)
+    g.serialize(destination, format="trig")
 
 
-def loadRDF(filepath: str, thesauruspath: str = "") -> rdflib.ConjunctiveGraph:
+def loadRDF(filepath: str, thesauruspath: str) -> Union[rdflib.Graph, rdflib.Graph]:
     """
     Load in the RDF file (in RDF/XML) and return a graph object.
 
@@ -57,26 +68,31 @@ def loadRDF(filepath: str, thesauruspath: str = "") -> rdflib.ConjunctiveGraph:
         A graph object.
     """
 
-    g = rdflib.ConjunctiveGraph()
+    g = rdflib.Graph(identifier="https://data.goldenagents.org/datasets/bredius/")
 
     g.parse(filepath)
 
-    if thesauruspath:
-        g.parse(thesauruspath)
+    gThes = rdflib.Graph(identifier="https://data.rkd.nl/thesaurus/").parse(
+        thesauruspath
+    )
 
-    return g
+    return g, gThes
 
 
-def removeLabels(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
+def removeLabels(g: rdflib.Graph, gThes: rdflib.Graph) -> rdflib.Graph:
     """
     Due to a quirk in Adlib and the export and conversion script
     the thesaurus references have gotten multiple schema:name entries.
     A URI such as <https://data.rkd.nl/thesaurus/6> not only has the
     name "painter", but also has 100+ other names that are incorrect.
-    In this function we remove these labels, since we have converted the RKD thesaurus separately. The name of the role of the
+
+    In this function we remove these labels, since we have converted
+    the RKD thesaurus separately. The name of the role of the person's
+    context is added back as label of a `schema:Role` instance.
 
     Args:
         g: The graph object.
+        gThes: Thesaurus graph object.
 
     Returns:
         The graph object without thesaurus labels.
@@ -106,7 +122,10 @@ def removeLabels(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     }
     """
 
-    results = g.query(q)
+    # Let's combine the graphs, so we can query them together.
+    cg = g + gThes
+
+    results = cg.query(q)
 
     for r in results:
 
@@ -115,15 +134,15 @@ def removeLabels(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
 
         # Add back the right ones to stick to the schema vocabulary
         if r.labelEN:
-            g.add((r.thesaurus, SCHEMA.name, Literal(r.labelEN, lang="en")))
+            g.add((r.thesaurus, SCHEMA.name, r.labelEN))
 
         if r.labelNL:
-            g.add((r.thesaurus, SCHEMA.name, Literal(r.labelNL, lang="nl")))
+            g.add((r.thesaurus, SCHEMA.name, r.labelNL))
 
     return g
 
 
-def addURL(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
+def addURL(g: rdflib.Graph) -> rdflib.Graph:
     """
     Add a URL to the public permalink of the RKD website to each manuscript resource.
 
@@ -144,7 +163,7 @@ def addURL(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     return g
 
 
-def correctRoles(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
+def correctRoles(g: rdflib.Graph, gThes: rdflib.Graph) -> rdflib.Graph:
     """
     Transform the schema:additionalType statements for each schema:Person to
     a schema:Role object. For consistency, also do this when there is no
@@ -195,11 +214,12 @@ def correctRoles(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     }
     """
 
-    results = g.query(q)
+    # Let's combine the graphs, so we can query them together.
+    cg = g + gThes
+
+    results = cg.query(q)
 
     for r in results:
-
-        print(r.additionalType)
 
         g.remove((r.manuscript, SCHEMA.about, r.person))
 
@@ -248,7 +268,7 @@ def correctRoles(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
     return g
 
 
-def addImages(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
+def addImages(g: rdflib.Graph) -> rdflib.Graph:
     """
     Add a URI of a thumbnail as depiction to each manuscript resource. Uses the
     RKD API to fetch the uuid of the image. Images are modelled in a schema:image
@@ -269,7 +289,7 @@ def addImages(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
         data = getAPI(identifier=piref)
         if not data:
             continue
-        elif 'response' not in data:
+        elif "response" not in data:
             continue
         uuids = data["response"]["docs"][0]["picturae_images"]
 
@@ -310,11 +330,11 @@ def getAPI(identifier: str, retry=False) -> dict:
         return getAPI(identifier, retry=True)
 
 
-def fixDates(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
+def fixDatesURI(g: rdflib.Graph) -> rdflib.Graph:
     """
-    Find and remove any incorrectly formatted dates that make a
-    triplestore crash. This function prints the excerpt URI and
-    the date to the console.
+    Remove the empty URI and find and remove any incorrectly formatted
+    dates that make a triplestore crash. This function prints the 
+    excerpt URI and the date to the console.
 
     Args:
         g: The graph object.
@@ -323,10 +343,21 @@ def fixDates(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
         The graph object without the incorrect dates
     """
 
+    # Remove <https://data.rkd.nl/thesaurus/> URI
+    triplesObject = g.subject_predicates(URIRef("https://data.rkd.nl/thesaurus/"))
+    triplesSubject = g.predicate_objects(URIRef("https://data.rkd.nl/thesaurus/"))
+
+    for s, p in triplesObject:
+        g.remove((s, p, URIRef("https://data.rkd.nl/thesaurus/")))
+
+    for p, o in triplesSubject:
+        g.remove((URIRef("https://data.rkd.nl/thesaurus/"), p, o))
+
+    # Remove dates
     q = """
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-    PREFIX schema: <http://schema.org/>
+    PREFIX schema: <https://schema.org/>
     PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     SELECT * WHERE { 
 
@@ -338,7 +369,6 @@ def fixDates(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
 
     }
     """
-
     results = g.query(q)
 
     for r in results:
@@ -346,7 +376,7 @@ def fixDates(g: rdflib.ConjunctiveGraph) -> rdflib.ConjunctiveGraph:
             parse_date(r.literal)
         except ValueError:
             print(r.excerpt, r.literal)
-            g.remove((r.subject, r.predicate, r.literal))
+            g.remove((r.sub, r.pred, r.literal))
 
     return g
 
@@ -356,6 +386,6 @@ if __name__ == "__main__":
     FILEPATH = "data/20220926_BrediusExportVolledig.xml"
     THESAURUSPATH = "data/rkdthesaurus.trig"
     # FILEPATH = "data/20210721brediusexportgoldenagents.xml"
-    DESTINATION = "data/ga_20220926_BrediusExportVolledig.ttl"
+    DESTINATION = "data/ga_20220926_BrediusExportVolledig.trig"
 
-    main(FILEPATH, DESTINATION)
+    main(FILEPATH, THESAURUSPATH, DESTINATION)
