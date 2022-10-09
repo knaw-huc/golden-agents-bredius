@@ -11,6 +11,8 @@ Pipeline to transform the RKD's Bredius RDF data to fit in the [Golden Agents](h
   - [Data](#data)
     - [Changes/additions](#changesadditions)
     - [Example](#example)
+  - [Enrichments](#enrichments)
+    - [Reconciliation with notaries](#reconciliation-with-notaries)
   - [Linksets / Reconciliation](#linksets--reconciliation)
   - [License](#license)
   - [Contact](#contact)
@@ -28,47 +30,74 @@ More information on the notes and the crowdsourcing project can be read on the w
 
 ## Data
 ### Changes/additions
-This repository hold the data coming from the crowdsourcing initative, as well as a script that modifies the data slightly so that it fits in the Golden Agents infrastructure. What is added and changed is the following:
+This repository hold the data coming from the crowdsourcing initative, as well as a script that modifies the data slightly so that it fits in the Golden Agents infrastructure. What is added and changed is the following (through `main.py`):
 
   1. Add a `schema:url` to every `schema:Manuscript` (=index on an excerpt) to the public page of the excerpt, such as <<https://rkd.nl/explore/excerpts/778414>>
   2. Remove the `schema:additionalType` statement on persons and model their described roles in the excerpts using the `schema:Role` approach, in order to preserve context when these resources are disambiguated.
   3. Add a thumbnail of the excerpt in a `schema:image` statement to every excerpt.
+  4. Remove faulty labels from all thesaurus entries and replace them with the right ones. A full extract of the RKD Thesaurus is used for this. Also, incorrect URIs and dates are removed.
+  5. Blank nodes are skolemized and all triples are packed inside a named graph. 
   
-The updated RDF in text/turtle (.ttl) can be found here: [ga_20210721brediusexportgoldenagents.ttl](data/ga_20210721brediusexportgoldenagents.ttl)
+The updated RDF in application/trig (.trig) can be found here: [ga_20220926_BrediusExportVolledig.trig](data/ga_20220926_BrediusExportVolledig.trig)
   
 ### Example
 
 ```turtle
 <https://data.rkd.nl/excerpts/780314> a schema:ArchiveComponent,
         schema:Manuscript ;
-    schema:about [ a schema:Role ;
-            schema:about <https://data.rkd.nl/excerpts/780314/person/IDD0H5DSSR1SCFN1A5DU53OJU1KNT542P0OIQQ00KNCFUGXPBW5HEO> ;
-            schema:name "Isaacq Dellenboom (merchant)"@en,
-                "Isaacq Dellenboom (koopman)"@nl ;
-            schema:roleName <https://data.rkd.nl/thesau/63026> ],
-        [ a schema:Role ;
-            schema:about <https://data.rkd.nl/excerpts/780314/person/IDO0YYBU40NYMTJDBADXGVRMYUUJ1NEKFJLTJG44J0DVUC2ACJKAN> ;
-            schema:name "Pieter van Roon (notary)"@en,
-                "Pieter van Roon (notaris)"@nl ;
-            schema:roleName <https://data.rkd.nl/thesau/65019> ],
-        <https://data.rkd.nl/thesau/3> ;
-    schema:contentReferenceTime [ a schema:StructuredValue ;
-            schema:endDate "1683-08-11"^^xsd:date ;
-            schema:startDate "1683-08-05"^^xsd:date ] ;
+    schema:about <https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31163>,
+        <https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31164>,
+        <https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31165>,
+        <https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31166>,
+        <https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31167>,
+        <https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31168>,
+        <https://data.rkd.nl/thesaurus/3> ;
+    schema:contentReferenceTime <https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31169> ;
     schema:identifier "0380.226_0021_02.C02",
         "780314" ;
     schema:image <https://images.rkd.nl/rkd/thumb/650x650/88d23d6d-d085-f3c2-0d57-536eb25ba9ef.jpg> ;
     schema:isBasedOn <https://data.rkd.nl/collection/bredius/externalitem/780314> ;
     schema:isPartOf <https://data.rkd.nl/collections/380> ;
+    schema:keywords <https://data.rkd.nl/thesaurus/96194> ;
     schema:url <https://rkd.nl/explore/excerpts/780314> .
-    
-<https://data.rkd.nl/excerpts/780314/person/IDD0H5DSSR1SCFN1A5DU53OJU1KNT542P0OIQQ00KNCFUGXPBW5HEO> a schema:Person ;
-    schema:name "Isaacq Dellenboom" ;
-    schema:subjectOf <https://data.rkd.nl/excerpts/780314> .
 
-<https://data.rkd.nl/excerpts/780314/person/IDO0YYBU40NYMTJDBADXGVRMYUUJ1NEKFJLTJG44J0DVUC2ACJKAN> a schema:Person ;
-    schema:name "Pieter van Roon" ;
-    schema:subjectOf <https://data.rkd.nl/excerpts/780314> .
+<https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31163> a schema:Role ;
+    schema:about <https://data.rkd.nl/excerpts/780314/person/IDGCWSF2ZQJ5SHHYQ0NYIENHIG3PPXKM5P1UWFM3MXI42O4MBFRRON> ;
+    schema:name "Adriaen Doncker (medicus)"@en,
+        "Adriaen Doncker (medicus)"@nl ;
+    schema:roleName <https://data.rkd.nl/thesaurus/84550> .
+
+<https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31164> a schema:Role ;
+    schema:about <https://data.rkd.nl/excerpts/780314/person/IDTZORYOQQYDKNCQOCZFSNULZECI5YWUQ2HB51BJPHOMEV3KOXN0FH> ;
+    schema:name "Anthoni de Haen (Unknown)"@en,
+        "Anthoni de Haen (Onbekend)"@nl .
+
+<https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31165> a schema:Role ;
+    schema:about <https://data.rkd.nl/excerpts/780314/person/IDA2IH1LBVCH2QGCLYMGJEFQK3ZJEO0UKJN2EDAZG1AESUSMXCNRWM> ;
+    schema:name "Isaacq Dellenboom (merchant)"@en,
+        "Isaacq Dellenboom (koopman)"@nl ;
+    schema:roleName <https://data.rkd.nl/thesaurus/63026> .
+
+<https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31166> a schema:Role ;
+    schema:about <https://data.rkd.nl/excerpts/780314/person/IDISZQO4AOGGJSLZIBA5OMUYKMGFSA1QZ2AC4S4VDR5RB2YRMFOBNJ> ;
+    schema:name "Dina de Haen (requirant (no translation))"@en,
+        "Dina de Haen (requirant)"@nl ;
+    schema:roleName <https://data.rkd.nl/thesaurus/96280> .
+
+<https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31167> a schema:Role ;
+    schema:about <https://data.rkd.nl/excerpts/780314/person/ID4OWCJJU0QBX4MITDBHNDXORGNIN3YE2BPWT3CGMDD2IXKRCJNACI> ;
+    schema:name "Pieter van Roon (notary)"@en,
+        "Pieter van Roon (notaris)"@nl ;
+    schema:roleName <https://data.rkd.nl/thesaurus/65019> .
+
+<https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31168> a schema:Role ;
+    schema:about <https://data.rkd.nl/excerpts/780314/person/IDQWJGJDW5CXXMPQTVMCCQY5FILIKO0KV4WPXLBWKY4NK5KHTB211C> ;
+    schema:name "Seger van der Maes (Unknown)"@en,
+        "Seger van der Maes (Onbekend)"@nl .
+
+<https://data.goldenagents.org/.well-known/genid/nbe4b578062e24d088ebe0290c9140592b31169> a schema:StructuredValue ;
+    schema:endDate "1683-08-11"^^xsd:date ;
+    schema:startDate "1683-08-05"^^xsd:date .
 
 <https://data.rkd.nl/thesau/3> a schema:Place ;
     schema:name "The Hague"@en,
@@ -77,6 +106,34 @@ The updated RDF in text/turtle (.ttl) can be found here: [ga_20210721brediusexpo
 <https://data.rkd.nl/collection/bredius/externalitem/780314> a schema:CreativeWork ;
     schema:name "Verbalen"@nl .
 ```
+
+## Enrichments 
+
+### Reconciliation with notaries
+
+We select all excerpts from which we think that they are based on deeds from the Amsterdam Notarial Archive by filtering on (1) mentioned place `Amsterdam`, and (2) the name of the external document that contains the prefix `Overige vindplaatsen: Notarieel Archief, notaris `:
+
+```SPARQL
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+SELECT ?excerpt ?name WHERE {
+  ?excerpt a schema:Manuscript ;
+    schema:about <https://data.rkd.nl/thesaurus/29> ; # Amsterdam
+    schema:isBasedOn ?saa_deed .
+  
+  ?saa_deed a schema:CreativeWork ;
+    schema:name ?deed_label .
+  
+  FILTER(CONTAINS(?deed_label, 'Overige vindplaatsen: Notarieel Archief, notaris '))
+  
+  BIND(STRAFTER(?deed_label, 'Overige vindplaatsen: Notarieel Archief, notaris ') AS ?notary_name)
+  
+} ORDER BY ?name
+```
+
+These are linked to their respective notary in the Notarissennetwerk (https://notarissennetwerk.nl/) in [`excerpt2notary.csv`](notaries/excerpt2notary.csv) and transformed into a linkset using the `schema:author` property in [`linkset_excerpt2notary.trig`](notaries/linkset_excerpt2notary.trig).
+
 
 ## Linksets / Reconciliation
 WIP
