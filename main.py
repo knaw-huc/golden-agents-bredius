@@ -139,6 +139,9 @@ def removeLabels(g: rdflib.Graph, gThes: rdflib.Graph) -> rdflib.Graph:
         if r.labelNL:
             g.add((r.thesaurus, SCHEMA.name, r.labelNL))
 
+        # And insert a type as well in the schema vocab (this doesn't hurt)
+        g.add((r.thesaurus, RDF.type, SCHEMA.DefinedTerm))
+
     return g
 
 
