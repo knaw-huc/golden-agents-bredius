@@ -44,15 +44,18 @@ def main(infile: str, outfile: str, brediusdata: str):
 
     g = Graph(identifier="https://data.goldenagents.org/datasets/bredius/")
 
-    brediuscollection = Resource(
-        g, URIRef("https://rkd.nl/explore/archives/details/NL-HaRKD-0380")
-    )
+    brediuscollection = Resource(g, URIRef("https://data.rkd.nl/collections/380"))
     brediuscollection.add(RDF.type, SDO.ArchiveComponent)
+    brediuscollection.add(RDF.type, SDO.Collection)
     brediuscollection.add(SDO.name, Literal("Archief Abraham Bredius", lang="nl"))
     brediuscollection.add(SDO.temporalCoverage, Literal("1616/1940"))
     brediuscollection.add(SDO.size, Literal("7.5M"))
     brediuscollection.add(SDO.holdingArchive, URIRef("https://rkd.nl/"))
     brediuscollection.add(SDO.creator, URIRef("https://rkd.nl/explore/artists/338895"))
+    brediuscollection.add(SDO.identifier, Literal("NL-HaRKD.0380"))
+    brediuscollection.add(
+        SDO.url, URIRef("https://rkd.nl/explore/archives/details/NL-HaRKD-0380")
+    )
 
     org = Resource(g, URIRef("https://rkd.nl/"))
     org.add(RDF.type, SDO.Organization)

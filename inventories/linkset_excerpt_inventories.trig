@@ -28444,7 +28444,7 @@
     <https://rkd.nl/explore/archives/file/110290161> a schema:ArchiveComponent ;
         schema:hasPart <https://rkd.nl/explore/archives/file/110433053> ;
         schema:identifier "0380.L" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Annex"@nl .
 
     <https://rkd.nl/explore/archives/file/110431829> a schema:ArchiveComponent ;
@@ -29943,7 +29943,7 @@
         schema:hasPart <https://rkd.nl/explore/archives/file/110433018>,
             <https://rkd.nl/explore/archives/file/110433049> ;
         schema:identifier "0380.K" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Correspondentie"@nl .
 
     <https://rkd.nl/explore/archives/file/110431862> a schema:ArchiveComponent ;
@@ -30229,7 +30229,7 @@
             <https://rkd.nl/explore/archives/file/110433013>,
             <https://rkd.nl/explore/archives/file/110433014> ;
         schema:identifier "0380.J" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Biografische stukken en eigen collectie"@nl .
 
     <https://rkd.nl/explore/archives/file/110431853> a schema:ArchiveComponent ;
@@ -30752,7 +30752,7 @@
             <https://rkd.nl/explore/archives/file/110432681>,
             <https://rkd.nl/explore/archives/file/110432682> ;
         schema:identifier "0380.C" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Aantekeningen steden"@nl .
 
     <https://rkd.nl/explore/archives/file/110431937> a schema:ArchiveComponent ;
@@ -31521,7 +31521,7 @@
             <https://rkd.nl/explore/archives/file/110432939>,
             <https://rkd.nl/explore/archives/file/110432940> ;
         schema:identifier "0380.G" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Aantekeningen betreffende diverse kunstambachten en overige beroepen"@nl .
 
     <https://rkd.nl/explore/archives/file/110431836> a schema:ArchiveComponent ;
@@ -31779,7 +31779,8 @@
         schema:isPartOf <https://rkd.nl/explore/archives/file/110290153> ;
         schema:name "R"@nl .
 
-    <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> a schema:ArchiveComponent ;
+    <https://data.rkd.nl/collections/380> a schema:ArchiveComponent,
+            schema:Collection ;
         schema:creator <https://rkd.nl/explore/artists/338895> ;
         schema:hasPart <https://rkd.nl/explore/archives/file/110290150>,
             <https://rkd.nl/explore/archives/file/110290151>,
@@ -31794,9 +31795,11 @@
             <https://rkd.nl/explore/archives/file/110290160>,
             <https://rkd.nl/explore/archives/file/110290161> ;
         schema:holdingArchive <https://rkd.nl/> ;
+        schema:identifier "NL-HaRKD.0380" ;
         schema:name "Archief Abraham Bredius"@nl ;
         schema:size "7.5M" ;
-        schema:temporalCoverage "1616/1940" .
+        schema:temporalCoverage "1616/1940" ;
+        schema:url <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> .
 
     <https://rkd.nl/explore/archives/file/110290158> a schema:ArchiveComponent ;
         schema:hasPart <https://rkd.nl/explore/archives/file/110432998>,
@@ -31811,7 +31814,7 @@
             <https://rkd.nl/explore/archives/file/110433007>,
             <https://rkd.nl/explore/archives/file/110433008> ;
         schema:identifier "0380.I" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Overige aantekeningen"@nl .
 
     <https://rkd.nl/explore/archives/file/110431864> a schema:ArchiveComponent ;
@@ -33267,7 +33270,7 @@
             <https://rkd.nl/explore/archives/file/110432929>,
             <https://rkd.nl/explore/archives/file/110432930> ;
         schema:identifier "0380.F" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Manuscripten en drukproeven van publicaties met bijbehorende aantekeningen"@nl .
 
     <https://rkd.nl/explore/archives/file/110431832> a schema:ArchiveComponent ;
@@ -33598,7 +33601,7 @@
             <https://rkd.nl/explore/archives/file/110432851>,
             <https://rkd.nl/explore/archives/file/110432861> ;
         schema:identifier "0380.D" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Aantekeningen en manuscripten voor de rubriek 'Archiefsprokkelingen' in tijdschrift 'Oud Holland'"@nl .
 
     <https://rkd.nl/explore/archives/file/110431885> a schema:ArchiveComponent ;
@@ -34022,7 +34025,7 @@
             <https://rkd.nl/explore/archives/file/110432380>,
             <https://rkd.nl/explore/archives/file/110432438> ;
         schema:identifier "0380.A" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Aantekeningen Schilders"@nl .
 
     <https://rkd.nl/explore/archives/file/110431844> a schema:ArchiveComponent ;
@@ -35102,7 +35105,7 @@
             <https://rkd.nl/explore/archives/file/110432655>,
             <https://rkd.nl/explore/archives/file/110432660> ;
         schema:identifier "0380.B" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Aantekeningen 'Steden A-Z'"@nl .
 
     <https://rkd.nl/explore/archives/file/110431842> a schema:ArchiveComponent ;
@@ -36768,7 +36771,7 @@
             <https://rkd.nl/explore/archives/file/110432909>,
             <https://rkd.nl/explore/archives/file/110432910> ;
         schema:identifier "0380.E" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Aantekeningen voor 'Kuenstler-Inventare' betreffende de periode 1611-1810"@nl .
 
     <https://rkd.nl/explore/archives/file/110432233> a schema:ArchiveComponent ;
@@ -39850,7 +39853,7 @@
             <https://rkd.nl/explore/archives/file/110432996>,
             <https://rkd.nl/explore/archives/file/110432997> ;
         schema:identifier "0380.H" ;
-        schema:isPartOf <https://rkd.nl/explore/archives/details/NL-HaRKD-0380> ;
+        schema:isPartOf <https://data.rkd.nl/collections/380> ;
         schema:name "Aantekeningen over kunstwerken in Nederlandse en buitenlandse museum- en privecollecties en op veilingen"@nl .
 
     <https://rkd.nl/explore/archives/file/110432380> a schema:ArchiveComponent ;
