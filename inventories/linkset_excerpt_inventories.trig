@@ -22236,8 +22236,7 @@
     <https://data.rkd.nl/excerpts/788681> schema:isPartOf <https://rkd.nl/explore/archives/file/110432506> .
 
     <https://rkd.nl/> a schema:Organization ;
-        schema:name "Abraham Bredius",
-            "RKD – Netherlands Institute for Art History"@en,
+        schema:name "RKD – Netherlands Institute for Art History"@en,
             "RKD – Nederlands Instituut voor Kunstgeschiedenis"@nl .
 
     <https://rkd.nl/explore/archives/file/110432096> a schema:ArchiveComponent ;
@@ -25747,7 +25746,8 @@
         schema:name "Backer, Adriaen" ;
         schema:subjectOf <https://rkd.nl/explore/archives/file/110431842> .
 
-    <https://rkd.nl/explore/artists/338895> a schema:Person .
+    <https://rkd.nl/explore/artists/338895> a schema:Person ;
+        schema:name "Abraham Bredius" .
 
     <https://rkd.nl/explore/artists/339717> a schema:Person ;
         schema:name "Mele, Matthias de" ;

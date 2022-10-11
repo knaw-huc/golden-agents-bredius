@@ -67,7 +67,7 @@ def main(infile: str, outfile: str, brediusdata: str):
 
     pers = Resource(g, URIRef("https://rkd.nl/explore/artists/338895"))
     pers.add(RDF.type, SDO.Person)
-    org.add(
+    pers.add(
         SDO.name, Literal("Abraham Bredius"),
     )
 
