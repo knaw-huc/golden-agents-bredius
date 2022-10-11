@@ -6,6 +6,7 @@ from rdflib.resource import Resource
 
 from typing import Union
 
+
 def main(infile: str, outfile: str, brediusdata: str):
     """
     Convert a json with EAD data into an RDF file in `schema.org`.
@@ -43,9 +44,36 @@ def main(infile: str, outfile: str, brediusdata: str):
 
     g = Graph(identifier="https://data.goldenagents.org/datasets/bredius/")
 
+    brediuscollection = Resource(
+        g, URIRef("https://rkd.nl/explore/archives/details/NL-HaRKD-0380")
+    )
+    brediuscollection.add(RDF.type, SDO.ArchiveComponent)
+    brediuscollection.add(SDO.name, Literal("Archief Abraham Bredius", lang="nl"))
+    brediuscollection.add(SDO.temporalCoverage, Literal("1616/1940"))
+    brediuscollection.add(SDO.size, Literal("7.5M"))
+    brediuscollection.add(SDO.holdingArchive, URIRef("https://rkd.nl/"))
+    brediuscollection.add(SDO.creator, URIRef("https://rkd.nl/explore/artists/338895"))
+
+    org = Resource(g, URIRef("https://rkd.nl/"))
+    org.add(RDF.type, SDO.Organization)
+    org.add(
+        SDO.name,
+        Literal("RKD – Nederlands Instituut voor Kunstgeschiedenis", lang="nl"),
+    )
+    org.add(SDO.name, Literal("RKD – Netherlands Institute for Art History", lang="en"))
+
+    pers = Resource(g, URIRef("https://rkd.nl/explore/artists/338895"))
+    pers.add(RDF.type, SDO.Person)
+    org.add(
+        SDO.name, Literal("Abraham Bredius"),
+    )
+
     for d in data["Collection"]:
 
         r, g = getResource(d, g)
+
+        brediuscollection.add(SDO.hasPart, r.identifier)
+        r.add(SDO.isPartOf, brediuscollection.identifier)
 
     g = getExcerpts(brediusdata, g)
 
@@ -53,7 +81,9 @@ def main(infile: str, outfile: str, brediusdata: str):
     g.serialize(outfile, format="trig")
 
 
-def getResource(d: dict, g: rdflib.Graph) -> Union[rdflib.resource.Resource, rdflib.Graph]:
+def getResource(
+    d: dict, g: rdflib.Graph
+) -> Union[rdflib.resource.Resource, rdflib.Graph]:
     """
     Parse an individual object from the JSON EAD.
 

@@ -13,6 +13,7 @@ Pipeline to transform the RKD's Bredius RDF data to fit in the [Golden Agents](h
     - [Example](#example)
   - [Enrichments](#enrichments)
     - [Reconciliation with notaries](#reconciliation-with-notaries)
+    - [Reconciliation with inventories](#reconciliation-with-inventories)
   - [Linksets / Reconciliation](#linksets--reconciliation)
   - [License](#license)
   - [Contact](#contact)
@@ -134,6 +135,9 @@ SELECT ?excerpt ?name WHERE {
 
 These are linked to their respective notary in the Notarissennetwerk (https://notarissennetwerk.nl/) in [`excerpt2notary.csv`](notaries/excerpt2notary.csv) and transformed into a linkset using the `schema:author` property in [`linkset_excerpt2notary.trig`](notaries/linkset_excerpt2notary.trig).
 
+### Reconciliation with inventories
+
+We link the excerpts to the inventories they came from. These are described seperately in the EAD of collection 'Archief Abraham Bredius' (https://rkd.nl/explore/archives/details/NL-HaRKD-0380). See [`linkset_excerpt_inventories.trig`](inventories/linkset_excerpt_inventories.trig).
 
 ## Linksets / Reconciliation
 WIP
