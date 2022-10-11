@@ -4587,6 +4587,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785477> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1977> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/785482> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1884> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/785483> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785485> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
@@ -7399,9 +7401,6 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1861> a schema:Person ;
         schema:name "Jan Cornelisz. Hoogeboom" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1884> a schema:Person ;
-        schema:name "Alweijn de Jager" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1913> a schema:Person ;
         schema:name "Jacob Lansman" .
 
@@ -7455,6 +7454,9 @@
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1852> a schema:Person ;
         schema:name "Godert van Hille" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1884> a schema:Person ;
+        schema:name "Alweijn de Jager" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1991> a schema:Person ;
         schema:name "Leonard Noblet" .
