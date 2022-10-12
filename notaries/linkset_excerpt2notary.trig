@@ -47,6 +47,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/777599> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2193> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/777600> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/777601> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/777606> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
@@ -172,8 +174,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/777739> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2095> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/777740> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1930> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/777742> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1814> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/777745> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2216> .
 
@@ -475,8 +475,6 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/778330> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2100> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/778353> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/778354> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/778358> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
@@ -537,13 +535,19 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/778403> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2077> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/778404> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/778405> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1623> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/778407> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/778411> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2211> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/778418> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/778443> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2134> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/778446> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/778450> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1971> .
 
@@ -707,6 +711,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/778937> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2150> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/778941> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/778942> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2049> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/778943> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2130> .
@@ -823,6 +829,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779111> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2018> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779112> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779114> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779115> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2064> .
@@ -834,6 +842,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/779122> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2193> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779123> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1833> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779127> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779132> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2148> .
 
@@ -853,11 +863,15 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779163> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1615> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779164> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779165> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1884> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779166> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2007> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779167> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1615> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779168> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779169> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1615> .
 
@@ -873,6 +887,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779177> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1813> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779181> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779183> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1853> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779184> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1990> .
@@ -880,6 +896,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/779188> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1990> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779191> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1615> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779195> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779196> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2007> .
 
@@ -890,8 +908,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/779199> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1615> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779200> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2026> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/779203> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779204> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2058> .
 
@@ -961,6 +977,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779294> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2130> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779295> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779296> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779297> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1954> .
@@ -969,11 +987,15 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779299> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1954> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779300> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779301> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1990> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779302> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1656> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779305> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1815> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779307> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1685> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779308> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
@@ -1014,6 +1036,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/779334> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1844> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779335> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2101> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779336> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1845> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779337> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1975> .
 
@@ -1139,8 +1163,6 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779522> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2049> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/779525> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1917> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/779529> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2226> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779534> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1928> .
@@ -1158,10 +1180,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/779544> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2117> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779549> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/779550> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1812> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/779551> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1812> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779556> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1933> .
 
@@ -1200,6 +1218,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/779620> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779621> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779627> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779628> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2074> .
 
@@ -1251,15 +1271,23 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779682> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779683> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779684> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2012> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779686> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1656> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779687> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779688> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779689> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779690> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1854> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779718> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779723> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779759> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1657> .
 
@@ -1326,6 +1354,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/779823> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779824> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779825> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779828> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2193> .
 
@@ -1445,6 +1475,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779928> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2103> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779929> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779947> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1756> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779948> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1756> .
@@ -1459,9 +1491,13 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/779956> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1756> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/779982> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/779983> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1999> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779985> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1945> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/779986> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/779988> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2049> .
 
@@ -1502,6 +1538,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/780183> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1883> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780189> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/780210> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780211> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1619> .
 
@@ -1589,6 +1627,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/780349> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2217> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/780353> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/780354> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2153> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780355> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
@@ -1597,11 +1637,17 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/780359> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1922> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/780361> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/780362> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780364> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/780366> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/780367> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1854> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/780370> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780371> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2022> .
 
@@ -1619,9 +1665,13 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/780397> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/780417> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/780420> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2077> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780423> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1651> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/780427> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780446> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
@@ -1799,6 +1849,10 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/780707> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1946> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/780708> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/780709> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/780710> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1724> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780711> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> .
@@ -1830,6 +1884,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/780732> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2198> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780733> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1651> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/780734> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780735> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1841> .
 
@@ -1865,6 +1921,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/780786> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2134> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/780787> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/780788> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2049> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780789> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2211> .
@@ -1882,6 +1940,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/780798> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1955> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780803> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1946> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/780804> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780805> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1946> .
 
@@ -1902,6 +1962,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/780825> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780826> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/780827> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780828> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1682> .
 
@@ -1989,6 +2051,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/780992> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2187> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/780995> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/780996> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1616> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/780998> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2211> .
@@ -2026,8 +2090,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/781020> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1846> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781021> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1816> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/781026> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2076> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781031> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2076> .
 
@@ -2141,6 +2203,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781117> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1975> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/781119> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2207> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/781120> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1932> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781121> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1923> .
@@ -2155,15 +2219,11 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781127> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1878> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/781129> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1878> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/781130> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2077> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781131> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1770> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781133> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/781134> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2105> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781139> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1884> .
 
@@ -2359,11 +2419,15 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781435> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1971> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/781437> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1619> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/781438> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1657> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781442> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1971> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/781444> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/781445> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/781446> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781448> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> .
 
@@ -2381,11 +2445,7 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781463> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1615> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/781464> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/781472> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1616> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/781473> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1616> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781475> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1616> .
 
@@ -2551,6 +2611,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781668> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1619> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/781670> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/781671> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2194> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781672> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2198> .
@@ -2562,6 +2624,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/781678> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781679> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/781682> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781686> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1700> .
 
@@ -2599,11 +2663,15 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781738> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/781740> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/781741> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781743> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1928> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781744> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1861> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/781747> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781750> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
@@ -2733,9 +2801,13 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781912> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1839> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/781913> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1751> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/781914> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2098> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781917> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2064> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/781918> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1751> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781922> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1619> .
 
@@ -2757,6 +2829,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/781941> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/781943> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/781944> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1812> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781946> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1971> .
@@ -2768,6 +2842,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/781958> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2077> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781960> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1793> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/781961> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/781962> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1619> .
 
@@ -2820,8 +2896,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/782011> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1932> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782015> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1981> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/782016> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1981> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782031> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1658> .
 
@@ -2945,8 +3019,6 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/782205> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/782206> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1644> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/782208> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2156> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782210> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
@@ -2992,6 +3064,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/782249> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1946> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782250> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1815> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/782251> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782253> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
@@ -3083,9 +3157,13 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/782416> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2211> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/782417> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/782418> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1913> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782422> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1945> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/782423> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782424> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1803> .
 
@@ -3135,6 +3213,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/782468> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2049> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/782472> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/782473> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782474> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2170> .
@@ -3149,6 +3229,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/782482> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2170> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/782483> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/782488> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1623> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782495> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2072> .
@@ -3160,6 +3242,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/782504> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1846> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782505> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/782507> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782511> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2153> .
 
@@ -3221,9 +3305,11 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/782630> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/782631> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/782632> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/782653> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> .
+    <https://data.rkd.nl/collection/bredius/externalitem/782651> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1979> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782664> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1793> .
 
@@ -3287,11 +3373,19 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/782925> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/782939> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/782942> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1833> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/782943> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782961> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782963> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1724> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/782968> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/782969> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/782970> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
@@ -3741,6 +3835,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/783750> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/783751> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/783752> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783755> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2187> .
@@ -3750,6 +3846,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/783775> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1611> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783783> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1611> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/783785> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1751> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783789> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> .
 
@@ -3771,9 +3869,13 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/783847> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1621> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/783848> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/783849> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783850> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/783851> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783852> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2022> .
 
@@ -3819,8 +3921,6 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/783888> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2101> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/783889> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2216> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/783890> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1794> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783892> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2101> .
@@ -3850,6 +3950,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/783917> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783918> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2187> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/783920> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/783925> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2193> .
 
@@ -4005,8 +4107,6 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/784294> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1883> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/784295> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/784296> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2156> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784333> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2012> .
@@ -4016,6 +4116,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/784342> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1846> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784354> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2071> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/784401> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784402> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
 
@@ -4201,6 +4303,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/784642> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2013> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/784643> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/784644> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2100> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784645> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2098> .
@@ -4214,6 +4318,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/784651> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2100> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784655> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1933> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/784660> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784662> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1955> .
 
@@ -4230,6 +4336,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/784689> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1726> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784690> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1839> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/784692> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2066> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784694> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1839> .
 
@@ -4264,8 +4372,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/784716> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1631> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784734> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1760> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/784736> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784755> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1623> .
 
@@ -4342,6 +4448,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/784875> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2007> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784876> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1615> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/784881> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784882> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1738> .
 
@@ -4437,6 +4545,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/784963> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1651> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/784968> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/784981> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2095> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/784982> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2100> .
@@ -4512,6 +4622,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/785154> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2226> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785156> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785159> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785160> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2187> .
 
@@ -4721,6 +4833,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785385> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1810> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/785389> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1751> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/785390> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1963> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785391> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1949> .
@@ -4794,6 +4908,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/785490> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785491> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785492> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2066> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785493> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> .
 
@@ -4875,8 +4991,6 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785538> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/785539> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/785540> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785542> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2211> .
@@ -4917,6 +5031,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785583> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2071> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/785584> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/785585> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1664> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785586> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1664> .
@@ -4926,6 +5042,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/785589> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1664> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785591> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1664> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785592> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785597> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2149> .
 
@@ -4948,6 +5066,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/785612> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1954> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785615> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2064> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785616> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785617> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2187> .
 
@@ -4991,11 +5111,11 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785667> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1756> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/785668> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1756> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/785669> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785670> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2130> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785671> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785672> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1756> .
 
@@ -5021,7 +5141,13 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785687> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1922> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/785691> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785692> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/785693> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/43> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785694> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785695> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1770> .
 
@@ -5097,6 +5223,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785764> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2187> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/785765> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1685> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/785767> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1616> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785771> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1726> .
@@ -5106,6 +5234,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/785773> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1726> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785777> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785779> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785782> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
 
@@ -5145,17 +5275,23 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/785835> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/785836> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/785837> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785838> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785839> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2193> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/785840> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/785841> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2193> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/785843> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785845> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/785846> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/785847> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/785848> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2187> .
 
@@ -5363,6 +5499,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/786144> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2013> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/786145> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/786146> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2204> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786152> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
@@ -5376,8 +5514,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/786164> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786165> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1913> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/786166> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1913> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786169> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1812> .
 
@@ -5443,6 +5579,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/786241> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2064> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/786245> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/786246> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1839> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786247> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1946> .
@@ -5480,8 +5618,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/786293> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1933> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786309> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/786310> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786311> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
@@ -5630,6 +5766,12 @@
     <https://data.rkd.nl/collection/bredius/externalitem/786550> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1813> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786551> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1990> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/786558> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/786559> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/786560> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786561> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
@@ -5833,11 +5975,11 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/786731> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1644> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/786733> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/786734> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1922> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786735> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/786737> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786738> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2068> .
 
@@ -5867,11 +6009,15 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/786754> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2007> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/786755> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/786756> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2134> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786763> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1812> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786764> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1760> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/786769> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786771> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2147> .
 
@@ -5922,6 +6068,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/786811> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1858> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786812> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1928> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/786818> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2066> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/786819> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1971> .
 
@@ -6104,8 +6252,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/787085> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1946> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787095> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1839> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/787096> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1839> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787111> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1911> .
 
@@ -6305,6 +6451,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/787391> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/787394> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/787398> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787400> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1648> .
@@ -6407,6 +6555,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/787498> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1945> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/787499> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/787500> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2084> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787507> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2193> .
@@ -6432,6 +6582,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/787531> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2007> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787536> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1858> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/787537> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787538> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> .
 
@@ -6557,6 +6709,10 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/787756> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2216> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/787770> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/787771> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/787779> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2130> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787781> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2153> .
@@ -6578,6 +6734,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/787792> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787793> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2226> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/787795> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1751> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787796> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1702> .
 
@@ -6635,8 +6793,6 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/787874> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1878> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/787875> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1878> .
-
     <https://data.rkd.nl/collection/bredius/externalitem/787876> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1846> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787877> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1846> .
@@ -6676,6 +6832,10 @@
     <https://data.rkd.nl/collection/bredius/externalitem/787919> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1658> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787920> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1922> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/787921> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1751> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/787924> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/787925> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1765> .
 
@@ -6803,7 +6963,7 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/788047> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2071> .
 
-    <https://data.rkd.nl/collection/bredius/externalitem/788048> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2071> .
+    <https://data.rkd.nl/collection/bredius/externalitem/788049> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788053> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1878> .
 
@@ -6925,6 +7085,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/788167> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2130> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/788168> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/788169> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1710> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788171> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> .
@@ -7041,6 +7203,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/788277> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/788280> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/788281> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/38> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788282> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> .
@@ -7063,6 +7227,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/788310> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/788312> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/788316> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2207> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788317> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2117> .
@@ -7072,6 +7238,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/788332> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788336> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1839> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/788367> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788371> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1657> .
 
@@ -7106,8 +7274,6 @@
     <https://data.rkd.nl/collection/bredius/externalitem/788449> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2026> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788454> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> .
-
-    <https://data.rkd.nl/collection/bredius/externalitem/788455> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788464> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> .
 
@@ -7257,6 +7423,8 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/788643> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1922> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/788645> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> .
+
     <https://data.rkd.nl/collection/bredius/externalitem/788647> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1922> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788650> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2211> .
@@ -7270,6 +7438,8 @@
     <https://data.rkd.nl/collection/bredius/externalitem/788655> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1846> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788656> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1623> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/788661> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
 
     <https://data.rkd.nl/collection/bredius/externalitem/788662> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1833> .
 
@@ -7289,6 +7459,10 @@
 
     <https://data.rkd.nl/collection/bredius/externalitem/788676> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/2156> .
 
+    <https://data.rkd.nl/collection/bredius/externalitem/788678> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
+    <https://data.rkd.nl/collection/bredius/externalitem/788680> schema:author <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1645> a schema:Person ;
         schema:name "Nicolaes Blijenberch" .
 
@@ -7297,9 +7471,6 @@
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1663> a schema:Person ;
         schema:name "Daniel Bredan" .
-
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1685> a schema:Person ;
-        schema:name "Jacob Bruijningh" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1693> a schema:Person ;
         schema:name "Jacobus Buijtewech" .
@@ -7328,11 +7499,17 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1773> a schema:Person ;
         schema:name "Paulus van den Ende" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1814> a schema:Person ;
+        schema:name "Gerrit van der Groe" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1837> a schema:Person ;
         schema:name "Johan Heijcoop" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1838> a schema:Person ;
         schema:name "Hilbrand van der Heijden" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1845> a schema:Person ;
+        schema:name "Christoffel Hellerus II" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1849> a schema:Person ;
         schema:name "Salomon Henrix" .
@@ -7343,8 +7520,14 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1907> a schema:Person ;
         schema:name "Nicolaes van der Laen" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1917> a schema:Person ;
+        schema:name "Emanuel de Lavello" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1938> a schema:Person ;
         schema:name "Daniel Luijken" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1979> a schema:Person ;
+        schema:name "mr. David Mostart" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1982> a schema:Person ;
         schema:name "Salomon Mulerius" .
@@ -7436,12 +7619,6 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1747> a schema:Person ;
         schema:name "Jan Deutz" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1814> a schema:Person ;
-        schema:name "Gerrit van der Groe" .
-
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1917> a schema:Person ;
-        schema:name "Emanuel de Lavello" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1935> a schema:Person ;
         schema:name "Willem Lossij" .
 
@@ -7499,6 +7676,9 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1680> a schema:Person ;
         schema:name "Hendrick Bruijnenburgh" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1685> a schema:Person ;
+        schema:name "Jacob Bruijningh" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1774> a schema:Person ;
         schema:name "Arent Jansz. Engel" .
 
@@ -7525,6 +7705,9 @@
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2035> a schema:Person ;
         schema:name "Jeremias Prise" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2066> a schema:Person ;
+        schema:name "Peter Ruttens" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2101> a schema:Person ;
         schema:name "Jan Snoeck" .
@@ -7568,6 +7751,9 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1873> a schema:Person ;
         schema:name "Johannes de Hue" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1913> a schema:Person ;
+        schema:name "Jacob Lansman" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1926> a schema:Person ;
         schema:name "Martin Lindouw" .
 
@@ -7610,9 +7796,6 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1861> a schema:Person ;
         schema:name "Jan Cornelisz. Hoogeboom" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1913> a schema:Person ;
-        schema:name "Jacob Lansman" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1918> a schema:Person ;
         schema:name "Cornelis van Leeuwaerde" .
 
@@ -7640,6 +7823,9 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2212> a schema:Person ;
         schema:name "Cornelis Winter" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2216> a schema:Person ;
+        schema:name "Pieter de Wit" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1662> a schema:Person ;
         schema:name "Jan de Braij" .
 
@@ -7657,6 +7843,9 @@
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1726> a schema:Person ;
         schema:name "Sibrant Cornelisz" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1751> a schema:Person ;
+        schema:name "mr. David Doornick" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1844> a schema:Person ;
         schema:name "Christoffel Hellerus I" .
@@ -7685,9 +7874,6 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2204> a schema:Person ;
         schema:name "Joris de Wijse" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2216> a schema:Person ;
-        schema:name "Pieter de Wit" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/35> a schema:Person ;
         schema:name "Pieter van Aken" .
 
@@ -7709,6 +7895,9 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1973> a schema:Person ;
         schema:name "Pieter Molensteen" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1981> a schema:Person ;
+        schema:name "Andreas du Moulin" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2148> a schema:Person ;
         schema:name "Anthony van de Ven" .
 
@@ -7721,9 +7910,6 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1963> a schema:Person ;
         schema:name "Pieter van der Meulen" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1981> a schema:Person ;
-        schema:name "Andreas du Moulin" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2113> a schema:Person ;
         schema:name "Jacob Steur" .
 
@@ -7735,6 +7921,9 @@
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2179> a schema:Person ;
         schema:name "Arnout Voskuijl" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2222> a schema:Person ;
+        schema:name "Casper IJpelaer" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1633> a schema:Person ;
         schema:name "Gerard Emous ten Bergh" .
@@ -7772,6 +7961,9 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1915> a schema:Person ;
         schema:name "Philippus Laurentius" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/37> a schema:Person ;
+        schema:name "Cornelis Doedensz. Akerboom" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1631> a schema:Person ;
         schema:name "Willem Benninck" .
 
@@ -7784,20 +7976,23 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2170> a schema:Person ;
         schema:name "Cornelis Vliet" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2207> a schema:Person ;
-        schema:name "Hendrik de Wilde" .
-
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> a schema:Person ;
-        schema:name "Jan Fransz. Bruijningh" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1934> a schema:Person ;
         schema:name "Nicolaas van Loosdrecht" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2018> a schema:Person ;
         schema:name "Pieter van Perssen" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2076> a schema:Person ;
+        schema:name "Pieter Schabaelje" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2117> a schema:Person ;
         schema:name "Vincent Swanenburgh" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2207> a schema:Person ;
+        schema:name "Hendrik de Wilde" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1616> a schema:Person ;
+        schema:name "Benedict Baddel" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1656> a schema:Person ;
         schema:name "Nicolaes van Born" .
@@ -7811,9 +8006,6 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1954> a schema:Person ;
         schema:name "Gerrit Meijer" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2076> a schema:Person ;
-        schema:name "Pieter Schabaelje" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2090> a schema:Person ;
         schema:name "Michiel Servaes" .
 
@@ -7826,14 +8018,14 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/42> a schema:Person ;
         schema:name "Johannes d' Amour" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1616> a schema:Person ;
-        schema:name "Benedict Baddel" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1700> a schema:Person ;
         schema:name "Pieter Capoen" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1724> a schema:Person ;
         schema:name "Gerrit Coren" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1878> a schema:Person ;
+        schema:name "Silas van Jaarlandt" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1892> a schema:Person ;
         schema:name "Johannes van den Kerckhoven" .
@@ -7853,8 +8045,8 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1655> a schema:Person ;
         schema:name "Joannes Boots" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1878> a schema:Person ;
-        schema:name "Silas van Jaarlandt" .
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1686> a schema:Person ;
+        schema:name "Jan Fransz. Bruijningh" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2013> a schema:Person ;
         schema:name "Johannes Paerslaken" .
@@ -7889,6 +8081,9 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1883> a schema:Person ;
         schema:name "Nicolaes Jacobsz" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1951> a schema:Person ;
+        schema:name "Jacob Meerhout" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2108> a schema:Person ;
         schema:name "David Stafmaeker Varlet" .
 
@@ -7904,11 +8099,17 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1651> a schema:Person ;
         schema:name "Michiel Bockx" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> a schema:Person ;
+        schema:name "Nicolaes Listingh" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1945> a schema:Person ;
         schema:name "Jacob Matham" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2007> a schema:Person ;
         schema:name "Henrick Outgers" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2071> a schema:Person ;
+        schema:name "Adriaan van Santen" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2100> a schema:Person ;
         schema:name "Jacobus Snel" .
@@ -7916,20 +8117,17 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1813> a schema:Person ;
         schema:name "Dirk van der Groe" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> a schema:Person ;
+        schema:name "Nicolas Kruijs" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1971> a schema:Person ;
         schema:name "Jan Molengraeff" .
-
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2071> a schema:Person ;
-        schema:name "Adriaan van Santen" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2217> a schema:Person ;
         schema:name "Eduard de Witt" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1906> a schema:Person ;
-        schema:name "Nicolas Kruijs" .
-
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1927> a schema:Person ;
-        schema:name "Nicolaes Listingh" .
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1644> a schema:Person ;
+        schema:name "Jacob Jacobs" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1770> a schema:Person ;
         schema:name "Abraham van den Ende" .
@@ -7940,17 +8138,11 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2153> a schema:Person ;
         schema:name "Barent Jansen Verbeeck" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1644> a schema:Person ;
-        schema:name "Jacob Jacobs" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1675> a schema:Person ;
         schema:name "Nicolaes Brouwer" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2012> a schema:Person ;
         schema:name "Pieter Padthuijzen" .
-
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> a schema:Person ;
-        schema:name "Jan de Vos" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2049> a schema:Person ;
         schema:name "Dirck Danckerts" .
@@ -7964,23 +8156,23 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2026> a schema:Person ;
         schema:name "Cornelis van Poelenburgh" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1750> a schema:Person ;
+        schema:name "mr. David Doornick" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1812> a schema:Person ;
+        schema:name "Cornelis de Grijp" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1990> a schema:Person ;
         schema:name "Salomon van Nieuwland" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2149> a schema:Person ;
         schema:name "Henrick Venkel" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1657> a schema:Person ;
-        schema:name "Gilles Borsselaer" .
-
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1812> a schema:Person ;
-        schema:name "Cornelis de Grijp" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2105> a schema:Person ;
         schema:name "Jan Quirijnen" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> a schema:Person ;
-        schema:name "Hendrick Westfrisius" .
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1657> a schema:Person ;
+        schema:name "Gilles Borsselaer" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1846> a schema:Person ;
         schema:name "Nicolaes Hemminck" .
@@ -7988,14 +8180,20 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2134> a schema:Person ;
         schema:name "Frans Uijttenbogaert" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2098> a schema:Person ;
-        schema:name "Salomon van der Sluijs" .
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2192> a schema:Person ;
+        schema:name "Hendrick Westfrisius" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1804> a schema:Person ;
         schema:name "Jacob Gijsbertsz" .
 
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2098> a schema:Person ;
+        schema:name "Salomon van der Sluijs" .
+
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/2077> a schema:Person ;
         schema:name "Hendrik Schaef" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/2176> a schema:Person ;
+        schema:name "Jan de Vos" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1946> a schema:Person ;
         schema:name "Palm Mathijsz" .
@@ -8045,11 +8243,11 @@
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1704> a schema:Person ;
         schema:name "Pieter Carelsz" .
 
-    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> a schema:Person ;
-        schema:name "Johannes Hellerus" .
-
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1619> a schema:Person ;
         schema:name "Frederik van Banchem" .
+
+    <https://data.goldenagents.org/datasets/notarissennetwerk/person/1843> a schema:Person ;
+        schema:name "Johannes Hellerus" .
 
     <https://data.goldenagents.org/datasets/notarissennetwerk/person/1842> a schema:Person ;
         schema:name "Jacobus Hellerus" .
