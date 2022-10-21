@@ -40,6 +40,9 @@ More information on the notes and the crowdsourcing project can be read on the w
 * [`linksets/bredius_linkset_9d6ca8c8fb1bc3be9c08d7e791bd08e0_15_accepted.trig`](linksets/bredius_linkset_9d6ca8c8fb1bc3be9c08d7e791bd08e0_15_accepted.trig): linkset between persons in the Bredius excerpts and persons in the Amsterdam Notarial Archives. Created with Lenticular Lens. Contains only the accepted links. Pick [`linksets/bredius_linkset_persons.trig`](linksets/bredius_linkset_persons.trig) if you want a simplified version with just the `owl:sameAs` links.
 * [`linksets/bredius_linkset_deeds.trig`](linksets/bredius_linkset_deeds.trig): linkset between external documents in the Bredius excerpts and deeds in the Amsterdam Notarial Archives.
 
+Optional:
+* [`data/rkdthesaurus.trig`](data/rkdthesaurus.trig): an integral dump of the RKD thesaurus, used to enrich the Bredius excerpts with thesaurus terms and labels. These labels are already integrated in the data through the schema.org vocabulary.
+
 ### Changes/additions
 This repository hold the data coming from the crowdsourcing initative, as well as a script that modifies the data slightly so that it fits in the Golden Agents infrastructure. What is added and changed is the following (through `main.py`):
 
@@ -176,7 +179,7 @@ CONSTRUCT {
              schema:isBasedOn ?external_deed .
     
     ?person a schema:Person ;
-            owl:sameAs ?saa_person . # trough the linkset
+            owl:sameAs ?saa_person . # through the linkset
     
     ?deed rpp:mentionsPerson ?saa_person .
     
