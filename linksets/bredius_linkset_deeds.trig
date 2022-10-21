@@ -1,0 +1,548 @@
+@prefix schema: <https://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rpp: <https://data.goldenagents.org/ontology/roar/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf4j: <http://rdf4j.org/schema/rdf4j#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<https://data.goldenagents.org/datasets/bredius/> {
+  <https://data.rkd.nl/collection/bredius/externalitem/777565> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0e23-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777590> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-24f9-6b6d-e053-b784100acdee> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777599> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-a810-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777601> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-df40-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777609> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-5e6a-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777634> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1e13-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777638> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1e13-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777641> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-4d14-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777756> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7121-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777759> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-cfd4-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777813> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/777860> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-76f5-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778099> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-291a-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778128> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778131> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778376> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-c1a5-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778460> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-f63a-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21df-f668-666d-e053-b784100a1840>, <https://archief.amsterdam/indexen/deeds/9d6d21e2-a49d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778525> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-be1f-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778531> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-dbf5-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778559> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-2d14-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778721> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-5704-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778739> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0553-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/778745> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-f23f-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779020> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0aa5-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779032> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1559-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779042> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779043> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-f1ac-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779132> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c433-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779165> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1ff8-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779175> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779183> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-82bb-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779217> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0bae-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779295> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-89aa-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779300> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-89aa-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779319> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-e5d0-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779323> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b912-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779355> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-bcc7-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779387> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10e-e484-7dcb-e053-b784100a971b> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779404> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-80a4-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e1-a956-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779417> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-015e-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e0-96a4-666d-e053-b784100a1840>, <https://archief.amsterdam/indexen/deeds/9d6d21e1-2375-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21df-cab0-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779429> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-ce70-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779614> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-3698-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779652> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779658> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779808> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae03-e3d9-6b6d-e053-b784100acdee> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779813> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8252-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779842> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-ad2e-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/779991> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4ce2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780143> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-adea-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780367> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7866-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780381> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-d024-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780417> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-dd3e-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780446> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f02-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780452> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780498> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5fc7-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780558> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-215e-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780707> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b5f-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780713> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9cc2-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e2-cfff-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780721> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b3d3-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780787> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-40a9-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780792> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-87f9-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780803> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-04bc-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780805> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-04bc-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/780857> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-8b5c-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781082> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-91fd-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781091> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b514-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e1-c00f-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781156> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6ca7-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-112e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781281> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781370> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-d3e4-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e0-1277-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781380> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e80e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781391> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-0cf1-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781450> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad1-1810-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781458> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-5ec5-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781510> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-7d87-1e00-e053-b784100af734>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781515> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-2ef2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781617> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c69d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781671> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-1f71-50ee-e053-b784100a6caf>,
+      <https://archief.amsterdam/indexen/deeds/a3cb51cc-c500-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781687> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-037d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781716> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9db7-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781725> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-ab03-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-e294-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781779> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781783> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781795> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781800> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f5e8-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781807> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781833> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-722f-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781859> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-129b-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781867> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-9cf8-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781960> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-d7ef-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781977> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c0f2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781978> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-5a22-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781979> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c0f2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/781980> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-a4c5-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782196> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7d6c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782211> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-fb5c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782225> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e3b7-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782227> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9aaa-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e1-458e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782233> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-b0f5-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782234> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-b0f5-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782380> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-0004-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782382> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-0cf1-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782383> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a892-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782384> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-2af4-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782385> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-b1e8-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782391> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-b67f-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782410> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e36e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782411> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-82a8-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782413> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-dab3-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782414> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-586a-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782593> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-1cb3-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782600> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782607> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-fa49-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782620> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782669> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a543-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/782742> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a15f-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783026> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b26-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e2-e348-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783059> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-a29d-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783122> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9d88-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783286> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5a22-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783327> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783328> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783340> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-66c7-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783643> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a>,
+      <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783648> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a>,
+      <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783651> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-1c3d-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783693> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783713> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-727b-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783751> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-a2a5-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783752> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0f1c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783803> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e13d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783851> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-272a-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783925> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c5c9-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/783992> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-9c36-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784079> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f80-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784081> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-c017-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784089> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-aa0b-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784432> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-126a-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/bebf5fd4-7cc2-1e00-e053-b784100af734>, <https://archief.amsterdam/indexen/deeds/bebf5fd4-eb9f-1e00-e053-b784100af734>,
+      <https://archief.amsterdam/indexen/deeds/bebf5fd4-f15a-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784470> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-ee64-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784472> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf>,
+      <https://archief.amsterdam/indexen/deeds/a3cb51cc-5c36-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784552> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8732-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784569> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1875-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784571> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-357e-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-71f2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784684> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8f39-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784702> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1e2c-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e1-1e2e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784806> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-75dc-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784807> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-339c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784844> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-339c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784854> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6476-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784872> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-68e6-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784889> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e42e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784893> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5f0-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784894> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5466-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784926> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-849d-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784929> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-26dd-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784931> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e805-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784933> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-cceb-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/784983> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-68bf-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840>, <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785148> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-bcbb-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785173> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-3df8-6b6d-e053-b784100acdee> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785192> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-eae3-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785223> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-2613-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785257> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-cb89-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785258> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-84ac-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785260> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-9ab8-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785300> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1278-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785311> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e56b-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785419> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a703-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785421> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-0087-1e00-e053-b784100af734>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e0-11de-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785441> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-b5c8-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785482> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f638-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785519> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e57b-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785526> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7288-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785531> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b755-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785550> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0477-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785592> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785730> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5b57-1a7b-e053-b784100aab8a>,
+      <https://archief.amsterdam/indexen/deeds/d0092ad0-658f-1a7b-e053-b784100aab8a> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785828> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785835> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785837> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785849> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/785874> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-24a7-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786020> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-d618-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786145> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-da80-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786146> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-51d9-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786152> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9672-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786247> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786414> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a007-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786422> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-96c6-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786427> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786438> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786444> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786448> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-1890-6b6d-e053-b784100acdee>,
+      <https://archief.amsterdam/indexen/deeds/d837ae03-f226-6b6d-e053-b784100acdee> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786470> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6b2c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786477> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-1055-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786478> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4a72-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786481> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8594-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786488> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-03a0-1e00-e053-b784100af734>,
+      <https://archief.amsterdam/indexen/deeds/bebf5fd4-e485-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786558> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-bedf-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786566> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-5b8e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786627> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-8f33-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786693> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5c36-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e2-c5a6-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786711> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9e4c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786733> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-69f2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786749> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-e84a-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786769> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786773> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-c23b-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786808> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-fba8-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786810> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-18af-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786821> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-7964-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786856> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-18d2-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786861> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-7acb-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786907> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1bb2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/786974> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-a5a4-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787045> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-7d87-1e00-e053-b784100af734>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787048> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787085> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10e-c715-7dcb-e053-b784100a971b>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787262> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-9294-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787287> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-3977-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e2-83d0-666d-e053-b784100a1840>, <https://archief.amsterdam/indexen/deeds/9d6d21e0-55fa-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-749f-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787394> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-b0bf-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787499> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-479d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787510> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9f2c-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787564> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9a50-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787568> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cb-fc55-50ee-e053-b784100a6caf>,
+      <https://archief.amsterdam/indexen/deeds/a3cb51cc-0bea-50ee-e053-b784100a6caf> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787672> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-cb13-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787688> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787689> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787941> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-3be2-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787957> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-d3b8-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e2-6cb4-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787964> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a19d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787971> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-b258-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/787999> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-3b82-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788000> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6899-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788071> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-064d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788073> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c08d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788179> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6ead-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788193> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c982-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788197> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-fc26-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788220> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-76f5-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788246> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10f-358f-7dcb-e053-b784100a971b> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788251> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-1503-50ee-e053-b784100a6caf>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-6be1-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788425> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f682-666d-e053-b784100a1840>,
+      <https://archief.amsterdam/indexen/deeds/9d6d21e3-c032-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788501> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c759-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788520> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-da4a-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788549> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-049d-1e00-e053-b784100af734> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788574> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b22d-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788661> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788673> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-44f9-666d-e053-b784100a1840> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788678> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-739e-6a83-e053-b784100a6e32> .
+  
+  <https://data.rkd.nl/collection/bredius/externalitem/788680> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-f457-1e00-e053-b784100af734> .
+}

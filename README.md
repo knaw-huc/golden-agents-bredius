@@ -9,12 +9,15 @@ Pipeline to transform the RKD's Bredius RDF data to fit in the [Golden Agents](h
 - [Golden Agents / RKD - Bredius Notes](#golden-agents--rkd---bredius-notes)
   - [Introduction](#introduction)
   - [Data](#data)
+    - [Files](#files)
     - [Changes/additions](#changesadditions)
     - [Example](#example)
   - [Enrichments](#enrichments)
     - [Reconciliation with notaries](#reconciliation-with-notaries)
     - [Reconciliation with inventories](#reconciliation-with-inventories)
   - [Linksets / Reconciliation](#linksets--reconciliation)
+    - [Person linkset](#person-linkset)
+    - [Deed linkset](#deed-linkset)
   - [License](#license)
   - [Contact](#contact)
 
@@ -30,6 +33,13 @@ In this case study, we will connect the Bredius notes to the original (digitized
 More information on the notes and the crowdsourcing project can be read on the website of the RKD: https://rkd.nl/en/projects-publications/projects/916-bredius-notes. Documentation on the data transformation and the reconciliation to the original sources can be found in this repository. 
 
 ## Data
+### Files
+* [`data/ga_20220926_BrediusExportVolledig.trig`](data/ga_20220926_BrediusExportVolledig.trig): the Bredius excerpts (with changes and additions, see below)
+* [`notaries/bredius_linkset_excerpt2inventory.trig`](notaries/bredius_linkset_excerpt2inventory.trig): linkset between the Bredius excerpts and notaries (Notarissennetwerk)
+* [`inventory/bredius_linkset_excerpt2inventory.trig`](inventories/bredius_linkset_excerpt_inventories.trig): linkset between the Bredius excerpts and inventories (EAD)
+* [`linksets/bredius_linkset_9d6ca8c8fb1bc3be9c08d7e791bd08e0_15_accepted.trig`](linksets/bredius_linkset_9d6ca8c8fb1bc3be9c08d7e791bd08e0_15_accepted.trig): linkset between persons in the Bredius excerpts and persons in the Amsterdam Notarial Archives. Created with Lenticular Lens. Contains only the accepted links. Pick [`linksets/bredius_linkset_persons.trig`](linksets/bredius_linkset_persons.trig) if you want a simplified version with just the `owl:sameAs` links.
+* [`linksets/bredius_linkset_deeds.trig`](linksets/bredius_linkset_deeds.trig): linkset between external documents in the Bredius excerpts and deeds in the Amsterdam Notarial Archives.
+
 ### Changes/additions
 This repository hold the data coming from the crowdsourcing initative, as well as a script that modifies the data slightly so that it fits in the Golden Agents infrastructure. What is added and changed is the following (through `main.py`):
 
@@ -133,14 +143,47 @@ SELECT ?excerpt ?name WHERE {
 } ORDER BY ?name
 ```
 
-These are linked to their respective notary in the Notarissennetwerk (https://notarissennetwerk.nl/) in [`excerpt2notary.csv`](notaries/excerpt2notary.csv) and transformed into a linkset using the `schema:author` property in [`linkset_excerpt2notary.trig`](notaries/linkset_excerpt2notary.trig).
+These are linked to their respective notary in the Notarissennetwerk (https://notarissennetwerk.nl/) in [`excerpt2notary.csv`](notaries/excerpt2notary.csv) and transformed into a linkset using the `schema:author` property in [`bredius_linkset_excerpt2notary.trig`](notaries/bredius_linkset_excerpt2notary.trig).
 
 ### Reconciliation with inventories
 
-We link the excerpts to the inventories they came from. These are described seperately in the EAD of collection 'Archief Abraham Bredius' (https://rkd.nl/explore/archives/details/NL-HaRKD-0380). See [`linkset_excerpt_inventories.trig`](inventories/linkset_excerpt_inventories.trig).
+We link the excerpts to the inventories they came from. These are described seperately in the EAD of collection 'Archief Abraham Bredius' (https://rkd.nl/explore/archives/details/NL-HaRKD-0380). See [`bredius_linkset_excerpt2inventory.trig`](inventories/bredius_linkset_excerpt2inventory.trig).
 
 ## Linksets / Reconciliation
-WIP
+
+### Person linkset
+
+A linkset between persons described in the Bredius excerpts and persons indexed in the Notarial Archives is created using the Lenticular Lens tool (https://lenticularlens.org/). Criteria for the match were:
+1. The name of a person has a normalized levenshtein similarity of 0.7
+2. Either the first or the second date mentioned in an excerpt is the date of the registration in the Notarial Archive
+3. We only match against deeds from inventory numbers written by the notary that was entered in the Bredius dataset (via our enrichment, see above) 
+
+This yielded a total of 971 found links, of which 860 were (manually) marked as correct. The resulting linkset (in application/trig, with and without extra reification) can be found in the [linksets](linksets) folder.
+
+### Deed linkset
+
+We can create a linkset on the deed level from the above described person linkset by using this query:
+
+```SPARQL
+PREFIX schema: <https://schema.org/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rpp: <https://data.goldenagents.org/ontology/roar/>
+CONSTRUCT {
+    ?external_deed owl:sameAs ?deed .
+} { 
+	?manuscript a schema:Manuscript ;
+             schema:about/schema:about ?person ;
+             schema:isBasedOn ?external_deed .
+    
+    ?person a schema:Person ;
+            owl:sameAs ?saa_person . # trough the linkset
+    
+    ?deed rpp:mentionsPerson ?saa_person .
+    
+}
+```
+
+The result can be found in [`bredius_linkset_deeds.trig`](linksets/bredius_linkset_deeds.trig).
 
 ## License
 

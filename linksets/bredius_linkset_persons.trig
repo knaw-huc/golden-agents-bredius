@@ -1,0 +1,1575 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://data.goldenagents.org/datasets/bredius/> {
+    <https://data.rkd.nl/excerpts/777565/person/IDBU3RGDMFBNS0B5GFPSO1JYCRHE2113E3QUP3NC2C2TBUSH0PWIP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0e23-666d-e053-b784100a1840?person=7ce4cc1d-c2ba-654a-c5fc-dee10deb0154> .
+
+    <https://data.rkd.nl/excerpts/777565/person/IDFCP12AXX3HLIJG3NMBOGX0BPVLKVXWFYLQEDYGN2GPA5DZGW1FUC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0e23-666d-e053-b784100a1840?person=114bd286-e4cd-9b98-4217-855d69eb6bff> .
+
+    <https://data.rkd.nl/excerpts/777590/person/IDJWLJG3VMWKWFDKDQKTZF40YR4FGWXOVYVUBAXINDX2XU33GQQBPP> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-24f9-6b6d-e053-b784100acdee?person=e138b3da-d657-8efe-7699-3fde413c3f43> .
+
+    <https://data.rkd.nl/excerpts/777590/person/IDKOKFR0YFIIPGBDK3Q0PZROMZIJNQ023JUXRXMFOOVKDYZGTAKDK> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-24f9-6b6d-e053-b784100acdee?person=2ac5d75e-bcac-a8ef-2941-51da2f154482> .
+
+    <https://data.rkd.nl/excerpts/777599/person/ID1YWILLZYB3GQCTQK2GZTZ3ODYLC1FFS3Z2GJUZLFVU0FVXGP4SNK> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-a810-6a83-e053-b784100a6e32?person=cc91baea-2d55-53d1-815b-ec8c0ce0f345> .
+
+    <https://data.rkd.nl/excerpts/777599/person/IDVIGRYIGYRWQAENODIA04Y31RFNRBIX5JC4Z0U0BIBI0XKHF52SIN> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-a810-6a83-e053-b784100a6e32?person=cc91baea-2d55-53d1-815b-ec8c0ce0f345> .
+
+    <https://data.rkd.nl/excerpts/777601/person/IDC3PPZU213DDINTJN0BMXOFNTVFAJXININY3PFSGOLXTNPWNRLNYL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-df40-666d-e053-b784100a1840?person=687a7985-4f99-3272-6387-96e943da40a6> .
+
+    <https://data.rkd.nl/excerpts/777601/person/IDVKRILFWDK1ZRKZMMSX15JH43SNQAC02J5JVKMOMORZNVSFXSUZ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-df40-666d-e053-b784100a1840?person=1e1d8982-75dd-0052-28f5-344cd7023c4f> .
+
+    <https://data.rkd.nl/excerpts/777609/person/IDJFYXVBTBYIQZKXRUFA0G5XSTKBGYYXIDZWT5VIIIKRYK4BZE2QJL> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-5e6a-50ee-e053-b784100a6caf?person=6f3fa3c2-ca0f-7395-1b8d-01b3e58fffb9> .
+
+    <https://data.rkd.nl/excerpts/777609/person/IDO0XIL33RZKK1OMJABLEXVNFRWFINA1X0TIDMAKJCVAGBGSZSAR2G> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-5e6a-50ee-e053-b784100a6caf?person=642c35be-86ea-70e3-76f1-7aabb81fe3ea> .
+
+    <https://data.rkd.nl/excerpts/777634/person/IDYVPW1L3RSYN3GRZUSXMNUVB1NC5SYXEQU32X12FFM2W1M5BV1NOG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1e13-666d-e053-b784100a1840?person=4d0a5597-9f5a-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/777638/person/IDLOKCJDGBI5UGDJHSFP52Z1DVVPPCHQ1BQQVI5GOSQQ1M2HMZRMHG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1e13-666d-e053-b784100a1840?person=4d0a5597-9f5a-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/777641/person/ID5HYNI4EZUEK0DXR2CH4ZYT2NUGWWOM4PEAHVYFJ4V02CP0QG5RI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-4d14-666d-e053-b784100a1840?person=4d0a5597-f081-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/777756/person/IDXN3SPVXL20NRICTKFCNUY0VMWPVAPUTIHMI5HUNHDO3U4SPEW30I> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7121-1a7b-e053-b784100aab8a?person=4167876a-68d5-113b-585d-2367f0d1ea17> .
+
+    <https://data.rkd.nl/excerpts/777759/person/IDCLEITRVWLYGGCUVSUQB0MPQK4MP4RYMKZLQWRGQYZEHYJ5ZUYAD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-cfd4-666d-e053-b784100a1840?person=1680bf9a-68d7-f15a-dca0-462449bda471> .
+
+    <https://data.rkd.nl/excerpts/777759/person/IDKULIXJ1MTKFSMRW5NBDWZYO0WIX43DULFM0TJNEZHPBE4RZTXZL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-cfd4-666d-e053-b784100a1840?person=eabf9d34-703b-8bca-fe46-0bc0c836dd7f> .
+
+    <https://data.rkd.nl/excerpts/777813/person/ID23SDYZLSGSF3MLXBSNFY2FMO3O4BKWWGTBGH2WINHO4NX5OCO2ZJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=6088e752-2ab3-e8d0-9576-6e7166c532a4>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=b48fe1ab-e7ba-a78f-3f6d-cf2008996fd1> .
+
+    <https://data.rkd.nl/excerpts/777813/person/IDBZJNNH23CTXICHC102TZEEYNDBPA2YQFTSGN2SLOSNGGQG0F0YDB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=6088e752-2ab3-e8d0-9576-6e7166c532a4>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=b48fe1ab-e7ba-a78f-3f6d-cf2008996fd1> .
+
+    <https://data.rkd.nl/excerpts/777813/person/IDLXQLS2PTWJXYOT3LTW3VDMEWOE1JD15CF0R32OE1F5XM23G3NXL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=9600d293-e269-8172-330b-08bcade29998> .
+
+    <https://data.rkd.nl/excerpts/777813/person/IDPJTBJVRP1VS0FZMSNABKNEA4MEU2K201HYSAASKXPIQUODMP5NOC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=ac9c49a9-8f00-1ef8-82f8-02fd71e453fe> .
+
+    <https://data.rkd.nl/excerpts/777813/person/IDPWDBNGB0JBUYO1G3VYK5NZAONMGO0MPGH13PNSYYHOUHUWFAIHK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=15bac592-5f45-566b-b351-4048cdff0c4a> .
+
+    <https://data.rkd.nl/excerpts/777813/person/IDSVUMD1TSVEAWKRJQZARCGGHIWIRT3OCWQTALMHG5PH1LHETC2GXJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=4d8a7183-1ad5-f0df-8b67-6a6af31ab730> .
+
+    <https://data.rkd.nl/excerpts/777813/person/IDWFTCMCU3PQR1W22ES0NZY5ELJCJQDIZL0VJ1OXH0I0UDUQGOKC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=68bb4995-2bd1-a02e-574f-523ab8c12b1f> .
+
+    <https://data.rkd.nl/excerpts/777813/person/IDWRBM3J5PZMCGIFF1QUHNDAKZYGEHGI50MXSCV1IICX0UO0H0REY> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-beeb-666d-e053-b784100a1840?person=99ed0ad5-5923-a012-fbde-95d9809829f6> .
+
+    <https://data.rkd.nl/excerpts/777860/person/ID223BXXJHBZ1KCPWVU1O42GEMWGGDBUSQW3JUPUKT0PABM2DHIKHJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-76f5-1e00-e053-b784100af734?person=4150c48f-8ffe-ec6b-939e-52b81efe2268> .
+
+    <https://data.rkd.nl/excerpts/778099/person/ID4DBHZ3QR1UW5EL40SB2ZNXOBLFZYDVOLVMXUKCKP4QM1OF3Y1BQP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-291a-666d-e053-b784100a1840?person=9cc5f265-ccaa-db29-decc-5d65bf0cedb8> .
+
+    <https://data.rkd.nl/excerpts/778099/person/ID50C430AAKME4JSB2SEL0BQUY2BWBQVPPU11QHAEYEDCIQ4UJZNEI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-291a-666d-e053-b784100a1840?person=9a506079-63dd-c57e-bc48-43a1207a44d5> .
+
+    <https://data.rkd.nl/excerpts/778099/person/IDWFIL2LCJ5UX0N0MV3YHX4GTPIJWLVZBEY4F4X1PCCY2EI5MNTTHF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-291a-666d-e053-b784100a1840?person=6d47dbc7-c4a8-a410-1358-5e4ca28fdb7c> .
+
+    <https://data.rkd.nl/excerpts/778099/person/IDWXFRHNDZCBNKFPR1QCRRH11C4EOXI3R2NIN5OTD1CTIEMVQT3T3E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-291a-666d-e053-b784100a1840?person=1e575e6a-765c-205f-0b0d-a2952967007b> .
+
+    <https://data.rkd.nl/excerpts/778128/person/ID0XOOXRCLNC5PMFPA5MSC5YCQ4N04QOFJAGS1FSIOGZZT3UEAQQB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840?person=201442e2-7097-d56b-4f72-b5d92c1b9687> .
+
+    <https://data.rkd.nl/excerpts/778128/person/IDLULHFZEICAYENGU4VDORKVNOKL5FPY5BY1IQZFDABTSLAIP31L0B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840?person=0f0bc6cd-d32a-d4c4-acbf-b7ee0092eafb> .
+
+    <https://data.rkd.nl/excerpts/778128/person/IDZCR2XIV0451LCNRGUQMAVAOUMONRFNY554JE3XHSXPMHJ2BSFMMF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840?person=e70c9256-4ed4-e15f-8c9b-761f7f4d839c> .
+
+    <https://data.rkd.nl/excerpts/778131/person/ID4DBUHKMATFV3G4CGQKICJR3AKJLBANBI5PGZOOFELUKTYQK1FITB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840?person=e70c9256-4ed4-e15f-8c9b-761f7f4d839c> .
+
+    <https://data.rkd.nl/excerpts/778131/person/ID4M2AGC3GC0A0F2N1BHXIJ5UZTKUTZ33OKHZV1ENNERSH1Z4LASCB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840?person=201442e2-7097-d56b-4f72-b5d92c1b9687> .
+
+    <https://data.rkd.nl/excerpts/778131/person/IDVTQHEDGH4GBIHO3EFJYI5YBCXDMXS5IXWD5LNRPNCZMAP0PXWPQ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-17d0-666d-e053-b784100a1840?person=0f0bc6cd-d32a-d4c4-acbf-b7ee0092eafb> .
+
+    <https://data.rkd.nl/excerpts/778376/person/ID55X5J4R4A1WLILLJQIRCVMLEDJSMJYMLFPJHU2CX5TMZVHMOJNLN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-c1a5-666d-e053-b784100a1840?person=40b2d578-d66b-8921-2f23-ffbb755d0e9a> .
+
+    <https://data.rkd.nl/excerpts/778376/person/IDCO5RK42ZIX21BKLNXEQPS5KB1G1QSWYQZHF3HTUR3OXSTIV3N5P> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-c1a5-666d-e053-b784100a1840?person=f5f6bcc1-038b-894b-df2e-dba4e2eef576> .
+
+    <https://data.rkd.nl/excerpts/778460/person/IDD4D03B4VVCFYBKPA31IK1AVWBMTRSWMILVMFCLDTAV10UO21Y5LM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-f63a-666d-e053-b784100a1840?person=4d0a5597-eda4-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21df-f668-666d-e053-b784100a1840?person=4d0a5597-ee3a-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-a49d-666d-e053-b784100a1840?person=4d0a5597-ee22-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/778525/person/ID0GIKEWT0D2RQHFTNJ0ERN4IKAPJDC2G0SFVIRNCDKWMU2T0YVAPG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-be1f-666d-e053-b784100a1840?person=7610cca2-4ed2-a8df-1c33-04d3af6ff7a4>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-be1f-666d-e053-b784100a1840?person=a8164f24-e270-3179-b0c1-79fc5848cb09> .
+
+    <https://data.rkd.nl/excerpts/778525/person/ID3JGF1JGBEKI0O5J2YTYQHTC43KZKWI3RJGBBGCJY2ZRRBAASC5FJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-be1f-666d-e053-b784100a1840?person=5bc354a7-b412-eec9-56aa-817fbc2dbbc7> .
+
+    <https://data.rkd.nl/excerpts/778525/person/IDPQ5KKTWTTGG2MV5W0AKFCPTZOK1JOXX31VUSYEQBN0J4NZI3LB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-be1f-666d-e053-b784100a1840?person=8328dc3a-a7eb-9a30-4fa3-495b4734823f> .
+
+    <https://data.rkd.nl/excerpts/778525/person/IDYEXVU3H4MID3KZK3HHGLDU3APE5TWVOE0ISQC2BX5FOKL4DXREK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-be1f-666d-e053-b784100a1840?person=42ef8cee-e489-9696-cf5d-b932ed5bacec> .
+
+    <https://data.rkd.nl/excerpts/778531/person/IDPGAN5TYME5YZOFJ2PW0ITUK4LERATLGK5VK4MLBK1UNGUYQ2GB3E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-dbf5-666d-e053-b784100a1840?person=15cdbe4a-b6b7-8ebb-bdbb-1ced2ae85f86> .
+
+    <https://data.rkd.nl/excerpts/778531/person/IDU5RTEBH3WA33JMI2RGJ154W5MQ1AYGUQW01BHMG0IWDD33GRXZI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-dbf5-666d-e053-b784100a1840?person=22ad87cb-fa30-e4f7-67f5-32097517cda9> .
+
+    <https://data.rkd.nl/excerpts/778559/person/IDIKIQPJC45JMOLXWD5IFG2CSIFOZ3IEZ4HT3AH3OHIUTLWAHZJ3YN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-2d14-666d-e053-b784100a1840?person=64da38d2-b827-0507-3ee3-460e6cc9b2c5> .
+
+    <https://data.rkd.nl/excerpts/778721/person/IDMRHUF1E2OUN2KF31JLTODEUGAL1WNOHSPSWCHUJCH5YZIV0AZDZM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-5704-666d-e053-b784100a1840?person=1b7c8f1e-c169-43cf-5746-ece89ad0d218> .
+
+    <https://data.rkd.nl/excerpts/778721/person/IDPZHFEQ10ROBQCF3NPQGICW0CDIYJA2TTRCOK4VF2CQ1BGWHAIWPM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-5704-666d-e053-b784100a1840?person=d180921d-6678-278e-e336-3c96c4ce8dd9> .
+
+    <https://data.rkd.nl/excerpts/778739/person/IDGOPLUC3CQIPPC3XPEX4VLBDV2FVZAB40DQ3MVCLE5J0RBJW0HAHI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0553-666d-e053-b784100a1840?person=26bda6b2-1352-304c-b81a-24247a5c1ebe> .
+
+    <https://data.rkd.nl/excerpts/778745/person/IDMDCKDCPSQLYHBHCP2KXWYUCXT1LM4LTLLQ1HAJC4WRWSAYTGZZB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-f23f-666d-e053-b784100a1840?person=a72ca1ea-9e66-5516-ea5a-a6167212a9d1> .
+
+    <https://data.rkd.nl/excerpts/779020/person/IDCJPK5JBSDXZWH3KK0PRFBOLWCJGMNTVHUODOMDJYAEULF4KQOEG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0aa5-666d-e053-b784100a1840?person=a50f2b73-2e27-d669-e370-fb9c4d9679fd> .
+
+    <https://data.rkd.nl/excerpts/779020/person/IDK3QKPKWE04XZJRUUMZGUQSGYR31LXG453UQIADUNYSGHDQCNCBD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0aa5-666d-e053-b784100a1840?person=6c331c3d-8fb8-d23b-3c2e-0e490e99e0ea> .
+
+    <https://data.rkd.nl/excerpts/779020/person/IDVR5FU40FKJHRP12WAQLFY4T4SDPA4JEHKAH0N3PUUSCZBDIRYQ4P> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0aa5-666d-e053-b784100a1840?person=56011d62-927d-4483-3315-3212000282bf> .
+
+    <https://data.rkd.nl/excerpts/779032/person/IDMQXCAZPINA5IHQ1CRUHSNSDU4R0D3HPQZSOQIJADPTMOGSSKFMH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1559-666d-e053-b784100a1840?person=4d0a5598-75e9-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/779042/person/IDABWDAF3KGUETNRQP1MS4CYIH4BZHAQVY3DVNTBPSLAJDK04V5GO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840?person=4f131d2e-b3c4-882e-cb75-9b78e73f6219> .
+
+    <https://data.rkd.nl/excerpts/779042/person/IDAQAOBXW2QLTVL0M1WRKMRDUXADLE0EUHWX4E3VOZS21IL1OS1LPP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840?person=752ec457-5a8d-64b3-4182-99521d281924> .
+
+    <https://data.rkd.nl/excerpts/779042/person/IDKQFW3BZTI2UFDQ2YEWP12VDN4FDZIBQHW10NYBNGM5MQGIAQZGRE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840?person=27f56e51-0f0a-bb3d-fa25-6e032c85af2f> .
+
+    <https://data.rkd.nl/excerpts/779042/person/IDN4QDGP5FI0CUKATLVBNKWEFKFNYCTRPWIKOPANBMXNLVXBA5CTYM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840?person=10990d4d-6023-f9fa-b239-cc73aaa6fe18> .
+
+    <https://data.rkd.nl/excerpts/779042/person/IDPFPMWU5GBOT2HRIN3BPL4CKPLLJL5DP5YE1E3SGWSYEC14I5YDMN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840?person=ab488873-13ce-9603-800e-fbe1b9440b4b> .
+
+    <https://data.rkd.nl/excerpts/779042/person/IDST4SVZCSLYJXEWFYPY0MIAWD4OLZM12LKSEE50GEHRWFXQMQG35B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840?person=07054ac7-af22-9be7-28ac-13e620eea89d>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-5207-666d-e053-b784100a1840?person=722af56e-8f1a-decb-f526-9646929cbfa2> .
+
+    <https://data.rkd.nl/excerpts/779043/person/ID3ZXXBWZNXBDLIAFUIHQVCCUKTKBPPUK5VXZNW1L4N0DDCX2BDPUP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-f1ac-666d-e053-b784100a1840?person=98886a88-3be8-bacc-b0f2-c78b9f157c27> .
+
+    <https://data.rkd.nl/excerpts/779043/person/IDTL0GB5WSCVBO1LR1IWFNCC3TKE43USEHIZ2GFCDG1WQPNP4OAXN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-f1ac-666d-e053-b784100a1840?person=efcdab1f-7d54-dc25-20d7-bd5e75d056bb> .
+
+    <https://data.rkd.nl/excerpts/779132/person/IDAYAWJBHH5N4RIJNSQ3J0353BRHQ0SPYVDXKALWZIFO4AQP5E4KJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c433-666d-e053-b784100a1840?person=07c12587-878d-f4e2-0dd8-8ca6d66bb037> .
+
+    <https://data.rkd.nl/excerpts/779132/person/IDGOTDFZST3JTFDVXUYVWJTCMWE1V2ENMECSVXEY45NOFZXNVLZH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c433-666d-e053-b784100a1840?person=42a20695-a970-8d2f-4458-92c4b2c32c55> .
+
+    <https://data.rkd.nl/excerpts/779132/person/IDUYO32JDQRZDDPXGEK1NITYBV1JPGBURECODSU1O4R20V4SHLPVIG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c433-666d-e053-b784100a1840?person=5d78b052-3c68-5486-d946-4309a2f506cf> .
+
+    <https://data.rkd.nl/excerpts/779165/person/IDGHKCKIR4GIOMDCFC4B0ZFGL2EMSPCCHQXQ5JDSDL5OM3Q51IKZQD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1ff8-666d-e053-b784100a1840?person=30984824-2744-5063-8318-41aa4b8f726e> .
+
+    <https://data.rkd.nl/excerpts/779165/person/IDTCF3Z1QWMV04GLTDBUPCXVVYYI1ZBNWTJG0IFGI4AA2NPAZVZ5QM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1ff8-666d-e053-b784100a1840?person=731faaf4-6dea-cb7b-a37e-fc19e283657a> .
+
+    <https://data.rkd.nl/excerpts/779175/person/IDFCEZFV1DEKMFMSMSUMXLSZRSNPT0CGMLU5YFF2JTO4BUOMWQISNK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840?person=99b06573-ae74-2ef6-32c8-8fb0cb52fc34> .
+
+    <https://data.rkd.nl/excerpts/779175/person/IDL3DAOYTY3HNOGCNSMUU0YDNQXMZQZ0ILJIN32ZEOFX5QB1IGZCJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840?person=580f36a8-90aa-be6c-acc7-511a5895f63b> .
+
+    <https://data.rkd.nl/excerpts/779175/person/IDLT51VUEGHFNPPD0KBHOXIAO0FOH4XBZEG3H4ZWKT2YPUHLPM0Z2O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840?person=1dd35980-6a0a-ec56-b641-7a452d356b05> .
+
+    <https://data.rkd.nl/excerpts/779175/person/IDNQOPV1VUJJK1HGFTFYC0TU0OXBBO10YHBQOCMVODDKIKD4NFFZ4B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840?person=9b94cbec-de18-5084-2ec2-5edbbe8890a6> .
+
+    <https://data.rkd.nl/excerpts/779175/person/IDOSXX3IE5RKEUHWDCB2QSOLEVVHN05LKMNCQ4HSOVTFEWUVNPIVRL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840?person=f8b09014-1951-2838-eb9e-f9bed6bac70f> .
+
+    <https://data.rkd.nl/excerpts/779175/person/IDPN2T5WLWBEAJN0AH22GSUUZJHFR24WN3ZJDLCWGLCCJYUIB4B5VE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840?person=d14e9777-4764-8a08-2323-02cbe7a648ea> .
+
+    <https://data.rkd.nl/excerpts/779175/person/IDVWCFAWRACIGWFUOXVDMSKEW2VKMJIYFH2TDSQHFWQAKLYGFAFX2L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9b5f-666d-e053-b784100a1840?person=745b79e7-793a-cd00-a6b6-9dff8b94934e> .
+
+    <https://data.rkd.nl/excerpts/779183/person/IDO1F3X4V0BUSQPPH4PYWWRX4KOPWD4BDV35MTRLIXUUG3A05MC1LH> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-82bb-1a7b-e053-b784100aab8a?person=b6e5e527-97d4-5114-566d-dc59f3616515> .
+
+    <https://data.rkd.nl/excerpts/779183/person/IDVHRH5EYYPWWUDSUQ0XMN03FBSNBFW3H2W3JSIVCQDSKRWMM5Q4QG> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-82bb-1a7b-e053-b784100aab8a?person=6d59973d-b4ec-50be-b4a7-9274d4da3830> .
+
+    <https://data.rkd.nl/excerpts/779217/person/ID34SF3X5USWHJKKJEB54LSIIPRJX50RFNWNGLO5IC0B5LHR1VA4PO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0bae-666d-e053-b784100a1840?person=5127ffb1-a689-c6e9-4971-af159c293502> .
+
+    <https://data.rkd.nl/excerpts/779217/person/IDFRBGC55G1XLWBRZ0DONZ0JIGDEJWBYUUWZY1ZVJGRELEQ5XKDHRN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0bae-666d-e053-b784100a1840?person=a5537ffb-be6f-3d64-d071-2d72ac5052e5> .
+
+    <https://data.rkd.nl/excerpts/779217/person/IDJIHCAY14L1HGCFWAL0PS4X10BGAC0LKOXIJGVOE1OOXJRVIN0KVM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0bae-666d-e053-b784100a1840?person=322a5be4-dbf9-55c6-1459-1916fc06ffce> .
+
+    <https://data.rkd.nl/excerpts/779217/person/IDQWJGXOSN1ACQHSGYUQLZ40S2OKNBDX3AHUNOLDFJN5H3ERBMAAYN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0bae-666d-e053-b784100a1840?person=ecd8c042-c668-4edb-202b-f628d582e61a> .
+
+    <https://data.rkd.nl/excerpts/779295/person/IDBVZ0L4OLPSOELF1XU3OSYFGP5MAUFORX0FUR1SBPUV0RASELAM4P> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-89aa-1e00-e053-b784100af734?person=5be5235c-0516-b178-a565-e08e8ebba30d> .
+
+    <https://data.rkd.nl/excerpts/779300/person/IDYNZBGKJXV2LYEXYIGBGEG1L31IN1XBSK0FCF2JBWLH1QKVMVSRCF> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-89aa-1e00-e053-b784100af734?person=5be5235c-0516-b178-a565-e08e8ebba30d> .
+
+    <https://data.rkd.nl/excerpts/779319/person/IDHPRKF2IXJ1443OLURMUE2YGJGGYYVPISYED4UJ0ENPOCRE2OIKH> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-e5d0-6a83-e053-b784100a6e32?person=da560c7d-a833-e692-dafe-bb421b7566e0> .
+
+    <https://data.rkd.nl/excerpts/779319/person/IDIERPIEEOZYT5GZIDBKLNOE4HKH32MDHDEG1PCTEHJXXPG1IUDRPG> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-e5d0-6a83-e053-b784100a6e32?person=d6df5b09-8280-c8d7-849a-1c64fd31fb7f> .
+
+    <https://data.rkd.nl/excerpts/779319/person/IDN5BU04NYQ1KZFTC0NKGFHTT4L2NORHCBK5OHQF5CVUYQQIHVCJL> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-e5d0-6a83-e053-b784100a6e32?person=103a33ae-7a1f-c35f-a781-0ddef6cc49b9> .
+
+    <https://data.rkd.nl/excerpts/779319/person/IDWG5CP2VGGD24LFPOE1PDEMOAAHAVE4PEZSMWUNKQBTKTBYGJUJ1E> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-e5d0-6a83-e053-b784100a6e32?person=b177c55e-3ea8-5ced-30fd-77fadf280bd7> .
+
+    <https://data.rkd.nl/excerpts/779323/person/ID0KVXRZNNCUYTMDGYU04MDVEMYMVQVXZGMRVGZQOXLZSPQSC2SU3B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b912-666d-e053-b784100a1840?person=3f0db6f4-5db9-400a-c99e-7ab045f34e95> .
+
+    <https://data.rkd.nl/excerpts/779323/person/ID1OKGRPAGYHQ2DSEUXXEAD3H3VPL2JWGOC4C45DDD5O2CDVMKLTCJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b912-666d-e053-b784100a1840?person=04fdbf4a-4177-04bd-2b98-413331c42477> .
+
+    <https://data.rkd.nl/excerpts/779323/person/IDNFO5ZCHJMFMAO1AA3ZMM2QQKLH0IQCA345SRVEJZYM1IPATXZRGO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b912-666d-e053-b784100a1840?person=e5dd303f-6dc8-293f-9d54-3016afebf1ae> .
+
+    <https://data.rkd.nl/excerpts/779323/person/IDNWEFAW0OE10RETUDQV42TKZTYL4A4IPLSC224GGI5QF3YQ4FRLGB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b912-666d-e053-b784100a1840?person=6025ec3d-85cb-5674-476a-580babf03c45> .
+
+    <https://data.rkd.nl/excerpts/779323/person/IDSKHWF2EQWP5TOHAZP1PMZHSHMDTSDWB3EJVZN4WKZPKQBGSS04K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b912-666d-e053-b784100a1840?person=b4fdf697-12d8-82ef-c06f-dca8fb7ddd61> .
+
+    <https://data.rkd.nl/excerpts/779323/person/IDWLYHHW3SK4ADP1WFHXQDA1SVYE2UKNNFT4HLH1EV4BBJWQ2ODGPI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b912-666d-e053-b784100a1840?person=0ee7d6c5-f6cb-9a1d-2cdf-9f17822ddbd8> .
+
+    <https://data.rkd.nl/excerpts/779355/person/ID1QA42NYF3GKRE5OICDNQUXLVFO4KTKMOIU34CGGHAM5WYXBNY3XP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-bcc7-666d-e053-b784100a1840?person=65cfa283-06f3-cdc3-05af-3ab38873446b> .
+
+    <https://data.rkd.nl/excerpts/779355/person/IDFPYATOCEYF1ECUGKC1HV2YTLPOYSIJDHCRTMOKLDQTQPVMB4XCI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-bcc7-666d-e053-b784100a1840?person=a8183182-c003-0978-6634-c53a1d723519> .
+
+    <https://data.rkd.nl/excerpts/779355/person/IDIGMNDGQOCPKZBCBH0C5KI5O3IEKH0LIDFNYBS0JM2WVXGBPSD33C> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-bcc7-666d-e053-b784100a1840?person=ceef9891-67de-5d80-9dcf-d481a224ac30> .
+
+    <https://data.rkd.nl/excerpts/779355/person/IDZVPVBJBKGXC5FCMQL5CBPQA5MIJ3C3Q4AM00W01XY3BM5E4P5GF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-bcc7-666d-e053-b784100a1840?person=538bf0a7-6b09-0f7e-d1c1-9f524e540cb7> .
+
+    <https://data.rkd.nl/excerpts/779387/person/IDEI3DUVZVN0PQLNWLITKMEG4TJH1MIWCXZVXQ2RCT3BD5VJXTG04> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10e-e484-7dcb-e053-b784100a971b?person=9d7a6ce1-8404-9de7-85c2-5201e03e50d9> .
+
+    <https://data.rkd.nl/excerpts/779387/person/IDU3H04ZX0F304LCAK0MLQJZCWCDAIQGS0KKPEYUNNLGJSPEVV0AJE> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10e-e484-7dcb-e053-b784100a971b?person=ee447232-39a6-8672-bf92-21483c4fa7b6> .
+
+    <https://data.rkd.nl/excerpts/779404/person/IDFATR1Y4DC4FGCGNBGXHSXH4FYOS04FQW1Q23YRO5EGTGP5BNOGMC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-a956-666d-e053-b784100a1840?person=dc9748b5-d8a8-e329-c0a8-f1ad0b6ad047>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-80a4-666d-e053-b784100a1840?person=3521fa7b-8d4a-5f15-fe57-8b9f3f80626a> .
+
+    <https://data.rkd.nl/excerpts/779404/person/IDSJH45NGXDZJGHFBU5RCLEUVGUJ2MEBQ0FSZJ0BG410SVVX34ZOBH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-a956-666d-e053-b784100a1840?person=014846ad-91f3-2357-6ca5-76d2f4cbd6a7>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-80a4-666d-e053-b784100a1840?person=de3f6957-2f14-52ae-5535-4db6cd8bad12> .
+
+    <https://data.rkd.nl/excerpts/779417/person/ID32NMEFCT0CLNE0GPO2DUEGPPEI3XCLNZCOEJGYJ3JK5J5A33A3AE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-cab0-666d-e053-b784100a1840?person=a740045f-f524-480d-3b30-defad2b10e2d>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e0-96a4-666d-e053-b784100a1840?person=a93c5555-57c3-bdb7-35bb-ae5d9edb0569>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-2375-666d-e053-b784100a1840?person=99aa4c27-5b9b-45f0-cc37-8589bfe4370c>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-015e-666d-e053-b784100a1840?person=587b2f1e-0cd0-0979-3573-65ab5e205c7d> .
+
+    <https://data.rkd.nl/excerpts/779417/person/IDKHQOH25YVAE2EIHD5WHTTZZKLE2OLYDLT2HDQPT2AOOCSQBRCGD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-cab0-666d-e053-b784100a1840?person=6b1b4ffd-49f7-0f40-4e8e-d0c5a0076fee>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e0-96a4-666d-e053-b784100a1840?person=28aed8e3-b7ec-8787-b503-4b3482fd45c7>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-015e-666d-e053-b784100a1840?person=2c719186-a7d6-9545-62f5-838f026cac43> .
+
+    <https://data.rkd.nl/excerpts/779417/person/IDLJE3HGG1YLMGLHBYM5YFYYT2HD1HDIH2EDEO52ONBMUA4GYNFW5I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-cab0-666d-e053-b784100a1840?person=1d837ea9-b78d-68e1-1ed7-709d612d1b2c>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e0-96a4-666d-e053-b784100a1840?person=000937b6-73a8-42fe-6237-8d7d5cfb157f>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-015e-666d-e053-b784100a1840?person=dd6de43c-6bf1-8896-3992-bb448c6d3553> .
+
+    <https://data.rkd.nl/excerpts/779417/person/IDSO55144YN3KMDF2MUHYRP113ZDS5VHSPW33QQJF2M4WJ4E5TDCOB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-96a4-666d-e053-b784100a1840?person=156a7813-eb35-615b-cbd1-ec3605bf2375>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-2375-666d-e053-b784100a1840?person=94fa1d7e-253f-7d80-5e1b-1955b7e81544>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-015e-666d-e053-b784100a1840?person=587b2f1e-0cd0-0979-3573-65ab5e205c7d> .
+
+    <https://data.rkd.nl/excerpts/779429/person/IDETH4IULSLZUNE41IO3QVF2VPETI2UZQV1GV2ODNCEZNMR0JXJIG> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-ce70-6a83-e053-b784100a6e32?person=a8e7b425-15a4-a645-6a0c-fb315f9de56e> .
+
+    <https://data.rkd.nl/excerpts/779429/person/IDKP5T1WQZ2P1CG2LUQ0Z0B4HFXMN5LOPKK0I0ZPKC254QTC5HTZ0F> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-ce70-6a83-e053-b784100a6e32?person=a8543142-85cd-e7bb-7d59-fca49ab62140> .
+
+    <https://data.rkd.nl/excerpts/779614/person/IDFAZBW2K544ROEHDWOEWTRBUATKEP0XRAWL3MOBHPXVVMYBXPRNFK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-3698-666d-e053-b784100a1840?person=3963040b-48e9-1915-5981-20934ff48257> .
+
+    <https://data.rkd.nl/excerpts/779652/person/IDD2R1CJZ3RQ5NMPWOJM1NWZCBBEIRUDWEKGCISINI0DWZV1MX040I> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=cb887461-fcf2-2373-a7f1-c2bc29f06d92>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=f121f876-b5b1-10be-1f10-1fd9502e2562> .
+
+    <https://data.rkd.nl/excerpts/779652/person/IDZMNGJJAQZIEUCCW1Y3GL13CKZK5XXEKHXYLNIBLGVC2CEX4DZXJG> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=746c4b9d-fdc3-25c6-971a-bc3755f14c68> .
+
+    <https://data.rkd.nl/excerpts/779658/person/ID3FEVY0SCWSWMJQMTBUUETERCMNECAVGWQGQWAKOWDX2GJGGMDPYP> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=17cf99da-6185-3244-19fd-60aaab72a452>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=746c4b9d-fdc3-25c6-971a-bc3755f14c68> .
+
+    <https://data.rkd.nl/excerpts/779658/person/IDLX3YGM1T2SJW21UZ0N4RXVITFXVIC0L3R2U3BL2NXPCCDN10OB> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=868bf27e-725e-0af9-0c47-9c6b4519b5cb> .
+
+    <https://data.rkd.nl/excerpts/779658/person/IDM4BKEH2U5UY1JGNLDIHUYKLHTNUPTY2IHNRAEED30IYWCWVP3ABL> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=cb887461-fcf2-2373-a7f1-c2bc29f06d92>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=f121f876-b5b1-10be-1f10-1fd9502e2562> .
+
+    <https://data.rkd.nl/excerpts/779658/person/IDP3FJZGDS2455DYMRXD2N1KR2UCEWNGQ0EVFFP1D2W0PYKWC5J52M> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=db230f29-ae99-6187-4476-07bfd1436d8a> .
+
+    <https://data.rkd.nl/excerpts/779658/person/IDYLIPAUXXUTXFPJWITLKPZHB04CV3DPBATYN3JTCRMWE2JEYNOAQM> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=17cf99da-6185-3244-19fd-60aaab72a452>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=746c4b9d-fdc3-25c6-971a-bc3755f14c68> .
+
+    <https://data.rkd.nl/excerpts/779658/person/IDYTED0SII03IGGW5QN3P50IUV2GWDZHFRKV3VLNPLETKFSF5NZWFK> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c76d-1e00-e053-b784100af734?person=bcc2e94a-830f-a10b-9dfb-f84a0159797c> .
+
+    <https://data.rkd.nl/excerpts/779808/person/IDTA4JGVJ5MXBTGENQTUWA4YJ4VODQKP5TIPRJ4JIRTDRXUGKWODVJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae03-e3d9-6b6d-e053-b784100acdee?person=de7d1960-0c13-4f96-4414-3ab03d9cd5bc> .
+
+    <https://data.rkd.nl/excerpts/779813/person/IDHHD1XAPOBYJIJQD2S2IKASV51IN2ZN0KWHDSNBEFSL5ENM45EMQM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8252-666d-e053-b784100a1840?person=58853a91-e6c6-10c0-683d-04457a8bf6c2> .
+
+    <https://data.rkd.nl/excerpts/779813/person/IDRBW3TDD1VQP4IENLXPH31K4CDKNQYHDCC5I3VPJG35N1ILLM5URG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8252-666d-e053-b784100a1840?person=64e2d225-e44e-7644-6659-e87b5c93f209> .
+
+    <https://data.rkd.nl/excerpts/779813/person/IDXKC0HKNCSA0SP5FHCSNN5EQYHEZ1Y2RLL33PHLCXFKBRVXITLHXL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8252-666d-e053-b784100a1840?person=a97f0a33-16d8-608e-1c9c-2e1de35b0c04> .
+
+    <https://data.rkd.nl/excerpts/779813/person/IDYMM350EZ3XX4KTHMMYGS44EWLCTPLVE4A44QG1HZL2KXWDH2IHAO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8252-666d-e053-b784100a1840?person=06e7fb86-ce5b-f13a-f493-dff54058a6a4> .
+
+    <https://data.rkd.nl/excerpts/779842/person/ID15G2S51AKZJVFFEAWU1NNLUNAL2JVJT4MRAAJWKZMO15D5LCKTZP> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-ad2e-6a83-e053-b784100a6e32?person=d0a5087c-42d2-a60c-409a-7b0ba5852ed6> .
+
+    <https://data.rkd.nl/excerpts/779842/person/IDGX0W5HJOIGOBIOJQRVLTE0TNEKXGCFW1ENZSVAHZE4V1O2AL5HZD> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-ad2e-6a83-e053-b784100a6e32?person=9b8e7e3f-8d15-0680-5073-dea0b5c0b806> .
+
+    <https://data.rkd.nl/excerpts/779842/person/IDZ1Y2V1XH0EJKMFVKSKVUHCIZCFXTSWBDC00SLXKCMW1UFUBVGBBL> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-ad2e-6a83-e053-b784100a6e32?person=9b8e7e3f-8d15-0680-5073-dea0b5c0b806> .
+
+    <https://data.rkd.nl/excerpts/779991/person/ID5XDA4AE1NJMM3KZX5PJMKFA1LKYEEPO2WQNOCGNXLW5GUH4VTIH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4ce2-666d-e053-b784100a1840?person=4d0a5597-842b-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/779991/person/IDG2PTXHXBBLKNCV4GUI4H132JEIFLJXXWYIYZJIJL5S2AJNE0FK0J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4ce2-666d-e053-b784100a1840?person=4d0a5597-8431-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/780143/person/ID1J4CPPIQNOUSHZCU4CPLQBBDEJLASTTDQFRCZIE0ZTBTW1XWCAFM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-adea-666d-e053-b784100a1840?person=9a9c3f7d-c6e8-a682-1296-507b898f3f63> .
+
+    <https://data.rkd.nl/excerpts/780143/person/IDBG52MLG1FOX0P5LO0FNWDKSNCDIQPWRGOIYKGLRGVYLGSLWKDWN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-adea-666d-e053-b784100a1840?person=deed60be-3c5c-d5c4-fdd6-898889a6cbbb> .
+
+    <https://data.rkd.nl/excerpts/780143/person/IDSGVTH44FC35DCVKTUN41JX0BWBCHSA0OVO4UVPI2UKCJ35CJ0O1D> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-adea-666d-e053-b784100a1840?person=3034a99f-f0a8-7c1b-7110-e0f27e053f3c> .
+
+    <https://data.rkd.nl/excerpts/780367/person/IDVBVK1SAA5XYHNCN45P3QSKBIACOQ5WUN5UCYT2F5MBNSBBHONOTG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7866-666d-e053-b784100a1840?person=4d0a5597-ad4c-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/780367/person/IDWJEE1UIROXIWEECP2EAKLRIW4DQZM3YSIXLGE2GXVMVR0WWUQY4J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7866-666d-e053-b784100a1840?person=4d0a5597-ad4d-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/780381/person/ID50RSAQ1XHNYHMABPYMQTDQHDKMCERBU4XVZ05HBFAJJV153H11HJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-d024-666d-e053-b784100a1840?person=56c9a58a-c92a-85eb-c874-db7e7cd00b33> .
+
+    <https://data.rkd.nl/excerpts/780417/person/ID4VXSMSHH2MGXEFLXJBNLRNRDNEJNU01RFL1MYUDHHXWV5XSTZ1E> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-dd3e-1e00-e053-b784100af734?person=27815ea9-dc35-9538-f42f-e53c655ad67e> .
+
+    <https://data.rkd.nl/excerpts/780417/person/IDAK4BWWDPOW00BLVDP0V1RQCRBKNQWMQTC0Q0ZVMADYQXPF432BYO> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-dd3e-1e00-e053-b784100af734?person=ac7e7c25-1bc6-817c-88ef-bce21e63cc96> .
+
+    <https://data.rkd.nl/excerpts/780417/person/IDVKSUTN0T5HQGDKGBC2APK2NOHP4WSWXHO0K4YDFLBT0OTNTIAHFB> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-dd3e-1e00-e053-b784100af734?person=0c2260d0-f705-cb79-2457-6d781ab51be1> .
+
+    <https://data.rkd.nl/excerpts/780417/person/IDWOB5RRNNFEV5GKWGOMRPY4MFKHEYQJ5FODQG2QFK3PFPQI0SSQNI> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-dd3e-1e00-e053-b784100af734?person=0c2260d0-f705-cb79-2457-6d781ab51be1> .
+
+    <https://data.rkd.nl/excerpts/780446/person/IDFV32AG4UB1SYGUOL20NYOLIR3B4BUQTU5LTHONM40FZTDT0GXEOB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f02-666d-e053-b784100a1840?person=85503a9b-26c4-98ac-35aa-6a378ca75706> .
+
+    <https://data.rkd.nl/excerpts/780446/person/IDGDRRJYMIRRQ1PAMZX5CTR0AZHF2SROFLJGD2BHLABYN12V2OOSBJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f02-666d-e053-b784100a1840?person=a245dced-4f5c-617f-119e-fddfbaee6671> .
+
+    <https://data.rkd.nl/excerpts/780446/person/IDMDLGSTRSNJSSGOZWI3J50MR0QFGBIAVWYZ2HFHFDEBOSLXHIM1L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f02-666d-e053-b784100a1840?person=2b9ce43f-a586-408a-4aef-a8ac80886c6e> .
+
+    <https://data.rkd.nl/excerpts/780446/person/IDNPA53NM0DA4LPC4YDZSGJXOKNBWH3R4HTEB0AWSJBWZDYUIUEPF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f02-666d-e053-b784100a1840?person=cf778b6c-cbe7-23ad-b5f0-704c2d316809>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f02-666d-e053-b784100a1840?person=db28a668-db41-c925-0d61-aee54eb56b78> .
+
+    <https://data.rkd.nl/excerpts/780446/person/IDYH14SXNU30JZOP011EUHK5EVOM1TZHAKLYFGCOCXKQM3LHVNMHEI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f02-666d-e053-b784100a1840?person=a15b0b62-21ab-9c59-901e-78987e73a611> .
+
+    <https://data.rkd.nl/excerpts/780452/person/ID1G1PQH1BCU2WO5SG31CZLVVUVDPALDTXOE5ASCK3HPKPDO0FMIRC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840?person=daf12057-eb53-ca47-a798-e1856e6b6301> .
+
+    <https://data.rkd.nl/excerpts/780452/person/ID4LBQGGQB5QXVG4HSVD3ZCTWWNOXXQ1Z2SFYOJGECDGNAP0QWN3RJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840?person=5221d372-8586-f87a-bf86-144627ae2094> .
+
+    <https://data.rkd.nl/excerpts/780452/person/IDPNAFHCZUXVX5KTBMYOTYD0ONVO4BFGBZXCSCARDTR2WN1GVMZAMI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840?person=c4fdf884-8663-0405-427a-f1d7ac2e561e> .
+
+    <https://data.rkd.nl/excerpts/780452/person/IDPVLLGCD2Z0SP43VUOHLXZO03GAGSMPIQPZXFAMBT2EIBIDEOC3P> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840?person=c602586a-ca2c-5563-f2c9-c5b958194be4> .
+
+    <https://data.rkd.nl/excerpts/780452/person/IDTQZSQX0QGMLRPXFFKBHRBE5BOCX5KUHY2PATXLMTFGXRK4SG005H> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840?person=e3ddd7d3-d00a-a032-c416-8e8b567ba2c4> .
+
+    <https://data.rkd.nl/excerpts/780452/person/IDXH440OJAQLDAB5SRFOTNVDJ40NKHELXKAEHD33PM40413LVFKNQE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840?person=51009e8f-d928-8c11-c79b-d65a8a927ce8> .
+
+    <https://data.rkd.nl/excerpts/780452/person/IDXQNCQ2O1N2WKHZ3DNYKACZZZ2NN2DGXQ1N5L4YN4YVPLREDEH4TD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-942d-666d-e053-b784100a1840?person=b3f48ed3-2068-c80c-9637-3b1381d9ae44> .
+
+    <https://data.rkd.nl/excerpts/780498/person/ID2G3NCLNXJL5OLHFRUZP2JPRVEO1QXNNYVAAAH0HJESQTHCXLZAML> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5fc7-666d-e053-b784100a1840?person=2d00bd24-10a5-9fff-4976-c9bb1ea80a2e> .
+
+    <https://data.rkd.nl/excerpts/780498/person/ID554RVWXM3UVHL0RL4FAAO4LYVDDZR2RVGPT14YFFVD2MG4BR2P3D> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5fc7-666d-e053-b784100a1840?person=1b1b3514-e9fc-b194-dd34-991cf9c112f9> .
+
+    <https://data.rkd.nl/excerpts/780498/person/IDKLN4AZD2IYWLGJAYN311IGZYZEL25T0LYWXWI2KGRAMJIJ3C1ORK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5fc7-666d-e053-b784100a1840?person=4a1d5b40-1db4-22c8-440e-4d1dfe450e3f> .
+
+    <https://data.rkd.nl/excerpts/780498/person/IDTZAODZ20RBFBHQI32H0NDMSRSPKBMQSEICCFLVELQKYOIGEDHADC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5fc7-666d-e053-b784100a1840?person=bcb03dd7-a98f-f3d0-fa61-fdf7460c8054> .
+
+    <https://data.rkd.nl/excerpts/780498/person/IDX0G20LUJTOYNF5UID40PYMH4QYSMM5QUTZZNODIAEIW34USBTMN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5fc7-666d-e053-b784100a1840?person=2418c256-4713-9ff9-08bb-add4b8db30e6> .
+
+    <https://data.rkd.nl/excerpts/780558/person/IDSYEYMDBWWW4XFXDOTCLHQJGKPCLWTBNI5IDU5JFEZCUIR3YNTQOH> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-215e-1e00-e053-b784100af734?person=834d3299-9e51-a339-e3e9-781bf2ad9262> .
+
+    <https://data.rkd.nl/excerpts/780707/person/IDGSG04Z1EGKEUI0BFRX2EN1FXZHYRELYDFHMQNCLMACFRUMRPFZCP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b5f-666d-e053-b784100a1840?person=62231846-e2cd-723e-c23a-14b56f07b6e9> .
+
+    <https://data.rkd.nl/excerpts/780707/person/IDMYOCAEU0DW1JPH00CTN4R0AMREYIO0SLEWW53NF3MFLZFWMYGKUF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b5f-666d-e053-b784100a1840?person=adc1ad06-9bab-5b07-c4bd-a8dbf103075c> .
+
+    <https://data.rkd.nl/excerpts/780707/person/IDVTZYHK0QJKFJJT1YUREX13OLNCC5IMCOF0X0HL13OUATHIZS33N> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b5f-666d-e053-b784100a1840?person=98969aae-2143-87dc-663e-5f9c761f8593> .
+
+    <https://data.rkd.nl/excerpts/780713/person/IDA13UZR330DYJC24LXF4OITMOTGZO0K05VUMTOSOOPC3DAFRPYWN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9cc2-666d-e053-b784100a1840?person=bb9089fc-f0be-ce66-e6e8-130809f69d57>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-cfff-666d-e053-b784100a1840?person=ef0bc75a-e989-a0f7-14f4-ad6fcc64e4f8> .
+
+    <https://data.rkd.nl/excerpts/780713/person/IDBRQORGVMFB4BMQQIEND01RNZPDQGQT23NSVYS2NFTYLIN0ZYZKVL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9cc2-666d-e053-b784100a1840?person=4361e93a-39da-da7b-97f7-488b1d040bc8>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-cfff-666d-e053-b784100a1840?person=41d35ca9-282d-6dd2-2bd3-0e55854369b5> .
+
+    <https://data.rkd.nl/excerpts/780713/person/IDUZR1O3WRHYUBJZ1XDHC24GRZXFZPJM3NOR2BXHFMMB2BHUJXZVL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9cc2-666d-e053-b784100a1840?person=bb9089fc-f0be-ce66-e6e8-130809f69d57>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-cfff-666d-e053-b784100a1840?person=ef0bc75a-e989-a0f7-14f4-ad6fcc64e4f8> .
+
+    <https://data.rkd.nl/excerpts/780721/person/IDAY3VPNVZWY00JBWXFYVW1DRQIBQBJNT5Z51451A01BTI1212ZKK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-b3d3-666d-e053-b784100a1840?person=a1e4bc19-40aa-eb0d-cdeb-e76544a85be4> .
+
+    <https://data.rkd.nl/excerpts/780787/person/ID0IZ5PDPRB4KRFAS1DRTTIT41J0ZOUEI3MPYP4MOFTFRTDKKMKBC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-40a9-666d-e053-b784100a1840?person=c893a53f-404c-c3ed-5075-97a2e20a50a3> .
+
+    <https://data.rkd.nl/excerpts/780787/person/IDFBJ43HFQIKIYGXR0PHJUCQSVQFSX5RIJ3ZESL0IYIT3G3J3LJ3AK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-40a9-666d-e053-b784100a1840?person=bfe08045-c1d3-bbe7-2a37-02b2bced1d0c> .
+
+    <https://data.rkd.nl/excerpts/780792/person/IDF0SWL3OZNZTYGHXO54E1JB3YXEUSJMUENUAYSVJAQJWRWL40DU4L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-87f9-666d-e053-b784100a1840?person=5a5b7bf5-6706-614a-9a8c-77f867e05fc4> .
+
+    <https://data.rkd.nl/excerpts/780803/person/IDOSAJGJCRVWGVCJIOEJ2CHABHXNXSIZG50B0TVHEJGZ1JV1XUBWHC> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-04bc-1e00-e053-b784100af734?person=35ac1c7a-9401-5d16-90ad-9a06fa68f4a4>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd5-04bc-1e00-e053-b784100af734?person=f646c69f-a8fc-d790-44f1-9ac4b5289ea8> .
+
+    <https://data.rkd.nl/excerpts/780805/person/ID2JQANSBDNGDAENDIR0QTNIIR5OIWM3F1IQ4SJQKCYIPJYSVQX3TH> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-04bc-1e00-e053-b784100af734?person=f0dff02b-7aac-49c1-6de8-41776539e4ff> .
+
+    <https://data.rkd.nl/excerpts/780805/person/IDNFQY4HOU2RKJDGJMPDNZI5W0JCQZCJC4AVFCMCPJPBQAP0HE5IBG> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-04bc-1e00-e053-b784100af734?person=35ac1c7a-9401-5d16-90ad-9a06fa68f4a4>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd5-04bc-1e00-e053-b784100af734?person=f646c69f-a8fc-d790-44f1-9ac4b5289ea8> .
+
+    <https://data.rkd.nl/excerpts/780857/person/IDINI4DXRMGIWCIATONTFSR2FR5IDY425JSNDDKKGN515DOU0KFTR> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-8b5c-50ee-e053-b784100a6caf?person=5403f977-9019-aca0-b177-92ffeef3d5cb> .
+
+    <https://data.rkd.nl/excerpts/780857/person/IDTX5ST1DMTRMSDHQESDULYIUFYOYSZQI5SLNR5VEWBYKABHVFIXDD> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-8b5c-50ee-e053-b784100a6caf?person=f95ad1f8-04bb-cc82-c7c8-66122d1ddb38> .
+
+    <https://data.rkd.nl/excerpts/781082/person/ID12SD1XUWND0MKXKLSUE1L4RWOIMJXDWVT3322XMKGO4VYMDELGEN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-91fd-666d-e053-b784100a1840?person=4d0a5597-a87c-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/781091/person/ID15OBIWNLQAWSP3MF4H243M1B3BU2HAVW1UTKVMIWTHCFRXZGACK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b514-666d-e053-b784100a1840?person=25bce461-eec9-7692-307d-ba7c74370bae>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-c00f-666d-e053-b784100a1840?person=a763aadb-77bf-5fef-7383-9765028f116e> .
+
+    <https://data.rkd.nl/excerpts/781091/person/ID2NUUYCQ1QMF2J0CE3ARU412FQLCCIJIFTUZESTEOZ1YTXT12KSSD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b514-666d-e053-b784100a1840?person=8c6e42f6-e077-d2bd-84c1-bf009ae5e4c4>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-c00f-666d-e053-b784100a1840?person=0ab3defa-e5b7-9c89-bd15-1ceb2e3d8e76> .
+
+    <https://data.rkd.nl/excerpts/781091/person/IDG4AIDMVLOIE4JU3XPEESR2EI0PLPJUY0YHG2N4GZZY1HSAGHJNB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b514-666d-e053-b784100a1840?person=8504ea95-018b-4861-88fc-4967e2d8fcf8> .
+
+    <https://data.rkd.nl/excerpts/781156/person/ID21GLXHR2QZSMMD2PV01J1Z3S3FG5GQSOVMTQJTOWL2VZ5ZRYSNHH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6ca7-666d-e053-b784100a1840?person=4d0a5597-fd45-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-112e-666d-e053-b784100a1840?person=4d0a5597-d9c2-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/781156/person/ID5XODBB2OHO1JLL3PZDXLK3KR0KSH1PVLFM03O0PF5X3EK2J1NZHJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6ca7-666d-e053-b784100a1840?person=4d0a5597-fd44-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/781156/person/IDF1OOHWOVR1WRLIIC5GTMAWU3QB1WRJSNLIBTUEDHP2PH5MO3ANZP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6ca7-666d-e053-b784100a1840?person=4d0a5597-fd48-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-112e-666d-e053-b784100a1840?person=4d0a5597-d9c6-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/781281/person/ID2V2QBGFURBJMFCT41WB15UDBSIWSNOFQSB5Z2T4R3EXT03N5ZKC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=7c594c6b-3098-36fc-5a44-e8e162cf5b63> .
+
+    <https://data.rkd.nl/excerpts/781281/person/ID4STELWDVKK0KKT0CIFAQMMFHUK1UFFVGT4JARPFD2RTB1NKM1IHH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=5aa4e8f9-3ed6-ff42-4b64-6959a7922c66> .
+
+    <https://data.rkd.nl/excerpts/781281/person/ID5WEQD1ZK3NEKFHRFEPKGAYIBKHAISPP5DNVT1ME1U5HZG21NNPXB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=69efb2e6-836b-a337-0e98-61799866d64d> .
+
+    <https://data.rkd.nl/excerpts/781281/person/IDDGCDZ3H1ZUSOIRUEAJRLWGXWAK2KDLRND0CIGCGKIOADUNJCIWCN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=24fbde5e-f6cf-a2c5-1823-96baf5ae5919> .
+
+    <https://data.rkd.nl/excerpts/781281/person/IDDWJVMVB3E12FEZ3TJXF1PSC3ABBEGYGODRO0SKOAIZRU0C51H1JP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=0fc7d566-6d25-d86e-1f59-497bfb27d8d9> .
+
+    <https://data.rkd.nl/excerpts/781281/person/IDEO1BZDTUMX4FKVHCRRFA4IVDGJDKAKX2YYFNIDDJ1LBTFFZHR3QN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=78396af1-6697-f374-4d4f-b3f3c99e7f0a> .
+
+    <https://data.rkd.nl/excerpts/781281/person/IDLZ5FQUXZVPI1K0TRH3ETCI5RQNQ2I1RXSVLXIPJHPIQV53ESIWID> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=a1492dc0-e502-b50f-3b3b-58d98535a252> .
+
+    <https://data.rkd.nl/excerpts/781281/person/IDP2V4VX2CQEFMGMIK5LJIPJ01BXED2TBEWMO0GCKVXU4G4W01UTE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=06fdc46c-dedc-95e8-9804-34563e6dce89> .
+
+    <https://data.rkd.nl/excerpts/781281/person/IDVTUDWIWQYLPUDN1YF1CMN5KI5PFT3FSLOC22G2GX5F05MZOKDCPO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=ba86fcca-6083-d062-4ad9-48d5cbf26a0a> .
+
+    <https://data.rkd.nl/excerpts/781281/person/IDZGMMKB5SO3KBNRRXM5YVBXMSIJ3XMZXT15RJ5RDELOOXBGWM5R4K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6867-666d-e053-b784100a1840?person=d37aa25f-9f77-13d0-7efa-d32223e21b9f> .
+
+    <https://data.rkd.nl/excerpts/781370/person/IDX3INX1NLUH3CMTXNZXUC3I000J2PHAJRZVERIMK5ENHXA3WUMCYE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-1277-666d-e053-b784100a1840?person=9b2ea8e6-9268-6ad1-98c6-0c58ddaa257e>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d3e4-666d-e053-b784100a1840?person=0e3a50f8-be55-9205-aaf5-2b08fe1ae9a0> .
+
+    <https://data.rkd.nl/excerpts/781380/person/IDBYD1CS1IHDVDMYP4Q42Q15H3BH15HC4EKP3I53GFECOUKSDIFKXH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e80e-666d-e053-b784100a1840?person=43445efa-cfc8-6f35-f3f5-8b8fa2e3ea39> .
+
+    <https://data.rkd.nl/excerpts/781380/person/IDOYDN5VHRHFAAJW11XQRPNQBFRFVEC5HTEURAVYHG4VQVUEGGHAWI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e80e-666d-e053-b784100a1840?person=104a002a-4fb2-e546-1b48-7dc40d3bcb00> .
+
+    <https://data.rkd.nl/excerpts/781380/person/IDXRSMBW3ZXY31EEGIEWYOV3BQ5OCJL45IV50K0XOZUTAWNC1XG23I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e80e-666d-e053-b784100a1840?person=7e2efa8e-a66a-df2c-581f-f42bb4f96241> .
+
+    <https://data.rkd.nl/excerpts/781391/person/IDCNLINXEBSGSZPUCDOKOQ1NGNRPQ51I1AGD0K33NGMLI4BAN2KMU> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-0cf1-666d-e053-b784100a1840?person=33e39888-7e12-97a1-06e4-a75d0f0fcbce> .
+
+    <https://data.rkd.nl/excerpts/781391/person/IDQVGL5DH0HFF3BY5O0L42NEZ00ZLKCOJPZ4YDXP3IIPG5UA4NODP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-0cf1-666d-e053-b784100a1840?person=b2fafd3d-ac58-0694-ecbf-d92d3006b9d5> .
+
+    <https://data.rkd.nl/excerpts/781391/person/IDYBMV3OUKOD1IKSPYPONLOKKAAHYA4I1YADFK4UJVO3PUBMI5VFWJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-0cf1-666d-e053-b784100a1840?person=33e39888-7e12-97a1-06e4-a75d0f0fcbce> .
+
+    <https://data.rkd.nl/excerpts/781450/person/IDGXRVFUBE2VMROJXX152ANJIZCIOEVVUICF3MX4GKEN13A1J4NR1H> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad1-1810-1a7b-e053-b784100aab8a?person=ab3a20ef-7109-fa92-bbf6-431aad6c1e0b> .
+
+    <https://data.rkd.nl/excerpts/781458/person/IDF3KAEEPMG0B1DYKN53MN0OKPOMQA0CMUCMZW4DEMHMUY5ZGVXPYB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-5ec5-666d-e053-b784100a1840?person=a83dd462-5179-c11b-119a-446cddc24a7a> .
+
+    <https://data.rkd.nl/excerpts/781458/person/IDPFLY0YGRQGLPEGX53LSTBIMM4HKBGZXHOVS1CYMUBMRQJ15HFNIK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-5ec5-666d-e053-b784100a1840?person=a83dd462-5179-c11b-119a-446cddc24a7a> .
+
+    <https://data.rkd.nl/excerpts/781510/person/ID0LIRWE204C4NHOTI0QUY2F0JWEEIU3AHOQZPMLP5X1X1CKBMHIHK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840?person=295092f0-5a8f-8657-6dc8-95a2d3696136>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-7d87-1e00-e053-b784100af734?person=010f0755-1cb2-bb2a-0e8e-85529e893e20> .
+
+    <https://data.rkd.nl/excerpts/781510/person/ID2FM3EJ2ITOU2OKB5FODNH1U5BAI3E4EI22TUXL2GA025UAQ2QYB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840?person=bb070dae-0785-31e2-fe7b-8b8f0ed5489f>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-7d87-1e00-e053-b784100af734?person=6dfaa253-49e7-5df5-79bb-2bb4d805fe4b> .
+
+    <https://data.rkd.nl/excerpts/781510/person/IDJRNULDOQ5WKHPOU5JQLUA1NNSDBZ0NVXMQ2J3WFAXWE0KYZSBZ0N> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840?person=03fa45eb-f671-c39d-7cce-a823bdfef080>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-7d87-1e00-e053-b784100af734?person=0c1782d9-a205-4ed0-9576-12b65dd16b47> .
+
+    <https://data.rkd.nl/excerpts/781515/person/IDLTDSP10NUBYHKE4PSOOT54IBKJDVILWACYYCO2DRSIKZMMH05T2M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-2ef2-666d-e053-b784100a1840?person=ebe74832-068f-f895-c3e0-e63170501ff6> .
+
+    <https://data.rkd.nl/excerpts/781515/person/IDZ3H1OCMMD3TUFUNBTOFNROCBZCML0OWNXWJXV2NCWCCV0VOKH1N> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-2ef2-666d-e053-b784100a1840?person=de485401-a1cc-9fd3-c08d-16126320d499> .
+
+    <https://data.rkd.nl/excerpts/781515/person/IDZBM2FPX5MWXAB1RUUEY4QVB0HHFDXTOMWGED5ZJQK0RAWZWYGQPJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-2ef2-666d-e053-b784100a1840?person=ebe74832-068f-f895-c3e0-e63170501ff6> .
+
+    <https://data.rkd.nl/excerpts/781515/person/IDZJNA5CZOTHBRKADJDKZMPNO22HAETWPNQNPUPCD5SY3PLCSFCQIH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-2ef2-666d-e053-b784100a1840?person=87c57e77-c34d-951b-0cb9-91caa23f89a3> .
+
+    <https://data.rkd.nl/excerpts/781617/person/IDCASTFYQ0XNJINRMMLSSWEA10LDTTAV40XK1L33FAXZ4QRVRBSTPG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c69d-666d-e053-b784100a1840?person=435e7be9-26d0-93a0-6a20-44f554476ec0> .
+
+    <https://data.rkd.nl/excerpts/781617/person/IDOIIZTG2XG1HNKZTSCKD12NKTVGIIDO04DH2NXHJ3L3HKLB2P1UI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c69d-666d-e053-b784100a1840?person=720a4ee5-2d44-ead3-5f59-872330b8ebef> .
+
+    <https://data.rkd.nl/excerpts/781617/person/IDSWW01BBS2PW0HHOZ05VYMB2QLHKJH45ZHKRPRJNOJ0X3YW2RK2PL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c69d-666d-e053-b784100a1840?person=720a4ee5-2d44-ead3-5f59-872330b8ebef> .
+
+    <https://data.rkd.nl/excerpts/781671/person/IDA40Y0QFDG521T5BCEZ5YVS20IMXYKLVYRWISTE1CAIXQLD40J4K> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-1f71-50ee-e053-b784100a6caf?person=02f86416-e649-3ee9-a5be-9080e13da5a0>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-c500-50ee-e053-b784100a6caf?person=8f71101b-69d4-38ec-05ef-72731935d9f2> .
+
+    <https://data.rkd.nl/excerpts/781671/person/IDFJVUCW4DFAM5BEQXBP22EGSGMBOZ3GGX0JZGNFNG1SY2OEPEHKFF> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-1f71-50ee-e053-b784100a6caf?person=26140d7e-ab70-96c5-3206-3b50bfe986ad>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-c500-50ee-e053-b784100a6caf?person=f81e3961-989f-9dce-6aba-4781020dbbce> .
+
+    <https://data.rkd.nl/excerpts/781671/person/IDZAUXI0NHRJ54GPEW2H4ZQKOPAGC2CRSJWZN15CDO2DERK5SVQI0P> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-1f71-50ee-e053-b784100a6caf?person=42b85fb8-498d-3497-de61-eee79dc7645f>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-c500-50ee-e053-b784100a6caf?person=d47cfd0a-195c-a095-295d-b5b7c1dd8508> .
+
+    <https://data.rkd.nl/excerpts/781687/person/IDRYQSAO1A5MI4MQNY5UUZO0N4ZG5Y30UVLNV2HIJSBYR1SB2XL2MN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-037d-666d-e053-b784100a1840?person=89e52d4d-8e04-39e0-660e-a2c7869609a3> .
+
+    <https://data.rkd.nl/excerpts/781687/person/IDXCKA3C5KDV1HKMO5MX13ADYXYC0PFG04IQ1QJLN21XJ0P0CPTE1> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-037d-666d-e053-b784100a1840?person=80492ea0-42e3-9f2d-31fd-875eef2cdcd0> .
+
+    <https://data.rkd.nl/excerpts/781716/person/IDKBFYP40IDNI2D4YLBP1TJCLJSHXNGIEGI1MDXRGXVUODJTYQVCP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9db7-666d-e053-b784100a1840?person=30cf5fab-9111-b4bc-02d2-dab165a13f84> .
+
+    <https://data.rkd.nl/excerpts/781716/person/IDZ4L53XJCUTVPPKY40USULE2ZQICAEQ1A0VTYZTMKA450PKMRTFEH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9db7-666d-e053-b784100a1840?person=30cf5fab-9111-b4bc-02d2-dab165a13f84> .
+
+    <https://data.rkd.nl/excerpts/781725/person/ID33SQZ3RAIZYTLOIQLXBVFZKNVGFUOANKTWQTKGMM5CY0YZC2CN1I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-ab03-666d-e053-b784100a1840?person=4d0a5599-686d-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-e294-666d-e053-b784100a1840?person=13a72291-5124-6336-ef3e-88758a679b6f> .
+
+    <https://data.rkd.nl/excerpts/781725/person/IDAXA5YNH2C1OHK4B2LJQHZDCVYI0HZ3XHMEG0B0GZCRDRJYM41M4F> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-ab03-666d-e053-b784100a1840?person=4d0a5599-686b-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-e294-666d-e053-b784100a1840?person=7b6015f9-d142-f98d-cd77-3edc070d56e1> .
+
+    <https://data.rkd.nl/excerpts/781725/person/IDHS0TFRWYCB4FKHQCHPSPTRE2GNIHWRQ33IJO5VNS5BB3OZ3RYIQG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-ab03-666d-e053-b784100a1840?person=4d0a5599-686b-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-e294-666d-e053-b784100a1840?person=7b6015f9-d142-f98d-cd77-3edc070d56e1> .
+
+    <https://data.rkd.nl/excerpts/781725/person/IDS24AOSPI0JDWTUXTEVFIHQN5C132RTBI5RHIKD5FFPEJVTUIUTH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-ab03-666d-e053-b784100a1840?person=4d0a5599-686c-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-e294-666d-e053-b784100a1840?person=e6f8f1d2-fe20-e517-8e33-6ab43abc1acb> .
+
+    <https://data.rkd.nl/excerpts/781725/person/IDVJ15RY1GQF0HDGY1JSNSD04VQORRBHIIKOST32M3SGBG3J3RBFH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-ab03-666d-e053-b784100a1840?person=4d0a5599-686e-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/781779/person/IDA0EWBG0USIS1NN5Z5IGUHDPJZDSSBHKZWF30VNPXJT2MFT3BOMXL> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=3977d51b-f65b-1823-61f0-e9c3e01d0d15> .
+
+    <https://data.rkd.nl/excerpts/781779/person/IDB2UQ2UV55U1APWDNBS5REXWA3CW4BP1QETCBR2KDNHD3D0ERIWJB> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=6af9848b-5f9e-530f-f9cc-ef570ebcb7da> .
+
+    <https://data.rkd.nl/excerpts/781779/person/IDHJAUKREQ3QV0JRT2EYEF4T2C1LUXWLBDAQSFPRI2BJMS5TFYB45L> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=6af9848b-5f9e-530f-f9cc-ef570ebcb7da> .
+
+    <https://data.rkd.nl/excerpts/781779/person/IDNYCAVHOI3LPACQZUKUOEIEZBZDSU2TVHWKCEA1LEORUPXW20JW4B> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=ff0a9174-69dd-a303-330d-c540315b5259> .
+
+    <https://data.rkd.nl/excerpts/781783/person/ID4JHEM5PJFZR4GVJZPSOE5MG1OEO30004VRR14BJGATXHD4S0ZSYD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840?person=99e985d6-b34d-6dcf-cd9a-3f2158aecb0d> .
+
+    <https://data.rkd.nl/excerpts/781783/person/IDKFCZUOCAVVQSDBPR5VT5ZPCZYPSNRGCCCX3HTUNM52XM5JWS51MK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840?person=99e985d6-b34d-6dcf-cd9a-3f2158aecb0d> .
+
+    <https://data.rkd.nl/excerpts/781783/person/IDNVHN2SPHWZEIHMYN1EQ0Y04KLP0K2DWF3DFU5YJI1P50LSDR4IPN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840?person=ed165301-43a8-d55b-1a29-b176ba8b46a4> .
+
+    <https://data.rkd.nl/excerpts/781795/person/IDFQWUF5ETAMIMN1URZL4QPXO5XHLJCVLBJEISLUCQD3QFD15JBXEF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840?person=ed165301-43a8-d55b-1a29-b176ba8b46a4> .
+
+    <https://data.rkd.nl/excerpts/781795/person/IDJXIZ2WRSW0CNEIQUWEUWLSTKLB4UIIWXKUR2XV1GNXX0Q1EJB5I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840?person=99e985d6-b34d-6dcf-cd9a-3f2158aecb0d> .
+
+    <https://data.rkd.nl/excerpts/781795/person/IDLSGI4DOETZFSNF2VAH2N0ELX3DIMTGXMI52YBWLDFKIPBWN42MIN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-6a6a-666d-e053-b784100a1840?person=99e985d6-b34d-6dcf-cd9a-3f2158aecb0d> .
+
+    <https://data.rkd.nl/excerpts/781800/person/IDIRGS4XNK1KPADNSHLX4LEIGM3OLRSODYM2LKATGPWFFWOE0W5ZUK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f5e8-666d-e053-b784100a1840?person=fbc97346-aa75-b81c-f406-e59381400e09> .
+
+    <https://data.rkd.nl/excerpts/781800/person/IDYTCX4IUZV3QUI1T2NYP4MEXKD035OOCZISC2JN22QEDEY3XFEWC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f5e8-666d-e053-b784100a1840?person=db3874dd-c631-40fb-596f-855331ba7f37> .
+
+    <https://data.rkd.nl/excerpts/781807/person/ID0NDNNJVVG5UDNB11MQ2UHUR3SJI3TAT0IUSANCGBJQ01RIDYZG3G> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=6af9848b-5f9e-530f-f9cc-ef570ebcb7da> .
+
+    <https://data.rkd.nl/excerpts/781807/person/IDO4C3LYO5OHW5LKFTHN1WZ1NA1EWXOMDFQMONVLD3CM44JYKLYV5M> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=3977d51b-f65b-1823-61f0-e9c3e01d0d15> .
+
+    <https://data.rkd.nl/excerpts/781807/person/IDXC41N3TZP3NYWTMNGESLDSBWNLI4FK5CTSPS1IFBNY4QSHRPJW> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=6af9848b-5f9e-530f-f9cc-ef570ebcb7da> .
+
+    <https://data.rkd.nl/excerpts/781807/person/IDZM3PLCOLPK5HC2MZTJOEIIIDAMCM3TFPQGOUF0BA0TPBF0QZFIUG> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-86b4-1e00-e053-b784100af734?person=3977d51b-f65b-1823-61f0-e9c3e01d0d15> .
+
+    <https://data.rkd.nl/excerpts/781833/person/IDBH1WBTLY5DZZJUY4K2RYHDL2ZMD5VRQIHIVVK2BY5M2KLV01MTJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-722f-1a7b-e053-b784100aab8a?person=8afc0280-087e-0235-c98b-ad3309148ed1> .
+
+    <https://data.rkd.nl/excerpts/781833/person/IDI4PSPRON3SAWOFQ5S33NLLKEMM1YW3SKPPZR4VMQBC4OQNSF04PD> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-722f-1a7b-e053-b784100aab8a?person=8afc0280-087e-0235-c98b-ad3309148ed1> .
+
+    <https://data.rkd.nl/excerpts/781859/person/ID454Z5HPU4NZOTAC0LTDVUPMPO4ZICAHD0CHBINQV21GCEH4YOD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-129b-666d-e053-b784100a1840?person=9bfe73e5-0789-354e-f5dd-7668be1ed954> .
+
+    <https://data.rkd.nl/excerpts/781859/person/IDBVIQN0CDYOPGFT2LPH0EMYZFVLVBPJVDCPR0T2CI5GLHFZPBP3OC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-129b-666d-e053-b784100a1840?person=2c9cc515-b171-7c64-df30-f1dfc40068ee> .
+
+    <https://data.rkd.nl/excerpts/781859/person/IDDKZU1QAKTKFCFZ3WIUTFIW23EDFDX1YBETLEATH0AK2XOP1KOKCF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-129b-666d-e053-b784100a1840?person=2108d9af-bd35-aceb-b758-5e573fdc9970> .
+
+    <https://data.rkd.nl/excerpts/781859/person/IDIXHFBGGODG0PJGBK30SPMUTKHBKLIPNBRGFB1MPKN55YSF2XRVBN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-129b-666d-e053-b784100a1840?person=6391fd4e-a268-05aa-30eb-a5553e9c9c90> .
+
+    <https://data.rkd.nl/excerpts/781859/person/IDYNIBGBNIQZ2RBSSHOKTHPLUL2DGNUZ1XZX0XO2FOBDQ0GYYKG3NH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-129b-666d-e053-b784100a1840?person=fdc9351b-dedd-624a-c1a0-91729ba30ce2> .
+
+    <https://data.rkd.nl/excerpts/781867/person/ID2CZKD051XCCSIRQRTGHFCLBYMEOXKEPITDFBPAP43OWPSOCWYZOC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-9cf8-666d-e053-b784100a1840?person=4d0a5597-6d82-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/781867/person/IDHKI3TLX1L5OIFOTREO5DEJUWEYABO5RHAHSHNI1Z0C12RG0G0L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-9cf8-666d-e053-b784100a1840?person=4d0a5597-6d82-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/781960/person/IDDZKIFUAPG1YPOZKCZ5NIFCR0LG3XWMIPDG311NII41CLFWHT3LSN> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-d7ef-6a83-e053-b784100a6e32?person=3691a4c9-4f98-777b-6ece-5751ff10cb16> .
+
+    <https://data.rkd.nl/excerpts/781960/person/IDTLYRJEED1CC1ENLYJMIHXDNKYGGBTVQWTGBGWQMY3S2OWOL0TFOK> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-d7ef-6a83-e053-b784100a6e32?person=8118b91a-8f15-98a8-0baa-e71a7c7efdf8> .
+
+    <https://data.rkd.nl/excerpts/781960/person/IDU5GMNPXHNEHAFSWJT1FZCNYXGENGFVYMTYEZTSHD5VRCU1R5REBB> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-d7ef-6a83-e053-b784100a6e32?person=a80b89e9-5d3d-f6b8-374d-1efb381f3a7f> .
+
+    <https://data.rkd.nl/excerpts/781977/person/IDGFERPDIQW040G0FIXIWQYD4L3OGNL1GFMZA0AIKL0CC1RGCE1PBI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c0f2-666d-e053-b784100a1840?person=3daaa460-ddc2-9228-8be9-f8f4921d67bc> .
+
+    <https://data.rkd.nl/excerpts/781977/person/IDNO40QL5PMZBVE2QN2UOHVEDXCBX23LUT1WLF44DC13IBJRS4RRVP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c0f2-666d-e053-b784100a1840?person=5e8a78cd-456f-8d47-8fe6-8b3790ed6bda> .
+
+    <https://data.rkd.nl/excerpts/781977/person/IDRDMFGEKOC10JJ3DUSMVQKBRQGG0CLNJNGGSXXLIISEUIAPDFIX2E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c0f2-666d-e053-b784100a1840?person=3daaa460-ddc2-9228-8be9-f8f4921d67bc> .
+
+    <https://data.rkd.nl/excerpts/781978/person/IDVJNU4IYAT0RXJJ0NSKBSMM2AWIYEOMRR3CB0FQMJ13LSDTNA3SLF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-5a22-666d-e053-b784100a1840?person=52b05c19-1cdc-a80b-2150-6584f51b9d7f> .
+
+    <https://data.rkd.nl/excerpts/781979/person/ID221ULNP2V5LQHW51CGEHR022NF2HRYCHEUAKRBHLENQR1H10X54E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c0f2-666d-e053-b784100a1840?person=5e8a78cd-456f-8d47-8fe6-8b3790ed6bda> .
+
+    <https://data.rkd.nl/excerpts/781979/person/ID4S5RATLGLLZ1MNVZSIFN4LZWDNTOMTQRSHPEC5LATQW4TNLLOO5J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c0f2-666d-e053-b784100a1840?person=3daaa460-ddc2-9228-8be9-f8f4921d67bc> .
+
+    <https://data.rkd.nl/excerpts/781980/person/ID3CG3QSZNVR23B1D2QLD2HACMBLQ1U1TDHNFYBFPOG1CX2DAUBKBH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-a4c5-666d-e053-b784100a1840?person=94c3560c-3f0c-0f5d-db25-9c527ae7d0a2> .
+
+    <https://data.rkd.nl/excerpts/781980/person/IDC2K0IR4OLDDFKBEE0WVJDWM0JPDB35IBKG0OI2MF4TKHWS1LTDHP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-a4c5-666d-e053-b784100a1840?person=395ad01b-fe29-6100-e649-9e1f538345ca> .
+
+    <https://data.rkd.nl/excerpts/781980/person/IDZZHMC02YAZJ3LX5F4POEPKYIKBMBWKRCIFJISCMENNEIHNNBBDVC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-a4c5-666d-e053-b784100a1840?person=395ad01b-fe29-6100-e649-9e1f538345ca> .
+
+    <https://data.rkd.nl/excerpts/782196/person/IDYRYY0FC2UZKPMTVPOAA3UZBQHMJM4B4FVW5R1HPI21NO3VOTZ1RF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7d6c-666d-e053-b784100a1840?person=9a658a3d-cf4b-0282-4160-f3c25dda843e>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-7d6c-666d-e053-b784100a1840?person=ec26e63e-71cd-cd8c-e6e2-2ccbb98b877e> .
+
+    <https://data.rkd.nl/excerpts/782211/person/IDVAT1SIHFQXE1PLDCZBM5OPGRRLGD4OWQYN5H4RGWGTMCVXSIQEMD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-fb5c-666d-e053-b784100a1840?person=6edd15b4-c7e6-780b-3630-275ac0419021> .
+
+    <https://data.rkd.nl/excerpts/782211/person/IDWY3EVVGVU1AEMZKUUADIYGHIYKG24IOTHWFKYHGES1LL2RI2YLNG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-fb5c-666d-e053-b784100a1840?person=f38fb575-902b-5eac-fe37-864e3ae446a4> .
+
+    <https://data.rkd.nl/excerpts/782225/person/IDCFZCOLOVWBRBLNOU3ZMTL2YBGA3ZPDHFFB15YOQGYNW213SCA1K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e3b7-666d-e053-b784100a1840?person=c678d45e-bfa3-61b5-20be-d217c899eeac> .
+
+    <https://data.rkd.nl/excerpts/782225/person/IDKAA4F42IS2IPJN134HUJLOBJ3KDNZVUB1KQVQ1GUALP2MCHZ1BQD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e3b7-666d-e053-b784100a1840?person=1c13a18c-4149-ec69-e6a9-5b35bc60e224> .
+
+    <https://data.rkd.nl/excerpts/782225/person/IDM13YKQIVCUYMOMN1PKXNVR5BHEFFNOBO05HGULJWODGKV4G2EVOM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e3b7-666d-e053-b784100a1840?person=e2fe5857-f6b9-1913-a81a-d40681784571> .
+
+    <https://data.rkd.nl/excerpts/782225/person/IDM5NPVU1GI2JSNVVF033Q5T3SGTCVZZJR3ZHSUNW1TM4LG4XPY2K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e3b7-666d-e053-b784100a1840?person=503f90a7-8cd1-b1ec-b80e-5c430ceb13a4> .
+
+    <https://data.rkd.nl/excerpts/782227/person/ID2MTDZGX3IFGALWSKNZY1D51W3KLQPXHJIHRVE4DVUQMBD40YQHEH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9aaa-666d-e053-b784100a1840?person=8c47c12e-7a4b-4440-da66-62e7ef2b410f>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-458e-666d-e053-b784100a1840?person=4d0a5598-cfe6-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/782227/person/IDIFYGMWQBP4KSGUDNZH2L1J4XF3HJEG4FV2CQ4HZCFHDJR13HKBE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9aaa-666d-e053-b784100a1840?person=e4975bd2-1f83-3ad4-b0bc-700ac5a769b9> .
+
+    <https://data.rkd.nl/excerpts/782227/person/IDIJTCC24JK32KPFHALAZKRLR1DISZLGTKDAZ3HDFWNBAL1GFMC1MD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9aaa-666d-e053-b784100a1840?person=e4975bd2-1f83-3ad4-b0bc-700ac5a769b9>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-458e-666d-e053-b784100a1840?person=4d0a5598-cfe5-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/782227/person/IDKAVGKTYDCLNHDYPMYYVXJPW4JFEG2HXSHTT2WKMEZY2ZFYCVK0GI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9aaa-666d-e053-b784100a1840?person=005a59e7-78bd-76d4-b19d-2d96eb67a90f>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-458e-666d-e053-b784100a1840?person=4d0a5598-cfe7-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/782233/person/IDKEXUKPAPHXLMMEFUSTLKRQVEQMIOC0YUFNGE1VDQCS1DCHDEB5CH> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-b0f5-50ee-e053-b784100a6caf?person=3805ce85-33fc-80cb-89bb-46f43c954dbb>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b0f5-50ee-e053-b784100a6caf?person=43d5c040-b563-c403-bb9e-a1f7822a2e3c> .
+
+    <https://data.rkd.nl/excerpts/782234/person/IDPTAJQUQSV1AFOZJUF3GX33U2HPXC01ZRMBJ50HI0GF1GMVN5GMN> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-b0f5-50ee-e053-b784100a6caf?person=3805ce85-33fc-80cb-89bb-46f43c954dbb>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b0f5-50ee-e053-b784100a6caf?person=43d5c040-b563-c403-bb9e-a1f7822a2e3c> .
+
+    <https://data.rkd.nl/excerpts/782380/person/IDL4WFP2EZCFOPE5LYCYFBWWEVJEQT4ZBZKOZ0HPNDGKX14WPDBH4P> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-0004-666d-e053-b784100a1840?person=767dfc3c-ad28-7b7b-5386-6f6749c33d82> .
+
+    <https://data.rkd.nl/excerpts/782380/person/IDYCDB4DK3HMJILEXD5H3OXAKX0ERXUCRBS0CG1CBR12JWT4PY0XLF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-0004-666d-e053-b784100a1840?person=3ff4df5b-b837-fb90-f02d-802f4274ea6c> .
+
+    <https://data.rkd.nl/excerpts/782382/person/IDWKDUIROOZWLHMHWIPV2YGHYGKEYZBVG0VQNRXKGOSQ2IRSXVXGGD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-0cf1-666d-e053-b784100a1840?person=33e39888-7e12-97a1-06e4-a75d0f0fcbce> .
+
+    <https://data.rkd.nl/excerpts/782383/person/ID2OAFUUH2FRUWONUVZPC1B5ACGB4T4M4JGVTZDGGZQRFKBMD3GXYO> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a892-6a83-e053-b784100a6e32?person=4ebf49b9-2534-49d7-a925-0e1fdbc682ef> .
+
+    <https://data.rkd.nl/excerpts/782383/person/IDEALS0YFFFGSUMGHHVOZWTILZLJTJOBODLF5O3NDSPW23NLL4ZWUG> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a892-6a83-e053-b784100a6e32?person=c8483641-96f0-0fed-f1ee-d54017116685> .
+
+    <https://data.rkd.nl/excerpts/782383/person/IDMYEEABLZE1LXO3ZYOPMN03VT1PSA3GE0VFDMLYBXBTSERJDFOXED> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a892-6a83-e053-b784100a6e32?person=ed3b0787-89a8-4072-16ab-475604dd4951> .
+
+    <https://data.rkd.nl/excerpts/782384/person/IDNZR4I1VCILNIBZK4UQ1Y1CORSDFOH3BQYCFJIFC0C5MXCHXV4C5D> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-2af4-6a83-e053-b784100a6e32?person=65e6497e-8424-da56-84cb-0606b78bafa9> .
+
+    <https://data.rkd.nl/excerpts/782385/person/IDADVKM33QWNUOJK203GQA51TFTMD2VELOWTWKCSFAXWUVOLYUOLFL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-b1e8-666d-e053-b784100a1840?person=9a362152-86ee-2805-f9c2-d05ba8fb50f6> .
+
+    <https://data.rkd.nl/excerpts/782385/person/IDDJUSLAPECBNJKLKVF2ZTN0WG1IOSJS3N2CC5QCOS1XMQM3I2BGEM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-b1e8-666d-e053-b784100a1840?person=e38a1f63-d997-dc88-af00-c97d27254fdb> .
+
+    <https://data.rkd.nl/excerpts/782391/person/IDGJEDUIS4XECIKB02BWUWO44DGLZIS1GV2A1KFUHNAQQ2HRYHXXKH> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-b67f-1e00-e053-b784100af734?person=667eb25a-df7c-b715-e4c8-6112c17e2ced> .
+
+    <https://data.rkd.nl/excerpts/782391/person/IDISGRFHP5X1K4HQA3UKFGQLCXEBM3IFKH0WTA0YD5PFYIQQGYCQDB> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-b67f-1e00-e053-b784100af734?person=9c2533aa-e9d5-d00c-17c2-d5bec425c8b1> .
+
+    <https://data.rkd.nl/excerpts/782410/person/ID3C1TNNXFVKSPIJCWTRCZP45JUGCR1ODBQRLN2MDXQ4MGE1I4N5BG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e36e-666d-e053-b784100a1840?person=9f44ecbe-0492-2caa-8afb-5f6533bb17ab> .
+
+    <https://data.rkd.nl/excerpts/782410/person/IDFMLMIK2AVAKOFJ3FCBAETTQR4QD0RESKAFWVBD4XRJETEHATS1E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e36e-666d-e053-b784100a1840?person=b9620a3a-4443-b345-19a1-84aa92f1cdc7> .
+
+    <https://data.rkd.nl/excerpts/782410/person/IDKHH51DBPYS5KP5MQSR4KJRP12FDYD0IJOZRTIXC1VDNG3QQBCOQO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e36e-666d-e053-b784100a1840?person=9f44ecbe-0492-2caa-8afb-5f6533bb17ab> .
+
+    <https://data.rkd.nl/excerpts/782411/person/IDWX4VI1YZW1A5NFQNKKILUGVEBCBVKDHUUXWT2DPPNJO1M3KNWLSF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-82a8-666d-e053-b784100a1840?person=cad1ffeb-e642-874b-55c8-46a6bc859e5b> .
+
+    <https://data.rkd.nl/excerpts/782413/person/ID4PSEPQJ1QEFDGPQE4I2JESSZ5I0KRHG2RSXWPXDNA1EHME50WPZN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-dab3-666d-e053-b784100a1840?person=50d1e00b-4fd9-81f7-dbc5-c0d89d2faeee> .
+
+    <https://data.rkd.nl/excerpts/782413/person/IDDSEMENCCUSJFBE4K3R5CKWO1PEQG4155SXU5GLNYNUOVNSPTH0FE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-dab3-666d-e053-b784100a1840?person=49c49eee-8cd6-1889-4dac-a765ae5d108b> .
+
+    <https://data.rkd.nl/excerpts/782413/person/IDSDJEOZHFSKQZGBINGUVQFUIRYFDO5VE4XNQXNELKUQ4KC3CP1QK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-dab3-666d-e053-b784100a1840?person=6c469c1b-30dd-cf9a-5ec4-b6de67f6db86> .
+
+    <https://data.rkd.nl/excerpts/782413/person/IDV1M334YFZKJDGJ40K1PGNOFQXCFUPF4VZP4MGJBDY4FYNAHQN2O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-dab3-666d-e053-b784100a1840?person=b445174b-c6ad-d8dc-57d8-43908b46c0f9> .
+
+    <https://data.rkd.nl/excerpts/782414/person/IDLZZFKBXUUZU1B43UXLW1ADHHM3AQCMEKPFBZPNLOIEITWYN4ALC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-586a-666d-e053-b784100a1840?person=14700a31-fc42-a66d-1d20-60700eb33663> .
+
+    <https://data.rkd.nl/excerpts/782414/person/IDQZY3TMBTIV4OH2EYF02LK4TLNEUSZV054ONUXXO5WV0C3XMK1VL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-586a-666d-e053-b784100a1840?person=4511a559-59ff-8b97-9b2b-ef4d50b4de26> .
+
+    <https://data.rkd.nl/excerpts/782593/person/IDMAQIK4CB03SFPA1Q1K2STCTMUPRNRNJ5F4U5GSJRINJPUPED1SMI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-1cb3-666d-e053-b784100a1840?person=4a9dc7b1-a328-87ff-b838-df85d18457c5> .
+
+    <https://data.rkd.nl/excerpts/782600/person/ID2LHQURVRIIYXHCWNHAHCCYTJDJSTLCRVFJ5A4REQEWIKMEUA4UCO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=0fd18e25-f7b1-eec3-41c6-8068f8e33c8c> .
+
+    <https://data.rkd.nl/excerpts/782600/person/IDDCF2UUEPHKZACLQOVGXO5Y3U2LZQ4FESQ1BIPYN20KV0IGCCZNB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=6d382854-2a69-53e5-92b8-4626345b44df> .
+
+    <https://data.rkd.nl/excerpts/782600/person/IDETZ2WHTIBSCWF2VWUQBNJS24EJMICT3KD3YQF4N1QDZWZ5HH4WV> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=f6164dd6-0dc0-81c2-d40d-b4015c38d8e5> .
+
+    <https://data.rkd.nl/excerpts/782600/person/IDW1LYH12UHOHLLWTPKV4D0KDGQF0Z4VOKJ1CAG3PFPRHKLEPXZKIF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=96d95895-c2e2-0a72-b430-0aa9b4e21335> .
+
+    <https://data.rkd.nl/excerpts/782600/person/IDWXVLKCHQ3LN2MWRZ1NUDPMRZOEMG2NENUVAIWCJWLJQVVF5XSR5J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=f3b3adbb-e22c-ce9d-4653-8cbf7ce9ee26> .
+
+    <https://data.rkd.nl/excerpts/782607/person/IDCD1RMULFUEO2LTGS5XJSFLD0BC5TCZEL4I55BOF1FPPPL1ADJBVO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-fa49-666d-e053-b784100a1840?person=19339afc-509d-3ae8-0127-590e46a9182f> .
+
+    <https://data.rkd.nl/excerpts/782607/person/IDGH4YSEK3VAZTLTQDVWEMNEWCLJTZHY0SBHU43KHPALH53CPJQQNN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-fa49-666d-e053-b784100a1840?person=59131d43-3d81-8db9-75ed-6cd8c03512eb> .
+
+    <https://data.rkd.nl/excerpts/782607/person/IDJHW3MZEMM2WHHCJYKSJVMBI3AIQTXC33EA3LEHPFL0LHLBV2BK5C> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-fa49-666d-e053-b784100a1840?person=19339afc-509d-3ae8-0127-590e46a9182f> .
+
+    <https://data.rkd.nl/excerpts/782607/person/IDUEVAS0HOZQAILI2MQZZDAJ2GMMUEK2SOQWTRETK1ZBNB0P1KDIV> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-fa49-666d-e053-b784100a1840?person=d1cfbd03-4abc-0918-2ef8-f1b167d056c4> .
+
+    <https://data.rkd.nl/excerpts/782620/person/ID0YVXJ50NOAPNBJMRKJPRUQFXTJES5BFYTJTEMXBKWYRBDUKLCREH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=96d95895-c2e2-0a72-b430-0aa9b4e21335> .
+
+    <https://data.rkd.nl/excerpts/782620/person/ID5E5OZZADZ5AXMZ40DJ4D53RHGHQTAV3PRIWP4SKI2DOG2WDKOD2E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=6d382854-2a69-53e5-92b8-4626345b44df> .
+
+    <https://data.rkd.nl/excerpts/782620/person/IDBVUGLC24WQFMG12CBXTISCLIINJUVGIPG0BIGPJAJX2WMGSI4YXD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-ac3b-666d-e053-b784100a1840?person=f6164dd6-0dc0-81c2-d40d-b4015c38d8e5> .
+
+    <https://data.rkd.nl/excerpts/782669/person/IDBE53YGVYO4GOJFNUSRW3WSD4WI0CS1RMF0BN1RBGXOJYDZNX5VMJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a543-6a83-e053-b784100a6e32?person=9dd694eb-24d0-35df-1330-a5cc3f0d6db8> .
+
+    <https://data.rkd.nl/excerpts/782669/person/IDKTE1ZGZPDCWTPBAVPGNQPMILSXVRB0ECDQSSUBZRRAWLUEE2M1N> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a543-6a83-e053-b784100a6e32?person=71b33a91-44ad-c2f5-ef36-fd2691c922a0> .
+
+    <https://data.rkd.nl/excerpts/782669/person/IDOXGTQLXNDIGOEYXVJ5XCPG42TIGAUWPBDN1VCQEQBDFVLAZBHVVJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-a543-6a83-e053-b784100a6e32?person=8b5ae70f-efdf-7e9a-4e9c-a3c8fef5f288> .
+
+    <https://data.rkd.nl/excerpts/782742/person/ID14HXHOPC4XOIAYJE3MBG3WUW5CLR5LDQCUVYCCIBJB2VOJSBFG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a15f-666d-e053-b784100a1840?person=d04bca12-d73a-6656-856f-a61e526b0d49> .
+
+    <https://data.rkd.nl/excerpts/782742/person/ID32CEH5I5RMJBNCK22LICNU155EO4DSWB2GVDPWC1E31TZQUVNAE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a15f-666d-e053-b784100a1840?person=c06432f2-d326-e55c-497b-d8cbafbf8334> .
+
+    <https://data.rkd.nl/excerpts/782742/person/IDFZDSPXWUNBLWJBTVYMGJXAPNPMUN3GJKR3VTISOAUKSP5JIM5Y3J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a15f-666d-e053-b784100a1840?person=22df96f1-5d99-a1e0-3894-0172ab768751> .
+
+    <https://data.rkd.nl/excerpts/782742/person/IDIVTS4L5ABLGPEYSV5K43NLDRKOMVBGLCRNFQFINVQ1OD5GW1ZP2I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a15f-666d-e053-b784100a1840?person=ac11bba9-6b4c-5807-00d0-1b4969894b5a> .
+
+    <https://data.rkd.nl/excerpts/782742/person/IDLNTZKCD0V000ITIMBDPR2XWDXHP4UIALRRLN5AH0M5OD5VTUUVJN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a15f-666d-e053-b784100a1840?person=ad1adbf9-dbf2-97a4-f25a-fea54d65d71b> .
+
+    <https://data.rkd.nl/excerpts/783026/person/ID0OWLFW3W4NDSGVFTGNUOKA1IUGREBTOYGQEEUZFLOLEMK0MUYQXG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b26-666d-e053-b784100a1840?person=667d3caf-a9ba-0c72-ed7a-d0293712882c>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-e348-666d-e053-b784100a1840?person=918ad985-dc0b-bb84-84d6-d6230fffab49> .
+
+    <https://data.rkd.nl/excerpts/783026/person/IDAXWAV34XPLLKHLUANLKLGETEFKZDWP0BDR5D1IFPFV05TTUTYCP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b26-666d-e053-b784100a1840?person=83389f72-da8c-f960-c4f4-fb7ffb854178>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-e348-666d-e053-b784100a1840?person=f6f2c9db-286d-e5e2-4e90-1f31ce70f213> .
+
+    <https://data.rkd.nl/excerpts/783026/person/IDEHY5PRBIO5DSF5WX5XKKZBWTXG44E1U3OHWL1UO5VIFAWV5KRWK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e348-666d-e053-b784100a1840?person=141d5154-b7d4-d149-cddb-ddfaf3fe3e56> .
+
+    <https://data.rkd.nl/excerpts/783026/person/IDO10BWBWIKRRJOGX3X0FM5XK3DM4YBFTC0QVOTSCJHCSLCZZV1ULH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1b26-666d-e053-b784100a1840?person=667d3caf-a9ba-0c72-ed7a-d0293712882c>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-e348-666d-e053-b784100a1840?person=918ad985-dc0b-bb84-84d6-d6230fffab49> .
+
+    <https://data.rkd.nl/excerpts/783026/person/IDRFP031BZJ4TUBGMZG5XR3FBK2CRLXAN2IYDJSJP4KMTPSK3BTOFI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e348-666d-e053-b784100a1840?person=acdd359b-532d-2a1f-63af-aef84b21a96b> .
+
+    <https://data.rkd.nl/excerpts/783026/person/IDYHHPHF5TKZVWPKCMSP3JKNRHGTW21HXYELF0AMCHU5MK4DLP4XP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e348-666d-e053-b784100a1840?person=967a9210-1f30-6bc1-b2d1-11698c2ba5b9> .
+
+    <https://data.rkd.nl/excerpts/783059/person/IDQL4XBRBOPFRQHPJYPLTKKME12PTDNEBDJLPTSLNZ305YNLHRXGJL> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-a29d-6a83-e053-b784100a6e32?person=bf69cd40-c224-98b7-3752-1e6b938ffdd1> .
+
+    <https://data.rkd.nl/excerpts/783122/person/ID1AWYCRXFPYFNOZR1ODX3IEBTOF0INF2F0JCOAO4YSOCCWXB05CI> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9d88-6a83-e053-b784100a6e32?person=f0990b9f-266e-69ee-93d4-72c4ce939977> .
+
+    <https://data.rkd.nl/excerpts/783286/person/ID0I22GKNHFENUFT0XYYO4UQX0BIHAUO2LRYC3MMOAI4ASUET55MHG> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5a22-1a7b-e053-b784100aab8a?person=a9541cff-8d21-327c-c325-14a6cbb107a4> .
+
+    <https://data.rkd.nl/excerpts/783286/person/IDLDBETOHH3IPQGZT4SRTSZEG2UCTCKIA4TWLWRKKCYUIPID0F5P1L> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5a22-1a7b-e053-b784100aab8a?person=7592f862-60ca-4230-6838-fee3acccd6c0> .
+
+    <https://data.rkd.nl/excerpts/783286/person/IDTNSRITR2BLPCJSNILI05O0PI2B15SUP1VR0FUSBVDZKDEXMMNSCB> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5a22-1a7b-e053-b784100aab8a?person=04e4f252-b4e9-55bd-6706-55153014f6a4> .
+
+    <https://data.rkd.nl/excerpts/783327/person/ID3IUKXNV40QINGOTWHIAQ3DO5GFRKNVPBQWJIOTOG31QFCEB2K1OH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=c3e42c36-bc74-ca8f-81f6-e43b500f2280>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=483b50bd-958e-1e77-5fc7-111ae207d7e1> .
+
+    <https://data.rkd.nl/excerpts/783327/person/ID5GIRIC4B3EV4LMS4JJ1UDNJFEM1JVMKMTU2WPP1PSKG2BO0Z11P> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=7bc47eb8-4074-3f79-f1c5-2775b88274fd>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=6f635b12-5e46-a010-6775-8481896bb066> .
+
+    <https://data.rkd.nl/excerpts/783327/person/IDETQQKYFT1EMCHNY4JSB5HDOOVCCONSDBXM5QQIHSPQ0KXCDED1ZK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=39445898-1c92-1c6a-db57-2e2451c0469c> .
+
+    <https://data.rkd.nl/excerpts/783327/person/IDF42EIGVUAKQCOFKYYPEPBWGP5HQTG1VG4DZ24WCA5VWYBD1AC23> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=d84031f8-cac8-c642-356b-83531ed7ed86>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=02476d82-2d93-26a7-a201-755a564640e7> .
+
+    <https://data.rkd.nl/excerpts/783327/person/IDMSZ4AUNQXF3FD4XOHBMZNRWPCHG3WQXQ1KHLFDBHPOBIDCJB41XJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=bb75ec7e-6b59-ef2b-06d2-ba32e53e1352> .
+
+    <https://data.rkd.nl/excerpts/783327/person/IDVC24BE31E4Q4NTK3QUGJRBQCSDUZ1RT0PNXTC0JEQU3YVEV3CW1D> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=1ca01e75-7070-898a-6be2-35171a4a2846>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=d618719a-1e41-0835-10e3-20d6fdde2143> .
+
+    <https://data.rkd.nl/excerpts/783328/person/ID0R1QNBRH2OWHCAUJDMNQN5JNUI5VTNBXAXI2ORMMFXFJQAUF0MVP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=c3e42c36-bc74-ca8f-81f6-e43b500f2280>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=483b50bd-958e-1e77-5fc7-111ae207d7e1> .
+
+    <https://data.rkd.nl/excerpts/783328/person/IDDODNBOAUZX50N0OKP3DSCAZJNGMAM3GEQOMOFXHRI5T5AYLD55WD> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=bb75ec7e-6b59-ef2b-06d2-ba32e53e1352> .
+
+    <https://data.rkd.nl/excerpts/783328/person/IDDVSHJZVSVWKZIPRRFBZBM0LGZDADN3ZMK24YGID4GXUII1SFGRZL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=39445898-1c92-1c6a-db57-2e2451c0469c> .
+
+    <https://data.rkd.nl/excerpts/783328/person/IDETRMWJJTBGKILVQ0ILFOOOJLWPGADIXIYEEWYHNEYH52TGYR1YO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=1ca01e75-7070-898a-6be2-35171a4a2846>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=d618719a-1e41-0835-10e3-20d6fdde2143> .
+
+    <https://data.rkd.nl/excerpts/783328/person/IDNTECXC2VWFFPD0QA4J3RGU3UVGPTOA0C14YTVLKQJDVN30CIZMTP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=c3e42c36-bc74-ca8f-81f6-e43b500f2280>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=483b50bd-958e-1e77-5fc7-111ae207d7e1> .
+
+    <https://data.rkd.nl/excerpts/783328/person/IDQDNPVNM5KIVAJV5JT5DJAM03OLCJNZQL1FZRU1DLEMIPFWH2XLJK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=d84031f8-cac8-c642-356b-83531ed7ed86>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-c210-1e00-e053-b784100af734?person=02476d82-2d93-26a7-a201-755a564640e7> .
+
+    <https://data.rkd.nl/excerpts/783328/person/IDY40A3XP05WDYKECQN52XSS2Y4JQ4IRJXPZA0WUPKRT1MCBWGM1SD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-8390-666d-e053-b784100a1840?person=7bc47eb8-4074-3f79-f1c5-2775b88274fd> .
+
+    <https://data.rkd.nl/excerpts/783340/person/IDTGVJNLP3MLGXE20YEUWYWOK1GEXF4GDMRRUWVACBCM3NGM2V0XRP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-66c7-666d-e053-b784100a1840?person=089e93b0-bf37-836f-9e10-c75eb5fce172> .
+
+    <https://data.rkd.nl/excerpts/783643/person/IDE1A44YZ4HXDGBROYDDMHXLLRQNVULPH5UMD3RMBVS5JEGLOMBQOL> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a?person=5535c929-469e-efce-2adf-d0a225af5ded>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=4de936f7-cdd8-3ed3-dfc4-f21820d837f6> .
+
+    <https://data.rkd.nl/excerpts/783643/person/IDN5QJYBELCPRLELRWN2DI35IVZNAZV00ANN5VZGO5TP3VHJJGA1CH> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a?person=30c43019-8f58-a8af-37ad-ee9d18fdeb2d> .
+
+    <https://data.rkd.nl/excerpts/783643/person/IDNQVF4RWYE1MDWM53N1YDXCB4FUYUNMLPLRSNHMSNUE35A3LCGNF> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a?person=21e7ad5f-2dc6-4af4-f425-6e8f7e50a700>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=a68faa86-0dac-b5e1-0959-91317c8bafa0> .
+
+    <https://data.rkd.nl/excerpts/783643/person/IDQ2N1DVJSQ0G1KNIYUPRTFSDTPEATNYTB01YAGMCJ21S1BNXCZOGD> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=7fff2a17-c60b-ca83-7196-3463803b9ce8> .
+
+    <https://data.rkd.nl/excerpts/783643/person/IDUUZHLNFO04S2DNV3WAEYES5EVCSMYSMUAH3Q3HODRGQWJ2NQDJZK> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a?person=21e7ad5f-2dc6-4af4-f425-6e8f7e50a700>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=a68faa86-0dac-b5e1-0959-91317c8bafa0> .
+
+    <https://data.rkd.nl/excerpts/783648/person/ID3VO51LZT4NTOFG0IRR2ZJ5MLZCKUJLYJEO2AQLFDO0D4IZGEDZQE> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a?person=21e7ad5f-2dc6-4af4-f425-6e8f7e50a700>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=a68faa86-0dac-b5e1-0959-91317c8bafa0> .
+
+    <https://data.rkd.nl/excerpts/783648/person/IDBWWWXKVPYCDDEBEAZAA1FTHTEEHOVU4NESN5WBOJLSOSFB2SCV0O> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a?person=5535c929-469e-efce-2adf-d0a225af5ded>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=4de936f7-cdd8-3ed3-dfc4-f21820d837f6> .
+
+    <https://data.rkd.nl/excerpts/783648/person/IDDVX424TUFLPEH5C1TV2S0J355KXDHI13CNLWLPLLBYDEJNAD1XXP> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-7979-1a7b-e053-b784100aab8a?person=5535c929-469e-efce-2adf-d0a225af5ded>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=4de936f7-cdd8-3ed3-dfc4-f21820d837f6> .
+
+    <https://data.rkd.nl/excerpts/783648/person/IDEAHSEWXBFRYDJQYAEXIXYEG4ZCW5VHGDI334SSJFCG5BBSFADEXN> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad1-3d55-1a7b-e053-b784100aab8a?person=7fff2a17-c60b-ca83-7196-3463803b9ce8> .
+
+    <https://data.rkd.nl/excerpts/783651/person/IDW5TMCN1CZ4ULIINKMSN5QCTTAKNGBEUIHEMUCJF030O2HXCWWP0P> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-1c3d-1e00-e053-b784100af734?person=66b8b1aa-faa9-5333-1e5c-82b1e069cb83> .
+
+    <https://data.rkd.nl/excerpts/783693/person/ID2CQ2RQH2SVQBKCZUATS4MR11DI53IMPNHBE2B4B5W0GQ2MGRMFVC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=d9bf9724-df82-9244-dacd-466388591988> .
+
+    <https://data.rkd.nl/excerpts/783693/person/ID2EBJCDKO21UHHIVK3FABXUKLKN0E31E2BL3P0VBWQPERZ5RHMBKL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=e159e865-28f6-aa53-a85c-d8ba030df9f9> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDDC4U35DX2CITCTF4CB1Q5T5DOCDUI1BJOFX3KROI3LD0RQGXYMTL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=a7300330-2fa7-de33-b164-a2a10c878efc> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDFGD5MX0WCNLUKYOBYXSUMVS2KUVHV5ZXCFZAPOSE3NJAITO2ECG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=62ee31a5-bbb8-b346-ab86-9ba3275d729a> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDFWMTADNPF3ISMT0DYWQPU4PKOHDOCYVID2QFQJST0EJGDQORKRG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=1b9450cc-a03a-07c6-8fdb-7d57cf1d33e8> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDJLOZ1E0TEQBMM3G4ELESTVB20HL55NIBWR2B1VDZWDTJ12XZDRCN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=d9bf9724-df82-9244-dacd-466388591988> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDJQNFVMKMC3KSMCCYMBPFLAW2QBA1MFMREKSMINE5WHOC20OXHMAO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=2e3d9ad5-ca44-75bd-893e-173283a823ec> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDLLZB1PKGIIT0GEHIXFMDGZNLFDUDFNHEJ4CENADLQHNAZQ1JJMQO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=f14429e9-7b5d-93dd-d4df-c668a702c0da> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDP0YTHXVC2JFMM4TYWM2WGQOJRCI2Y1KSBSR2BQICRUA3QTLGBG1I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=87e7b8df-2fd7-0ebf-e24a-4b8a9ff76c2e> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDPNXFC4AN3FC1CADS4I2H5QBZIPNZE3N0ZOUWP1SMVMG1BX0QDND> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=230003e7-a38e-2541-102e-9a0684833e46> .
+
+    <https://data.rkd.nl/excerpts/783693/person/IDXI4ZC4BN4N4KBA4XL2L35M5IPDZKI2XXFQR5KPPLBEXXYXQIPC3K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-04f3-666d-e053-b784100a1840?person=20fba536-280a-f1aa-118e-f0ca20b4136a> .
+
+    <https://data.rkd.nl/excerpts/783713/person/IDGHHEYZVKHSEIF0K3VD2YJWVFRGKRUVCEYYWECZK2HVI1DHSZGKOE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-727b-666d-e053-b784100a1840?person=34b4f967-3657-06ed-a9aa-8bd500824130> .
+
+    <https://data.rkd.nl/excerpts/783713/person/IDLF32N140YFJLNRUEN43GVFRULDFXXGPYPJXMIIIJVBG1FSYD0YIF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-727b-666d-e053-b784100a1840?person=a15d2c14-c3e3-81b3-be9e-f4d288181445> .
+
+    <https://data.rkd.nl/excerpts/783751/person/IDP05PH42VTRCHE1EX4NVHGGIZVLKALLXOEGEVB3JS0A2E53VEAYGC> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-a2a5-6a83-e053-b784100a6e32?person=dbcd1e06-1283-af84-500f-e5e3a8cce626> .
+
+    <https://data.rkd.nl/excerpts/783752/person/IDE4RCHWASLBPVOZEMM5SYUEU3ZO1YC5TWBMM0TEFNW1YYQJFCKYZJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0f1c-666d-e053-b784100a1840?person=83e52ae9-16d9-4ca2-febf-f4a23dc2df27> .
+
+    <https://data.rkd.nl/excerpts/783752/person/IDQVQEV4JHXIRLNZ5UFONPKBPHYOJLZ1DAKTNDWKSP1C5KL05O23G> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0f1c-666d-e053-b784100a1840?person=e0ae216c-98f8-c88e-dbba-ba4d31ed9f4d> .
+
+    <https://data.rkd.nl/excerpts/783803/person/IDHBXZISD14R0OOFIEYRU5W30CUGJACUUHHQ45YHIT45ZYAILCNTAJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e13d-666d-e053-b784100a1840?person=4d0a5597-9dce-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/783803/person/IDIDESN4RUHZMSCT2EJSHUAOGI1G2KVFZTXVHL0OOS4W4XTUVK35PG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e13d-666d-e053-b784100a1840?person=4d0a5597-9dce-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/783803/person/IDOV1GH4CPHOOJOEFBXKY2D3LVPNCDAPPIPZZSUQBL2RHTGZLFVGDG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e13d-666d-e053-b784100a1840?person=4d0a5597-9dd0-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/783803/person/IDYWPDRYZOHXQNOABN5CKOFF2ANKMRNQFSPORBJEMBCKR1KVBTITSF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-e13d-666d-e053-b784100a1840?person=4d0a5597-9dcf-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/783851/person/ID2MO1SZQRX2H5G5WIJKKSJF5JEP2LH5XLY1EMHAN0BCBEH4G4ICWD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-272a-666d-e053-b784100a1840?person=6b95dace-7e75-8fda-371f-d5594687479b> .
+
+    <https://data.rkd.nl/excerpts/783851/person/IDCQPVVHK1CESYGKQNBN53JYHKMCLJHT4FJWHJFVKEFC2NDLILU12> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-272a-666d-e053-b784100a1840?person=3349e0c7-cf77-8324-09e8-8ccea48e6d1a> .
+
+    <https://data.rkd.nl/excerpts/783851/person/IDDT0ZSJJHPOI3CQJXZSEJILJTROI54QTX0Z0E3EDGMH05MC5Q1RN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-272a-666d-e053-b784100a1840?person=6b95dace-7e75-8fda-371f-d5594687479b> .
+
+    <https://data.rkd.nl/excerpts/783925/person/ID2VOQ5XFVNIE2O2O33Q3G5BR5TNRZC2XNHWET3FOOWV0VAIQ4NV2E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c5c9-666d-e053-b784100a1840?person=0125a9b1-6855-43f8-75e9-46dcf62d4838> .
+
+    <https://data.rkd.nl/excerpts/783925/person/ID5KFA5MU0IOXKDPF3CJSO0TL1LNFA2IXUB15FX3DDJ1PY4JJUMC1O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c5c9-666d-e053-b784100a1840?person=13276109-e141-1bd4-e715-a09b1c3b47cf> .
+
+    <https://data.rkd.nl/excerpts/783925/person/IDZKZHCATZ3RHNBINLGQNQEJPWQGVTU2ON1BKB42LSASMSNOQG13RD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-c5c9-666d-e053-b784100a1840?person=040c9e50-4858-37ce-8ce5-bb0d6967cb44> .
+
+    <https://data.rkd.nl/excerpts/783992/person/IDJ0TBWXOGRZ2LNBYY3WEEMOZMLKRCZAHGAZUNLMENCJYIVU1CWZG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-9c36-666d-e053-b784100a1840?person=096c07d3-ba25-dbd9-999e-434365f2867e> .
+
+    <https://data.rkd.nl/excerpts/783992/person/IDXL135ZNAT4RPFZN35JNEU1ZXUF4VC311WO3IWTHEQBL3TYWETD2N> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-9c36-666d-e053-b784100a1840?person=8e9bf157-6e29-49f6-c23d-e11a8d2d3e4d> .
+
+    <https://data.rkd.nl/excerpts/783992/person/IDYJKXAW4GLKVQLSRKWTNLXG5RUDHNY11FLXUJMAJBBCPDMR4Y0SND> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-9c36-666d-e053-b784100a1840?person=096c07d3-ba25-dbd9-999e-434365f2867e> .
+
+    <https://data.rkd.nl/excerpts/784079/person/IDO53OE5IWRHVHO4GIZOJAPEQMBGXOXNU5OKQ31JE4PHX5OFRQQYO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f80-666d-e053-b784100a1840?person=67a7ecfe-a5d4-f1f6-4a6f-fb74ad5feb7d> .
+
+    <https://data.rkd.nl/excerpts/784079/person/IDRH01CY3BKEFSFMEZYOT0CZFWSER2UTPQRZRRN4DCTQZUJSG3BVPP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0f80-666d-e053-b784100a1840?person=5f685a75-3287-ac17-1a7a-31b7006fcdcf> .
+
+    <https://data.rkd.nl/excerpts/784081/person/ID4X5OATQU0L4FC3XTCNJJ4X3IYHCU4D1IUIRHTHP50SXBVTU0CZFO> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-c017-6a83-e053-b784100a6e32?person=92f87ff4-7732-77ba-5deb-c993a50491f0> .
+
+    <https://data.rkd.nl/excerpts/784089/person/ID41Y2MNHFWN2MFMJPYKWAC2IHGG4AQHIDOYMSYHTS0JBENYCNOCE> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-aa0b-6a83-e053-b784100a6e32?person=92885dca-bdb1-827e-d069-916755cb4f0d> .
+
+    <https://data.rkd.nl/excerpts/784089/person/ID5TEMJU4R4ILXNN0TJBFVNXMCUNINHXTXPOGUO0O1UZFPVANLIERK> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-aa0b-6a83-e053-b784100a6e32?person=2fd4a488-8850-6df8-9a52-d61ab3aedf84> .
+
+    <https://data.rkd.nl/excerpts/784089/person/IDJDTFHVJWW5APMMX2UDIM01J0RERU2JZ2KNNMULLGRUMX41203LJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-aa0b-6a83-e053-b784100a6e32?person=8bf5db28-eb40-4f02-2bbe-df6a875061b6> .
+
+    <https://data.rkd.nl/excerpts/784432/person/IDS3P0M5YVLYJLGFO0TJI1PUYCXC34N5ARLU3E2QLRKBTA0SYTDHWG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-126a-666d-e053-b784100a1840?person=4479b734-28e1-88b1-ed08-2704c88d31a3>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-7cc2-1e00-e053-b784100af734?person=3ef3be52-b80e-373c-d275-85ddbd7a2cae>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-eb9f-1e00-e053-b784100af734?person=b1b4aabe-f007-31a5-c2fb-e486547ccbaa>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-f15a-1e00-e053-b784100af734?person=9819a0ce-fc7c-dc94-1ba3-fded579c6ddd> .
+
+    <https://data.rkd.nl/excerpts/784470/person/ID3R0LDFPNQYDFNMWNIY3A05UNEIJZECSRDRC34MMAH4KW124RL5HK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-ee64-666d-e053-b784100a1840?person=b0ff65f0-64ab-11cf-98fc-4e03847fb180> .
+
+    <https://data.rkd.nl/excerpts/784470/person/ID4QY10LRKOISXMKDTXWMWGWR0OIAU40VJXMI5RNN3ASGYFSHV5E3J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-ee64-666d-e053-b784100a1840?person=23e2ed1c-d34b-5ff6-b39e-776f57c8174c> .
+
+    <https://data.rkd.nl/excerpts/784470/person/IDDGM4UX2L0EXYEDNL1LZWTR4WTGPSN1EP5GQNX3KYKATDZRZYUYVL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-ee64-666d-e053-b784100a1840?person=a9cb1566-d40d-be14-7e18-7ca5a5ea7bef> .
+
+    <https://data.rkd.nl/excerpts/784470/person/IDI0CW2KC3Q404PUAAN0WLMZKENBMHMZ4OQUWXXGBRAMWLUGRJSEPN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-ee64-666d-e053-b784100a1840?person=23e2ed1c-d34b-5ff6-b39e-776f57c8174c> .
+
+    <https://data.rkd.nl/excerpts/784472/person/ID145AGWADEX3YGACKFO1DOCULBE1CCS5L3EQDGLFLG2NXOJRQC0GN> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-5c36-50ee-e053-b784100a6caf?person=86a96732-963b-f2ca-bfcf-035335d41ba4>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf?person=d92fdc72-6f4b-84d0-4dc5-46866e5a1f32> .
+
+    <https://data.rkd.nl/excerpts/784472/person/IDEV2BFOEF5OQJFFC3BFPKGYX0ZLTEBTVSXV4VLVL4UE0AXG5YBXFI> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-5c36-50ee-e053-b784100a6caf?person=45392548-5f0f-eb0b-af9f-2a732d6e803f>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf?person=0ebfceb4-f952-3857-9727-e3d66e23978d>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf?person=da233d61-46b8-f436-4b30-4a99b4803163> .
+
+    <https://data.rkd.nl/excerpts/784472/person/IDFGPLVQ5JKPQCD2Y4A0VYWUPAND40JS5ROV0A0YK3MEBKLQGKT4PE> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-5c36-50ee-e053-b784100a6caf?person=45392548-5f0f-eb0b-af9f-2a732d6e803f>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf?person=0ebfceb4-f952-3857-9727-e3d66e23978d>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf?person=da233d61-46b8-f436-4b30-4a99b4803163> .
+
+    <https://data.rkd.nl/excerpts/784472/person/IDQDGVAANW1ND2BJLM0RC12MZEKRDXS1K5NORE0I314OU3CZJXZ0P> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-5c36-50ee-e053-b784100a6caf?person=5739f939-bad2-9d6e-6e33-6047d573dd7e>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf?person=4acf7c41-184c-bb3f-dc26-7ba5cfc14c04> .
+
+    <https://data.rkd.nl/excerpts/784472/person/IDV0OHBLYKL1O5PKN0240LE3FILNKUC3UMBJWGZGNTOQUSIYNJZIVI> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-b254-50ee-e053-b784100a6caf?person=8d211e2b-72f0-68a0-e850-d732e17383b0> .
+
+    <https://data.rkd.nl/excerpts/784552/person/ID12JFXKGMPUJJNHAA343GLJXRCGC3YE1UAPJYCJM0OTK5TPJG1DPC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8732-666d-e053-b784100a1840?person=518ffe2a-cf26-5087-b6d6-93a381d8910d> .
+
+    <https://data.rkd.nl/excerpts/784569/person/ID55GIR5KVUN0XKGVCUQ4SK3GTIMTGM2HORP0XT4I55NYSXRKQVSVF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1875-666d-e053-b784100a1840?person=4d0a5599-7c1a-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784569/person/ID5XQFMSGUT0C4JRL5Y4DB2VQ5TLMAD0PQCJOOIUCAMPU1EE53FCXJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1875-666d-e053-b784100a1840?person=4d0a5599-7c17-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784569/person/IDU4YZHVFYXVMFJAQVIWBDIWNWQHSMGCQMWATKUDIQCPSZPUML0FBB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1875-666d-e053-b784100a1840?person=4d0a5599-7c19-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784569/person/IDYG1VBWVEGXURPVZAHG1KUSOHJG41KHN0MZKPI0HRLC5UFRQ1JKHE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1875-666d-e053-b784100a1840?person=4d0a5599-7c18-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784571/person/ID4G5MO32IRXLIL4GMBO1LDNBORDUNFVUYVUY3HCPRJG4C12JOGSXP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-71f2-666d-e053-b784100a1840?person=4d0a5598-8ec4-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784571/person/IDMTW3RTRVNNBKL40TRJSBVDQGMZVPFYZ5HWJINXC4FZR5323FOL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-357e-666d-e053-b784100a1840?person=4d0a5598-8ec6-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-71f2-666d-e053-b784100a1840?person=4d0a5598-8ec1-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784571/person/IDSSFZO0SOGDVBHD4HBTJUT4QOHCLONDUF1U5OILGNBOQA1OGAUBTM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-357e-666d-e053-b784100a1840?person=4d0a5598-8ec7-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-71f2-666d-e053-b784100a1840?person=4d0a5598-8ec2-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784571/person/IDZPZ3EWJP2DLGDYXFLYB3IZD5VBCRURX1TPA1I5LLVGHN3MSKFJXP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-357e-666d-e053-b784100a1840?person=4d0a5598-8ec8-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-71f2-666d-e053-b784100a1840?person=4d0a5598-8ec3-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784684/person/IDDV5JATMYCG10FNXY5SGYKNH3FLNTYOEOIB5DDWBWLZWOMT0U0GDK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8f39-666d-e053-b784100a1840?person=46c86369-8dc6-abeb-e29c-80eb7394f981> .
+
+    <https://data.rkd.nl/excerpts/784684/person/IDEEARQHCY4FTXKSSLHYPE10ESWNBFTHPQJNR0KQED2UDS1PNYHIN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8f39-666d-e053-b784100a1840?person=5f9ca953-f21c-8119-8443-8a635ccbd2b4> .
+
+    <https://data.rkd.nl/excerpts/784684/person/IDFDUT5YVYR1VEEJR514ZZ1FOH4ECXDLB3DHN1UNFP2NMTA5VFXKJJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8f39-666d-e053-b784100a1840?person=73dae890-604b-7870-d055-e6e70c69cd42> .
+
+    <https://data.rkd.nl/excerpts/784684/person/IDGNBIKOJX5FNUGJIIHVKXVT2OVEBDLRCUHFZPXZNZZJYA5JNCAK4> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8f39-666d-e053-b784100a1840?person=a2b568d1-1b99-2173-26ce-33ea592234a4> .
+
+    <https://data.rkd.nl/excerpts/784702/person/IDZQEHW3H0H3YSLVPINPYLTQNTLOYHT331NH5KVULBFZMWYZJ52SWD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1e2c-666d-e053-b784100a1840?person=4d0a5597-4729-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-1e2e-666d-e053-b784100a1840?person=4d0a5597-475b-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784806/person/IDWBE1W10D34B3LL15Y2LLCU4XNG32LHNHOYCMYTHTUBISC1I4AYFG> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-75dc-50ee-e053-b784100a6caf?person=b15962aa-b8a5-89bf-d0a2-27575d2429a6> .
+
+    <https://data.rkd.nl/excerpts/784807/person/IDP5UX15CC01IOIE2WPA5U54GXII5DN3K1OIP3HPA2SM4KHRI1JBJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-339c-666d-e053-b784100a1840?person=4d0a5597-f529-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784844/person/IDJUA2IPLYMZPYJ40XRHYJ1GP35NAKXZRAX4O3HUSABJQWZ2ZVVZO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-339c-666d-e053-b784100a1840?person=4d0a5597-f52a-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784844/person/IDVNAEMLNBDTCFV0A1WRNWGFZFKX0KKYBKS5EOJDBNFTLBJNSXJI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-339c-666d-e053-b784100a1840?person=4d0a5597-f52b-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784844/person/IDYYCLAQK3FLS2O2BYA0ZS5QV43PTTFPQ5L3XBA3FKN3UFY0UNDBZM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-339c-666d-e053-b784100a1840?person=4d0a5597-f529-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784854/person/IDAI1305Z2PLW1NQPPOQZ2QMALVBNMBZVJVOTR1XHRNOMQX4J2IJFP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6476-666d-e053-b784100a1840?person=4d0a5597-de4c-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784854/person/IDXRZSEZUOALGFNGNJLDLWISU1EEQQJLTSENBS40LJTLDFMGDYH2B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6476-666d-e053-b784100a1840?person=4d0a5597-de4d-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784854/person/IDZLX43CTU55DTC3VJGXNVATJFSPURMMWLZ2XLYUOEB1QJYA3GHFGC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6476-666d-e053-b784100a1840?person=4d0a5597-de4e-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784872/person/IDON2HYURKAQLILHLDHLUFHLHTNJS3LAZRHGDFIEB4JDF5MUO5V5IL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-68e6-666d-e053-b784100a1840?person=4d0a5597-7129-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784889/person/ID0HYOZCHW5YVBCMA5JKBRV1UAAMYNI5ZUIWCGVFNLITD1UMTJGZQ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e42e-666d-e053-b784100a1840?person=7ef17055-d4b4-cdb8-5e32-f6faaae37b31>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-e42e-666d-e053-b784100a1840?person=f7a55721-bcf0-b8d6-70a2-32ec4eefa05b> .
+
+    <https://data.rkd.nl/excerpts/784889/person/IDHSDKJILDHHUFC5RG4L3C5JWSCOWTYD1FIG2BCJCNQWKNMZ3RVK0F> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e42e-666d-e053-b784100a1840?person=ccdc01f5-b552-e3d6-a997-f08d8b5a3fea> .
+
+    <https://data.rkd.nl/excerpts/784889/person/IDWIL333230ZL2BOB2V2IX4W5FAIK1JSYZEAKSXFLO2QFU5OH3J0LF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e42e-666d-e053-b784100a1840?person=151eed88-c0b7-6943-6127-f8a1f1655444> .
+
+    <https://data.rkd.nl/excerpts/784893/person/IDW0APMUXRSB5TJQ4E0OBIUTIRHBX42PD4ZF2YDQDOGPO32A0J4HBH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5f0-666d-e053-b784100a1840?person=3981e3d4-8c6e-c357-10e3-c49fd8ba4cbd> .
+
+    <https://data.rkd.nl/excerpts/784894/person/ID1PHFAHRWDAKLPN2HV0PYJZBCBGPKL3IJ3BCR11NJK3NELLEBJU2E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5466-666d-e053-b784100a1840?person=1f031f0c-dee9-d41a-6ca6-baf895ad9ead> .
+
+    <https://data.rkd.nl/excerpts/784894/person/ID2AU1G1TR1GDKBG1YNSVR3D1NUMHMFEURRVOBKIINNWN04JIBG3WI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5466-666d-e053-b784100a1840?person=808f2d38-7d81-ba17-973e-421f977a2ef4> .
+
+    <https://data.rkd.nl/excerpts/784894/person/IDAOE4ZBBKXBXMPAR2WEVMFZHXBKV02XW1XVFVVQ54ZQOZCO5RHZL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5466-666d-e053-b784100a1840?person=2d4b0770-1ca3-32ff-a00c-6a7110098543>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-5466-666d-e053-b784100a1840?person=b616a028-f40d-2e9b-ddfc-27d65dea796f> .
+
+    <https://data.rkd.nl/excerpts/784894/person/IDXJZT4SRVHERVJSFX1RGWP1GJHJ1CZTKJOQ2DEWIZEZDGXYFRDSIL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5466-666d-e053-b784100a1840?person=f7774b68-c09c-70b4-4d40-61ec7cebd571> .
+
+    <https://data.rkd.nl/excerpts/784926/person/IDAJO5N0CRTJP5CHQGGNVODIW1FNHHHJC5JP23HONQQN4QTNVWWVYG> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-849d-50ee-e053-b784100a6caf?person=0982f008-4bd1-d727-4977-94b8c2da902d>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-849d-50ee-e053-b784100a6caf?person=99b3a409-9e4d-141c-f888-cca92e2a9727> .
+
+    <https://data.rkd.nl/excerpts/784926/person/IDUDAIIXJCZWKCPA4O3ODTOM14NEWDYMQK3GCAA0MXUKSWIN3ZBABP> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-849d-50ee-e053-b784100a6caf?person=e92d195b-1010-c29e-cd02-6d3aeda75bb5> .
+
+    <https://data.rkd.nl/excerpts/784929/person/IDNTXDVWSZVVI4EMBO40XEUW3JL3Y2FMOFDF0KHFR4XGT1W52N5PC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-26dd-666d-e053-b784100a1840?person=4d0a5597-c0a7-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784931/person/IDJW4UFO3ZGWZ1LREKQCFWLEOO1P25NK024J52LFJY4UUNIJSB2QKF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e805-666d-e053-b784100a1840?person=d10d5ccc-6098-348b-13a4-2d7869038647> .
+
+    <https://data.rkd.nl/excerpts/784931/person/IDY1NPJPGWMCN4O2CTH3WFD1EQCDUTWMGSHMXVGELCD35EU2VFTIEC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e805-666d-e053-b784100a1840?person=84a5e94e-eb71-07a2-ee1c-26dea26b4376> .
+
+    <https://data.rkd.nl/excerpts/784931/person/IDZ0Y4EQ0HK5GWFAH5NGXCVQBFPKIE0ANXS5YR3CMZZF4Z1CGWNEWC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e805-666d-e053-b784100a1840?person=1dde5d58-b73b-1969-7c19-b76d79541874> .
+
+    <https://data.rkd.nl/excerpts/784933/person/IDA3CI41BPX0WGESWLZP50MP3DLTOEQBZQDGU15NSFNMVA4IXDLKP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-cceb-666d-e053-b784100a1840?person=4d0a5599-05a1-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-cceb-666d-e053-b784100a1840?person=4d0a5599-05a2-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784933/person/IDRESI5IVLRJQGDJNXDG3T5N3HWIQ2BDI3OBO0DOEIQTPRLAIBITHH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-cceb-666d-e053-b784100a1840?person=4d0a5599-05a1-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/ID1BDTNWYM5P4RFIN1UGBNOS2JFDBZ5RD0MXZ3CIVS0RRW1V0JEMJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-68bf-666d-e053-b784100a1840?person=4d0a5597-ee8c-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-6695-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed6d-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/ID4FLXGOPHH0UVID52QNDM0TR1FLYINVB1WAIA1DB2L1M1VYD4XEJL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-6693-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDDTPM5UUSCLBPDUXRRL24R5H5GFAAG4YCCNXVPIJX02V0BQGSOGH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-68bf-666d-e053-b784100a1840?person=4d0a5597-ee8b-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-6694-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed73-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDFKJH4BDBBIPWOLP5MVQH4U3Q2CMZATSLMUWGKKEKGQTGX4W2LIKO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed6f-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDGXX3WFQQ5QGQFRMPAGPHRJ03LFKNCCEBANNHTZBRJDPMYYTQKT4L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-6698-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed71-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDH0MYPQOCYMQEJYWYSNOPXCMA2LDL1YEDTULXJGP0VNZRCKR4TANI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-68bf-666d-e053-b784100a1840?person=4d0a5597-ee8e-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-6696-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed6e-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDV2HN5LIAX3USLBLWHEG33C13GDPSL2QDL5T3THDXL14D4W5VYD2M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-669c-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed76-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDWJ3510TXHQYRJCHMRHHLUG1JCNFHAUVQTXU5OQKPKU3NZXJY4Z3B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-68bf-666d-e053-b784100a1840?person=4d0a5597-ee8d-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-6699-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed70-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDX5VEPT2ZJ2KWIF3ZSFUIQN3DOGCGAM5BFFOYXOPQJYSIW4BI3N3C> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-68bf-666d-e053-b784100a1840?person=4d0a5597-ee8c-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-6695-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-3234-666d-e053-b784100a1840?person=4d0a5597-ed6d-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/784983/person/IDY33RRDZWMRMSVLLAOC22OHA3NNUHOSQP2WHLXNWMBHVP3W53EHN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1172-666d-e053-b784100a1840?person=4d0a5598-669a-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785148/person/ID5MSTWW3GBWWTJ02O4CBVHG2XEEFIE1DYXIY40IDJWBCOYA2RHPBG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-bcbb-666d-e053-b784100a1840?person=4d0a5598-e4f4-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785148/person/IDKU1YUQHABAHWEVANIVFTPHO3LB0BAD0OBCHFCAFOFWV3OA5POSVK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-bcbb-666d-e053-b784100a1840?person=4d0a5598-e4f6-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785173/person/IDKRLZHKWPFYGSOCNU2XONGN4E2DX3ROQHZN4GBOOVY3EJS3SF01PF> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-3df8-6b6d-e053-b784100acdee?person=1be512fa-8867-1352-7d31-cc7d85483de3> .
+
+    <https://data.rkd.nl/excerpts/785192/person/IDA0DGTRKSQTAGEACZNXKTSXK1TIDGZ5BYCGD30MFTTBCDMMZAI3XL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-eae3-666d-e053-b784100a1840?person=10d6f260-53e3-e95c-0c74-4dcf4f8a4259>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21df-eae3-666d-e053-b784100a1840?person=469e3ee6-74b3-5780-bcf0-f788b4298b6d> .
+
+    <https://data.rkd.nl/excerpts/785192/person/IDMM4LVQ5AFJB5GPZLFW2YDOW1PISPRU4PVC1ZIAHUROSPT2RTMBSC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-eae3-666d-e053-b784100a1840?person=b6bd7b76-8211-9316-c60c-ce4643b19f96> .
+
+    <https://data.rkd.nl/excerpts/785192/person/IDTVNGGUDXMTNMHR1IF22QHEIYNMAJG45JGMGZUTJPZNLKHXWN3NRH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-eae3-666d-e053-b784100a1840?person=ad56aeef-2ee6-028b-b7d9-e673c90e22ab> .
+
+    <https://data.rkd.nl/excerpts/785192/person/IDUP3XS1OXTRINL5GFYUVV35M44B0EFNKTWGLI4TNOUWNRWO1I4Y5N> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-eae3-666d-e053-b784100a1840?person=2c48a79c-5b9d-7ef7-6ab3-aec6c04728eb> .
+
+    <https://data.rkd.nl/excerpts/785192/person/IDVEPROCQEB0PSRZZTAJANZHWDJOQXSOGAAZ2I2PWRLTJA5DOCSGK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-eae3-666d-e053-b784100a1840?person=09e82298-0a47-0d57-0b71-294d3989c877> .
+
+    <https://data.rkd.nl/excerpts/785223/person/ID5SQ1ORB3R4VQPZL35P20IUTDFDHWDX1JZZ4PIMNG2VQVPRRAN1OC> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-2613-6a83-e053-b784100a6e32?person=79040048-a683-416a-2859-774e24d316d8> .
+
+    <https://data.rkd.nl/excerpts/785257/person/IDIEIIV3GFG3WDP0B3ZINULRDQELWUJZSLFZZOW4DZMQ1H3J4UOO3> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-cb89-6a83-e053-b784100a6e32?person=61a0916a-d86b-ab43-04f8-aa19b9a26f3b> .
+
+    <https://data.rkd.nl/excerpts/785257/person/IDOAKTY3EO5PS2EZ5XNLCIZCG53HTPQWS4FS3YEOC4YPJ3M2UW3ONE> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-cb89-6a83-e053-b784100a6e32?person=8cefe621-344e-9c00-78d3-01b70fbca488> .
+
+    <https://data.rkd.nl/excerpts/785257/person/IDVIHQIAVSNTYFDSSKZDO2KK3QBK4ROFZODL0CTNS2KVQDRRVZQKC> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-cb89-6a83-e053-b784100a6e32?person=8cefe621-344e-9c00-78d3-01b70fbca488> .
+
+    <https://data.rkd.nl/excerpts/785258/person/IDCVC0DJW13MUOIT1OGCLXOWIXRPT5IUBHTMIJGNLY0EPQM4CSJ1SE> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-84ac-6a83-e053-b784100a6e32?person=c2a53b39-3a9d-6999-1ff2-97a252a02e14> .
+
+    <https://data.rkd.nl/excerpts/785258/person/IDFPYZLQSWSHQOCPBE22WPSR2ULTKOSRHRN3SIBKNF42AVSZVUDQI> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-84ac-6a83-e053-b784100a6e32?person=c2a53b39-3a9d-6999-1ff2-97a252a02e14> .
+
+    <https://data.rkd.nl/excerpts/785258/person/IDHK2COO3W512PPECJ45O4102H0QFZ13FC5N0OCLDLY1XLBJUDR5B> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-84ac-6a83-e053-b784100a6e32?person=0da7e835-2ff1-33d1-402f-54c453029760> .
+
+    <https://data.rkd.nl/excerpts/785258/person/IDQX1NVJVNX2ORLRKS4VPTHE301FVYLAJ5ON4120N0BL1X35Q5TSWH> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-84ac-6a83-e053-b784100a6e32?person=91e881fa-e812-9311-061e-a413eb58586c> .
+
+    <https://data.rkd.nl/excerpts/785258/person/IDW1ELK2T4NSDVLUNQQD5QPTWDVRM10X55Z4BPXHZBKMSXP3VDTT> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-84ac-6a83-e053-b784100a6e32?person=147f82a1-84af-6937-4123-9ba70268bacb> .
+
+    <https://data.rkd.nl/excerpts/785260/person/IDJC0LZIEAKTYHQNPDG5O1W12CHKRSB00HLAQZQBT5KXCIH0RMZEL> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-9ab8-6a83-e053-b784100a6e32?person=45ece2ab-4e91-f583-ffbe-2272d7cbbfa5> .
+
+    <https://data.rkd.nl/excerpts/785300/person/IDWEI5MJINEQZ3GVVFO2FBQZA5MI53QUE0NAJDRIGR2PIKPXMM2A3M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-1278-666d-e053-b784100a1840?person=d2ed6882-e7ba-aea3-0a71-6f84ef829649> .
+
+    <https://data.rkd.nl/excerpts/785311/person/IDSSJ3Q0TMIKNIPBTDCXY1B4PNWJPSL5X34WSQG4CMWTR5R2QUJT2O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-e56b-666d-e053-b784100a1840?person=7aef2df9-f4ef-06f0-ef59-1e6332dccc0a> .
+
+    <https://data.rkd.nl/excerpts/785419/person/ID3TF2DDQMXG0AFPRB55OTOBPFDBVRCCXGZ4MT3JNP2Y1DZUP11KVI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a703-666d-e053-b784100a1840?person=141fea93-2001-1885-a040-ec3dafd0e268> .
+
+    <https://data.rkd.nl/excerpts/785419/person/IDIKNONTGJTRVHL130UXTGF30CSI0RAY0CSDZWOJOZ1N2TTSSQ1YSK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a703-666d-e053-b784100a1840?person=b4e5c094-704a-bab7-adfc-a8998fcddf1c> .
+
+    <https://data.rkd.nl/excerpts/785421/person/ID0KCLJ0STQSVWPKL5ANV05XTGGL3WSDKQPC250YNGXIX4KMCQSFZO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-11de-666d-e053-b784100a1840?person=910cc204-414e-056e-75ed-8fbb9bcb21ac>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd5-0087-1e00-e053-b784100af734?person=72658cb3-ccdc-f326-bd76-40c707557f53> .
+
+    <https://data.rkd.nl/excerpts/785421/person/IDMBLDRZAEXXFRIVZOQBQX3JDSTOZGLFRJMIVD42FWXUTASUZPJLIE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-11de-666d-e053-b784100a1840?person=d97852df-28f4-ed5e-897d-d51974f969f9> .
+
+    <https://data.rkd.nl/excerpts/785421/person/IDX2YJCVEKVJ54G21L2OXFKTPTFS0OV4DDI3XQTDQHI4ZCZLHADAF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-11de-666d-e053-b784100a1840?person=d97852df-28f4-ed5e-897d-d51974f969f9>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd5-0087-1e00-e053-b784100af734?person=2b9f1b71-4447-73ed-d199-9dc759b7afd9> .
+
+    <https://data.rkd.nl/excerpts/785441/person/ID5WXNOJ3PDADKFXKEMDZITHIXUDU5NCEQQN4QESHOB5O4MW1GMQFF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-b5c8-666d-e053-b784100a1840?person=b1c4b15d-9c90-0062-34d2-684b7fd4ecce> .
+
+    <https://data.rkd.nl/excerpts/785441/person/IDM5GQ0HPHXDRLL0DTH1ZD2SZJKHMHQ3AGZ10FWVG1IRC53VILUGZE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-b5c8-666d-e053-b784100a1840?person=c9bf2405-34b6-f053-211b-f0794a244ab9> .
+
+    <https://data.rkd.nl/excerpts/785441/person/IDYIOPE4DYJWILB2ZQVBM3UZLXLGSY2NBIVVS1UHIZD04NHHGV0OP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-b5c8-666d-e053-b784100a1840?person=f5868545-b203-cc4f-517b-606febc93051> .
+
+    <https://data.rkd.nl/excerpts/785482/person/IDPPG5SHCE0TTQOZRDF3UUKM05QEWKQEP53PPN1YMYGL0DDY0TY0QN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f638-666d-e053-b784100a1840?person=cf5d2dbc-18c8-5cdf-a30a-216d1b926998> .
+
+    <https://data.rkd.nl/excerpts/785519/person/ID5ANVW43JXP3ENOFFGPHRQDR51LWSJDL5TOK4ULJMHJDRVXV33TRJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e57b-666d-e053-b784100a1840?person=f699c26c-aa66-67bf-a38e-34e86a630627> .
+
+    <https://data.rkd.nl/excerpts/785519/person/IDE2MGDFG5SIKRPONNZBXMH1BTDEK425VEJYP2JVMFJSMXUEPYD0WD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e57b-666d-e053-b784100a1840?person=09935340-5cdf-c862-ed10-d3ce88f54916> .
+
+    <https://data.rkd.nl/excerpts/785519/person/IDHNMNKA0N5PQCKTLRP4YBV0OMJAD2F2Y4VTTIYET1WP0DM52QTNM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e57b-666d-e053-b784100a1840?person=8b3962bf-9d9e-1345-f5a5-c5afc77656b0> .
+
+    <https://data.rkd.nl/excerpts/785519/person/IDKTWECFA43J0WGZQCLOVPSBIBCJUERUCD0K4WMHDH5I0ODQU0YRCM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e57b-666d-e053-b784100a1840?person=b14b7e50-94e9-7fff-061f-c11699517a12> .
+
+    <https://data.rkd.nl/excerpts/785519/person/IDKZQKB5P01P5U5AT33JGO1CJ0BQYLZR0ELTTLTMQJ3LKY2ZQVM0N> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e57b-666d-e053-b784100a1840?person=09935340-5cdf-c862-ed10-d3ce88f54916> .
+
+    <https://data.rkd.nl/excerpts/785519/person/IDPR3B32OVHY5LCCFHYBJG1AGG3FIATHX5F2MP0CHEATG2P1NVAGLB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-e57b-666d-e053-b784100a1840?person=2f606f71-fcbf-1b2e-6c72-9993e610a469> .
+
+    <https://data.rkd.nl/excerpts/785526/person/IDGL2ZFZKJ3O3XXWCTVEZMGUWPHM1GXMYDMX53GNQDRV1ALWVIAJB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7288-666d-e053-b784100a1840?person=4d0a5598-90bf-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785526/person/IDNV5XO2LDUEXOCUAG4JYGGDQO3BBPVLBJ5EQIDUKGOBAEFF41GB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7288-666d-e053-b784100a1840?person=4d0a5598-90c0-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785526/person/IDPJTZXO5S0KYYPAYFNRO32O40COK0BTAGLPIDGUIZ2C4OLTYLULNN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7288-666d-e053-b784100a1840?person=4d0a5598-90c2-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785526/person/IDXCWMAU4REDHJKM1PKKIWBFKEDLPNJKCHGE5YZ1MLBA3VN1T01KSI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-7288-666d-e053-b784100a1840?person=4d0a5598-90c1-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785531/person/IDS2XXEUCNHDQ2FJWTWS4LGLRGROH1U3DP3VDGUQC3ABGP4GPLFEF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b755-666d-e053-b784100a1840?person=4d0a5597-61f2-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/785550/person/IDV5VXAD3RAIUPO1TS2NPM243NJJVL0314DO5SUJP41B5H4ENPL4E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-0477-666d-e053-b784100a1840?person=9c8d0ccc-84b8-f0a4-a712-9451df871630> .
+
+    <https://data.rkd.nl/excerpts/785592/person/ID1GAFRGIBU1MZWF1W0AR0UXGBHJMP0K4AN32RYE2CYDSJW3FGVDC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=fecc5019-9182-7f14-fb2a-6dcb50da8e11> .
+
+    <https://data.rkd.nl/excerpts/785592/person/ID45INTO5DY3NKFF4CB00DMNIWOLUJRV30QC5CG0BNR21KEYA2H3KG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=5fc47f0f-6579-0d11-1dff-a08dc4bd80cd>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=d286e4f3-e274-6d37-eb83-b6fdd9e53a04> .
+
+    <https://data.rkd.nl/excerpts/785592/person/IDA02PAB2S4QR5KFSU4T2CYRGZ0PQISFRVTLZF1E0M43LZ1FQ1XRF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=e8ab7ab8-31e5-70e5-6c03-fd640ccfc7a9> .
+
+    <https://data.rkd.nl/excerpts/785592/person/IDGU3KQ5WZXSQCDFNT3S1FEAFHOLXLZEC1KABH3SFCEMQOUQN3I0NP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=66c53d7a-7619-9023-ad45-c474c17361fe> .
+
+    <https://data.rkd.nl/excerpts/785592/person/IDK5ADXBFB0WCQO5CQUKGPPET4TKXXA542BJAM3SNLY5LJNDA5LCNB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=f01aeb8b-be16-d752-075f-51b8c41b770e> .
+
+    <https://data.rkd.nl/excerpts/785592/person/IDMHHEHUNAFM0WDT3KT2JNBTZ1UEY4KDA4BMPUOLBZO51ORWFFMH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=5c06c0e8-7ab8-6449-a964-98918015acc8> .
+
+    <https://data.rkd.nl/excerpts/785592/person/IDN3XKQSBVRJ3UKRQPACLNTPMUAOPMEBP0RP40QAKIKVBKEBGC0ADP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=f060b998-abbe-27be-4fb5-01347f4a3520> .
+
+    <https://data.rkd.nl/excerpts/785592/person/IDOKG3OYNSB4LYJCSDC2NDNXREIHIPJIBHQ32ZR0HE2CWBY0IXRW2L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=532ac24b-1cbb-6ad0-5510-ae033c6eb2e2> .
+
+    <https://data.rkd.nl/excerpts/785592/person/IDYIHP3MDNDIVMH5CQXTVIZYYBCCTYIDJMUF4WAKJWVDPVNFTWFKWF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4ee0-666d-e053-b784100a1840?person=d6e16685-9ca5-e851-b2b0-b23209e78a19> .
+
+    <https://data.rkd.nl/excerpts/785730/person/IDCNACIKVYPE2EGTOWPATL2LKXPMKC0WKF2FXO0COBZI53S4FGDU3> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5b57-1a7b-e053-b784100aab8a?person=60a58e00-6e81-c039-3816-3a59caed08cd> .
+
+    <https://data.rkd.nl/excerpts/785730/person/IDDSNXDFTVITLKOEW0O5LRWSNWQFRESXIQNDOMMEZX3B02FSKMBBK> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5b57-1a7b-e053-b784100aab8a?person=845f3b1d-3cb4-85ba-ba1d-ac42a073a927>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad0-658f-1a7b-e053-b784100aab8a?person=b54fd4ec-c719-5aee-27c8-8ff98f49f8b4> .
+
+    <https://data.rkd.nl/excerpts/785730/person/IDGRNDKPJFLNJFBH4TUIBPE1A2QZGJ3YA5MKSQ4PJBBM1AQSO0M0J> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5b57-1a7b-e053-b784100aab8a?person=845f3b1d-3cb4-85ba-ba1d-ac42a073a927>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad0-658f-1a7b-e053-b784100aab8a?person=b54fd4ec-c719-5aee-27c8-8ff98f49f8b4> .
+
+    <https://data.rkd.nl/excerpts/785730/person/IDGX0L1IER1VSPPVOYQGRVDQHWLK2FDQPYNGKFWCMCK22AXS4AB1UD> owl:sameAs <https://archief.amsterdam/indexen/deeds/d0092ad0-5b57-1a7b-e053-b784100aab8a?person=72b4f905-a8c5-ac60-09dd-e2a2c25fdb21>,
+            <https://archief.amsterdam/indexen/deeds/d0092ad0-658f-1a7b-e053-b784100aab8a?person=251c5df8-d6d4-583a-5fc1-f31990963467> .
+
+    <https://data.rkd.nl/excerpts/785828/person/ID1I4VW5XJS5WGJPLFYGUWIZS0MFIT1DJ5320WDAI4XZ2CTU2OMRJC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=537da374-ee6e-6d38-f403-81b0f98ea906> .
+
+    <https://data.rkd.nl/excerpts/785828/person/ID2JMNZ0IMREULM24CWN2X4IDOUC5PXIHMSFXXGJNO1HVXW42FFHTF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=aa08a1b5-9e1f-4a7a-13bd-2fd0cf45b272> .
+
+    <https://data.rkd.nl/excerpts/785828/person/IDGUDSUBVSXUEHJGLLI5KNYXRA4FEON1500C2EOZFPU2M5R0OWCW4M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=991e0fd7-f1d5-54c2-7d06-36d861ce5818> .
+
+    <https://data.rkd.nl/excerpts/785828/person/IDQFKQQKZOFRKK2GHAL4EET3JUNDWFFNYVYTCUNFVCKXZHUEWNOFG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=df702ef1-645c-8ad6-0b8e-cb1fb51a7ec1> .
+
+    <https://data.rkd.nl/excerpts/785835/person/IDHELDH2G5HZH4ES0C3OFYXBBLYJ3L5LPFYXHRPZPQ0WVP0ABP1FVM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=bc93caaf-d145-7d88-bcb7-27b5564d2133> .
+
+    <https://data.rkd.nl/excerpts/785835/person/IDI1XUMRYO4FM0HGKZKPKX5ZSKBFDFAVZP4Y4PRGEDO2EUUJRF3N2E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=c568d7e2-c3c7-6652-d3bb-ecceee4e4656> .
+
+    <https://data.rkd.nl/excerpts/785835/person/IDLPBGJ2X1W1FYM4YIKB5JZRCWAK5I5WFTSP2Y1QNJ13XZMAMMECEF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=a4195eab-20c7-0e33-d8c3-ab9f4d1e3918> .
+
+    <https://data.rkd.nl/excerpts/785835/person/IDPQYHV2TPK11CMCRVMOEUMXC3EGOCQLNU2TPM15PVUIXDWTKOHB4P> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=bc93caaf-d145-7d88-bcb7-27b5564d2133> .
+
+    <https://data.rkd.nl/excerpts/785837/person/ID1HQHSLDPCOAPPUGKREV0MXYNEMZ12G5OTASHCYGAC4CFPUGWVL0M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=df702ef1-645c-8ad6-0b8e-cb1fb51a7ec1> .
+
+    <https://data.rkd.nl/excerpts/785837/person/ID1XHYQN3YTDPRDUPKBOP14UNQ4EGE55LGPKQQUFHF0JJIQOZIPZTG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=aa08a1b5-9e1f-4a7a-13bd-2fd0cf45b272> .
+
+    <https://data.rkd.nl/excerpts/785837/person/IDIOCBVBWXUPXJHBFIL0LRLO0N0CAOKJHD5XGALPB0NRJBC2AAWZD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=aa08a1b5-9e1f-4a7a-13bd-2fd0cf45b272> .
+
+    <https://data.rkd.nl/excerpts/785837/person/IDK1DOF4NUMUD5KJCG4GO51SZ1RDOSHOH22W4BTOPT32A51YAW0A2J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=df702ef1-645c-8ad6-0b8e-cb1fb51a7ec1> .
+
+    <https://data.rkd.nl/excerpts/785837/person/IDOPHWZENTZURKKIFSMYKIZ2GSEOGEIXMELZ1L41GZJADFAUFP5OEO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=991e0fd7-f1d5-54c2-7d06-36d861ce5818> .
+
+    <https://data.rkd.nl/excerpts/785837/person/IDPYPFEKY5BKLUKDJYXJTLKEC0UCWAGKSU44ITLRH32A3KUE1BEYRB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=9c93ed1c-60c4-3a5d-8f6e-4018e97b9b84> .
+
+    <https://data.rkd.nl/excerpts/785837/person/IDRFG20S4OBQYUJ2WVGT5JXOSJXJYABLCWG3RIMNLPR4UJJVTFMX4B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=991e0fd7-f1d5-54c2-7d06-36d861ce5818> .
+
+    <https://data.rkd.nl/excerpts/785837/person/IDTSWDEU0SU150CNHYBA0NVQAMDLY0WZ22QSN3LCPLMIMJOOSOFJ0E> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=9c93ed1c-60c4-3a5d-8f6e-4018e97b9b84> .
+
+    <https://data.rkd.nl/excerpts/785837/person/IDY1P3URKL2WOAPSI1CBRQKIDGREPIMWVWJQR4ZZI2LOYIVYZGJ33F> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-a394-666d-e053-b784100a1840?person=e5caea08-af8c-2fcb-ac50-973f2d4664f1> .
+
+    <https://data.rkd.nl/excerpts/785849/person/IDJM1T2CCUHZOXKSLMOJKR3ON2TBAWBVCLIUAOOFDKKRQ4HAKAJJYN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=bc93caaf-d145-7d88-bcb7-27b5564d2133> .
+
+    <https://data.rkd.nl/excerpts/785849/person/IDRKI4OOE15LW4GQDHKIICRH5DQDCOTDGHWYVAG2DWWRPRPIORZOAL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=a4195eab-20c7-0e33-d8c3-ab9f4d1e3918> .
+
+    <https://data.rkd.nl/excerpts/785849/person/IDRMHE5V1QRZ45EMG5LX2MVMGG2JMC4ASXPQU112VHAYZUBBT3CYE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=bc93caaf-d145-7d88-bcb7-27b5564d2133> .
+
+    <https://data.rkd.nl/excerpts/785849/person/IDRR3PK5OQTGOVBC55AOF4TQXSTM5QDDANVZDTAPGSOKSSHS4STJ0I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=04722d75-8525-f191-5b58-a94c8931e18d> .
+
+    <https://data.rkd.nl/excerpts/785849/person/IDVGCQSG0PEPX5BFJEEF42DK1AEEWEJE0W1F41MMHKE2O2QMV2IQK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-9606-666d-e053-b784100a1840?person=04722d75-8525-f191-5b58-a94c8931e18d> .
+
+    <https://data.rkd.nl/excerpts/785874/person/IDGCZLXSOPL4HAJTDYR5MEAYX52OVY2YEIZTAK0KLEUT200XF212RE> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-24a7-50ee-e053-b784100a6caf?person=92877323-c257-9be4-0e79-00a116890c32> .
+
+    <https://data.rkd.nl/excerpts/786020/person/IDT1SKEYSQAESBHIQYBCCTTIQWMC0MZYB2B3RXGBIOOS1DRDSWTVQI> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-d618-1e00-e053-b784100af734?person=665d433f-f3b1-ef84-4b77-c610ca833c56> .
+
+    <https://data.rkd.nl/excerpts/786145/person/ID3OTZEHEMJPMLP0B5EQC4XRLVMGRU4DM401ROT4BQTLSDWMIPG2EJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-da80-666d-e053-b784100a1840?person=a5c0c435-ac02-cca9-cb8c-cdb7e4204c71> .
+
+    <https://data.rkd.nl/excerpts/786145/person/IDI1JITDNCZZGXE3X53UE003FIPLPWTDNQQ3CXILNNN0DA5D1V2NZK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-da80-666d-e053-b784100a1840?person=e27b231f-22e9-2057-19e1-c951937b1cff> .
+
+    <https://data.rkd.nl/excerpts/786145/person/IDRPCT3UP1CHQRG1GPGVLTHP02WJMI1UM5QNANQHGU2ZXLK2C21KXK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-da80-666d-e053-b784100a1840?person=2b52fbf9-645a-0c0d-a678-df202072b757> .
+
+    <https://data.rkd.nl/excerpts/786145/person/IDUXGW1233CFXWBZUZZUWCOV5MRNAVNXVNC1RKHJK0D3XDCLXSRDZG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-da80-666d-e053-b784100a1840?person=d701293f-6604-2a91-2bee-dd21e733a391> .
+
+    <https://data.rkd.nl/excerpts/786145/person/IDZBM4MANYAPDABIGGOQ5YFZJVYFY3E1ZCJFBBCMPOCHZOQXV1EJFP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-da80-666d-e053-b784100a1840?person=9ddd5b9e-c921-f0f9-5dd3-5f145debfa78> .
+
+    <https://data.rkd.nl/excerpts/786146/person/IDCU40LP3THQIGB3GM10OCCETQ1HAG10Q1XLEJBQJVPLU2CQHAJ42D> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-51d9-6a83-e053-b784100a6e32?person=474d29e2-2ce6-01df-2be0-84aac3a44bd7> .
+
+    <https://data.rkd.nl/excerpts/786152/person/ID2WQNI3ODI1SPMHNHWNP0IXDPPMAVN0M03U2O3MOB33CEJEMNRPM> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9672-6a83-e053-b784100a6e32?person=8969a331-9fc5-66d1-b60e-a95d10a93c87> .
+
+    <https://data.rkd.nl/excerpts/786152/person/ID4O2UUPDIFRMBNI5QIKSUQCD5LHDEXD23PUDPDXPWQQMK44A30ITO> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9672-6a83-e053-b784100a6e32?person=8969a331-9fc5-66d1-b60e-a95d10a93c87> .
+
+    <https://data.rkd.nl/excerpts/786152/person/IDC4C53AOIFQ3IJ2YOBT30DIU0CG0QKEJ5KNSLVMHJTQJ4SAMTBZYH> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9672-6a83-e053-b784100a6e32?person=f5e785b9-fa41-5a27-8dfd-cdc5c607e972> .
+
+    <https://data.rkd.nl/excerpts/786152/person/IDHQHYGDGNXDMYMMKTVTCYSVPBLBU2EVRGPUYLSNCLDC1XO4PIKRN> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9672-6a83-e053-b784100a6e32?person=f5e785b9-fa41-5a27-8dfd-cdc5c607e972> .
+
+    <https://data.rkd.nl/excerpts/786152/person/IDHUFL4RUDJFHNL3DWF4FKMPOWCDHMYWJNBAWR53HGYMY0IC5VNUIN> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-9672-6a83-e053-b784100a6e32?person=b0aa9e11-53e5-65e8-646f-362f9a263b3c> .
+
+    <https://data.rkd.nl/excerpts/786247/person/IDAOMHF1NDJDPZKNUDJPXYK3CL1GLCXDKBIR35DVMPNNORWB2X0CXC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=5c08f669-c7f2-4213-0b31-75a2134184ef> .
+
+    <https://data.rkd.nl/excerpts/786247/person/IDB3Z02OBHLRVFLDUXTV3M41XJNOPXZKEYCDPV2FN3PCFTGJSGXGSM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=4b77a77a-34e9-7282-a0c8-96155933ef03> .
+
+    <https://data.rkd.nl/excerpts/786247/person/IDLV3TCLVF0EN3B01RI1AJH13E1KLVPITKULDOAEICSMQ5XU13BTFK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=4b77a77a-34e9-7282-a0c8-96155933ef03> .
+
+    <https://data.rkd.nl/excerpts/786247/person/IDQU0F513EDEPPG5XC3M0GBSUKVCOLINYLXGH1K1IP0RHZORTH5MYH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=daabbf06-6f2b-bad4-0a34-e90f919ef1e1> .
+
+    <https://data.rkd.nl/excerpts/786247/person/IDV3YNDWTAIURCGZI3TWHKEQECIF022DKZZIIEJTBO1DJJSU0LYAEI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=c3b61966-4308-b37b-7312-901c44e2144a> .
+
+    <https://data.rkd.nl/excerpts/786414/person/IDFYZIWLEANFSPEIDTFVIJGYIXCE2N2HHGL0NXA4G2RAFSV14NKSOC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a007-666d-e053-b784100a1840?person=581b3407-56c5-9c8c-a607-cc1e0963476e> .
+
+    <https://data.rkd.nl/excerpts/786422/person/IDE05ZEBBGFLIONKZF2YUAORWFYM4MS3MODTW2RLN4F5TPUNEDZ0EG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-96c6-666d-e053-b784100a1840?person=cb95a6a8-dae8-3d20-ceb3-c9614dd81ce2> .
+
+    <https://data.rkd.nl/excerpts/786422/person/IDFQ22AEYA1OOJG1LOPZ5IOCHIKE253X4MUOGNUVGP40F4UTHCX0JN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-96c6-666d-e053-b784100a1840?person=cb95a6a8-dae8-3d20-ceb3-c9614dd81ce2> .
+
+    <https://data.rkd.nl/excerpts/786422/person/IDHSYYFRI2XDFPLUJBNAHBAY3BIF2L2LORUXL1ZFK3DET2YO1XQPEE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-96c6-666d-e053-b784100a1840?person=aebc493e-8d1f-2eb1-0d57-34255aa252a9> .
+
+    <https://data.rkd.nl/excerpts/786422/person/IDNEX1SH1LZIXSNJJMUJJ3KR2F0INH4ZH21RVQKRPXGUKPXZ3MDRKL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-96c6-666d-e053-b784100a1840?person=cb95a6a8-dae8-3d20-ceb3-c9614dd81ce2> .
+
+    <https://data.rkd.nl/excerpts/786422/person/IDTDODQZRYMP3EN1LJBAWWR5I2TEKCSJJY4XWQKCLNLI1BRR0K4A5C> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-96c6-666d-e053-b784100a1840?person=a006da5f-cd4f-58f4-3178-9d88e5023647> .
+
+    <https://data.rkd.nl/excerpts/786427/person/ID1L3MYZZCOIPRBH42QNP0HGOSWGLOFFR3G1SA0KBXI332DCKW1AQH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=6c8c5ff8-02ff-b461-7da0-ff8e2028a186> .
+
+    <https://data.rkd.nl/excerpts/786427/person/ID3PKL2UONMBAVE5TD0VHAMUC3GHVHMNOB0PB3SIH02I5AP2X2RGNG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=41f7c9b3-1a03-c508-f298-6c3f35d28879> .
+
+    <https://data.rkd.nl/excerpts/786427/person/ID4TVRVKKIIC0UKARHCWNGMRVKAKI115A0L1IDHNKQGN0ARAFGIJO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=8f5171b6-7b2c-15f8-f36e-15926946e438> .
+
+    <https://data.rkd.nl/excerpts/786427/person/ID5PTDEFB2SR2QCWGUQS3GHTRJUC0120CZIPJSR2KMDLGHW53GD0EH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=534af9dd-16b8-96bf-0647-0cfec69d60bb> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDAFPMEKBIRY2LHEV2FK1UKJQJZP4AAC0LAKZCTCEDVMRPX03AUI2P> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=5bac262d-3dda-2cdd-56c8-465b336894a6> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDGZLTOOOP2A2MEMCSSU41T23R5G3BRADTPY3Q3YPIKZC2YYQX5UQB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=52e25d7d-546c-bec8-4e54-6d6b703fe4da> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDLWPYR0EHCCLXD5OE4K32LE3WXLZB4PERSCGTPNOJCCMO31AKSRZN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=57690d0e-a662-31a6-a301-23a137f8314e> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDPNH2I3SEJC5HEZHSNYYKBZNGTJKPWLOD4JMNV1DGQY1BKKWY0XYJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=52e25d7d-546c-bec8-4e54-6d6b703fe4da> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDSB1F0LE13N2CBTKLH5533GAANON0QE51E11YNVFDSZENXNL1JP2K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=e0f061a1-7789-9d7d-20ec-9515b47ae916> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDSYS2MQLSOVL5BCRGU25JJ5WU2J52LDOQFBHK1CDX0HV0NMOEOWLH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=d22dc31b-988b-270e-4874-73c1bc32ba11> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDUG2IQBUC4KQRMXPV1ZNRW30W4ITUZ313T0OHHLFFFJPN5BWMMS0O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=b078a8fa-871b-9388-de09-d3a5f956dccc> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDWEWOD2YXS310M00NLZBJ1MOKWOU0KK3G5WXE5TGPN0OU2UCCPMFM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=13b3e653-2f84-d760-fd70-85bb91823ada> .
+
+    <https://data.rkd.nl/excerpts/786427/person/IDYNCUXUYO0YQHBB1NTPN2M5CSFJXSPBRNR3PMPOIKLF2K1KWYYHI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-48c8-666d-e053-b784100a1840?person=639c0064-8c80-4d77-a9c6-3c9d152bc987> .
+
+    <https://data.rkd.nl/excerpts/786438/person/ID44YMTBEGU5Q0KWLSUK0FU5DNSLU2MK2L3IBAKSMNIXFPZO5EKQGN> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=0ee00c99-c253-705f-3523-68729cad43ce> .
+
+    <https://data.rkd.nl/excerpts/786438/person/IDK2HMTDDRRBGWCOFIPHSOCLMW1C2BVW3RF5HSYRMSTU2IEGTC1X2I> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=0ee00c99-c253-705f-3523-68729cad43ce> .
+
+    <https://data.rkd.nl/excerpts/786438/person/IDLTEK3DOSP4I3EAH4XMNEIJKCSEFWTU4FXT2OJXJQMZMCIHBO1UTK> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=0ee00c99-c253-705f-3523-68729cad43ce> .
+
+    <https://data.rkd.nl/excerpts/786444/person/IDANIK2NYLRZIFCKR1KS30JXXQVKW2N02MPONAPXMYUFIDGNHPXCEF> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=1c6e8015-a079-ab32-2f21-47493550bc63> .
+
+    <https://data.rkd.nl/excerpts/786444/person/IDBXSOG130AFFGIILMEOUI0LMY3G1OCDH53YWGE3JR5BCFWQZRTD2M> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=0ee00c99-c253-705f-3523-68729cad43ce> .
+
+    <https://data.rkd.nl/excerpts/786444/person/IDFX05KY5FUOTOEYYIQ5WO4HF4YLVLT1CHE3W1UMDYWNHDYL1DWK4N> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=0ee00c99-c253-705f-3523-68729cad43ce> .
+
+    <https://data.rkd.nl/excerpts/786444/person/IDOYRWZVW51RBILUVGHYQ4HYW2UM2QQE3JY5BSAIIYQSTXESJXIEUL> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=0ee00c99-c253-705f-3523-68729cad43ce> .
+
+    <https://data.rkd.nl/excerpts/786444/person/IDU4XI1ITQUDTD1UOOHJ1T3101FAJ1C0NT2FJGYBKRHX0QQRL350I> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-084f-6b6d-e053-b784100acdee?person=0ee00c99-c253-705f-3523-68729cad43ce> .
+
+    <https://data.rkd.nl/excerpts/786448/person/ID1IRHK4A5FGVBOYYJ1OFTFTHV4IN5Y3J4FUJEZDNOCJZOOYI13FKI> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-1890-6b6d-e053-b784100acdee?person=683e0ec3-23d5-74dd-3ab4-72cf3bd8c35b> .
+
+    <https://data.rkd.nl/excerpts/786448/person/IDH4HLSHMCUFXCLRUHHS5PUACUNM4OXLGSPZO4JCLAXCBDLS0QXWGB> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae04-1890-6b6d-e053-b784100acdee?person=0e1900f5-4dc2-a373-0a49-75549ab397a6> .
+
+    <https://data.rkd.nl/excerpts/786448/person/IDSMNTFMNCSRLZPTEVXYFPEY1ZEJH0TPR35WXWW5MJVYSHWIJXHQVJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/d837ae03-f226-6b6d-e053-b784100acdee?person=65d9e739-901e-cd53-d894-9bffb19fcace>,
+            <https://archief.amsterdam/indexen/deeds/d837ae04-1890-6b6d-e053-b784100acdee?person=849d4930-951d-1931-bd29-1cd813e1c7b1> .
+
+    <https://data.rkd.nl/excerpts/786470/person/ID0IGWAQ5ICJIKP2EI30MWST4OHHYWOHZ5LJFNNK102Y5HPM3SQ2K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6b2c-666d-e053-b784100a1840?person=cd921641-c644-0d4d-6431-1e199e4e1210> .
+
+    <https://data.rkd.nl/excerpts/786470/person/IDWI5ND4GXBRWVOVH4J5YOA2WZCGGEUVK4ONQDETFRZ1F5G3VPY1YD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-6b2c-666d-e053-b784100a1840?person=2bae3ca1-5dcf-22d1-93af-64dd1d9c8554> .
+
+    <https://data.rkd.nl/excerpts/786477/person/IDGMFQJZOX0HPJGZPPZ31WSDZZ4HHEZIB2OU5RTEBLOHPOCFONSNKE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-1055-666d-e053-b784100a1840?person=fd9fbb9b-51e2-2e8a-8049-61b49c48c65b> .
+
+    <https://data.rkd.nl/excerpts/786477/person/IDHZJPYFRDGWAIOOEC2H1SNWK5NNSGGWLKNC2AUACWROUWGRLIVFLB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-1055-666d-e053-b784100a1840?person=44c8fcb3-083d-1a34-31cb-54505af33fbf> .
+
+    <https://data.rkd.nl/excerpts/786477/person/IDJWGIZ3EDPSQUJKVKG3U2FWODJDXPGLGIVGEJW5FD3PZM0T35WL0G> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-1055-666d-e053-b784100a1840?person=6d5804fe-307d-6a07-b885-bc144b2fd355> .
+
+    <https://data.rkd.nl/excerpts/786477/person/IDOARYRO1YPCRXPUU21TK055EDPLU1DMORLSUDHHHYTBSRGAMCGMBD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-1055-666d-e053-b784100a1840?person=1d85029a-10fe-b000-09a1-8aa1cee32030> .
+
+    <https://data.rkd.nl/excerpts/786478/person/IDIXPF3XK1IVTEPY1SUXF4B51WWLT0QG0QQOOK1CPNIOG4SPBVD2GD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4a72-666d-e053-b784100a1840?person=a50818ea-6df4-919e-1236-bf96e8825f3f> .
+
+    <https://data.rkd.nl/excerpts/786478/person/IDQ2XHOVVZRNSZNUOQ1FWHRQFPSLHQ2Y1NLIPFZRJW5AK4KNK04S4M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4a72-666d-e053-b784100a1840?person=d159922a-d025-e5b4-ecd5-164e38175771> .
+
+    <https://data.rkd.nl/excerpts/786478/person/IDUSP2QB5C3I1OLA1NK0EBPMRKPMBDHXGZV1NICQEJX1F2DYSUTMRN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4a72-666d-e053-b784100a1840?person=30571b8d-1619-d969-f4cc-a5cbe8040bad> .
+
+    <https://data.rkd.nl/excerpts/786478/person/IDXT0L51P21EMAEMAGJZR3UGY2DDASNVZ00VQYGJN3UK1YZBJMA00G> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-4a72-666d-e053-b784100a1840?person=482c8dc3-bbc6-fd06-19ea-ac10d14fdc94> .
+
+    <https://data.rkd.nl/excerpts/786481/person/IDDSHKMGBRRAQKL3FK0BFCM0IR5LULQ5P4S3EYUHLI2WL4HS5SRYKH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8594-666d-e053-b784100a1840?person=dc3906e7-5371-0dbb-d285-96a7f0c0036e> .
+
+    <https://data.rkd.nl/excerpts/786481/person/IDHUN3B04IJDBULJ24KZSBSQ1HF5GUR3IU2QE1LGG3ICXFOJXN1QG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8594-666d-e053-b784100a1840?person=8d455574-ed48-2d1c-4fb8-d199ebbdb684> .
+
+    <https://data.rkd.nl/excerpts/786481/person/IDJNKMYCZV1F0QI3TI52HAQCNFEIQQ2XEASMDOLQC3MMQ5D0VP3SXP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8594-666d-e053-b784100a1840?person=767469c0-b9aa-4a48-ff4d-dab62c3a2abb> .
+
+    <https://data.rkd.nl/excerpts/786481/person/IDKF4ADHNSMGEMDVDYLFGHSHTU4IB2VEKR1ZIMJXFDVJG5AIA5AHIG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8594-666d-e053-b784100a1840?person=3d38d2aa-a410-b060-ec56-aac8efbbe8e3> .
+
+    <https://data.rkd.nl/excerpts/786481/person/IDSZHOCWGUVIUBMRBFBEA0HBSSEFJ0IGNDD2GHCOVUD3FZICNIIHE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8594-666d-e053-b784100a1840?person=aa797ab1-4821-0ec1-3ab1-760823d54925> .
+
+    <https://data.rkd.nl/excerpts/786481/person/IDURZCS0KNPL5VKGNYO5AHQE3TNOSCO2CZMPNK4CFRSNJF3HYU0TJM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-8594-666d-e053-b784100a1840?person=6de67b8e-6fbb-d1e4-9a71-9f480d94fc17> .
+
+    <https://data.rkd.nl/excerpts/786488/person/IDEFBEDTCNA4RVTAH3G0RPTHDTIIMGT5LPBJZLMN4KPGZ1BTOJ0LK> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-03a0-1e00-e053-b784100af734?person=c3f4978d-1671-e2f6-bff7-8a6149cb52aa> .
+
+    <https://data.rkd.nl/excerpts/786488/person/IDIQKO52HIRPZSCVJ2NGJRHUPVYH12GZIJBENUO4JJ5VLZUTTV0PDG> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-e485-1e00-e053-b784100af734?person=7123e21b-1ee3-d26d-095a-7a9ed935ebe3>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd5-03a0-1e00-e053-b784100af734?person=31c9d770-63e3-9f12-7b87-b90d795fb085> .
+
+    <https://data.rkd.nl/excerpts/786488/person/IDPIOLFM2XTYUFCNP3BOOJ2Q4QZFO3VQIMJCLTB4DTRSQZBUOSIOKH> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-e485-1e00-e053-b784100af734?person=c0208f3b-1d34-876d-a902-7987cd38de49>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd5-03a0-1e00-e053-b784100af734?person=e6daadef-e101-ac5b-9e9f-51fa15284b5b> .
+
+    <https://data.rkd.nl/excerpts/786558/person/IDAUNNX4ZYSEGHPTPDSKAA5RYQ5HROC0OZZ2QYVCY45RPHLOKLAVF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-bedf-666d-e053-b784100a1840?person=b809bd64-0f17-33cd-0a57-1eeb8fcf6305> .
+
+    <https://data.rkd.nl/excerpts/786558/person/IDRPUEVIYOKDYWODIF3WBUITVRCLM0XR4CZBS33RFW2VAG3ZPXVTGO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-bedf-666d-e053-b784100a1840?person=573e27cd-8858-bcd3-c846-6e0550e0febd> .
+
+    <https://data.rkd.nl/excerpts/786566/person/IDGDJ1OQC5W4G2CA4DXVFRTVDM0G5BULWT42ZX5WGDUVBKM3MLXUDI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-5b8e-666d-e053-b784100a1840?person=e36fbceb-4203-239c-d488-fceecd076200> .
+
+    <https://data.rkd.nl/excerpts/786627/person/ID40AXSYE2YOIAH310YLKHEYEVTNTJXZWF3BHKWCFR1XZXZRC0Z5JG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-8f33-666d-e053-b784100a1840?person=4d0a5597-9ddf-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/786627/person/IDCZKPBGSXXMKEMZNH3KRAM2QP5OHB1VUJQNRYE5J2X3SJHFPC5FSE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-8f33-666d-e053-b784100a1840?person=4d0a5597-9dde-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/786627/person/IDND24WGXIGNIXIFUBL3KEPTR2CW40IPZDIYBB0JEPQ215PDFXRJK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-8f33-666d-e053-b784100a1840?person=4d0a5597-9ddd-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/786693/person/IDDKEHUJUNPLNGN4TPFI2DZCNCKLYPSR5IU0HM2LLP3YGSWC5ZOVUD> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-5c36-666d-e053-b784100a1840?person=03b258c9-59f1-cf95-afff-8ba9cd30b85f>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-c5a6-666d-e053-b784100a1840?person=ab1369b8-4f50-431e-16b7-22ec43a76674> .
+
+    <https://data.rkd.nl/excerpts/786711/person/IDKCWSEH301KC4GFHZQGCOONCWSOJC24BYHCESBMHF5AEMAF5R0VQK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9e4c-666d-e053-b784100a1840?person=bfcf8a64-d635-3f79-a8cc-883ddd1a4333> .
+
+    <https://data.rkd.nl/excerpts/786711/person/IDWJFVEZIFQQ5LGGUNJRSHIADBKMBG3GOM4TR40XDK0ARK4R1IWINH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9e4c-666d-e053-b784100a1840?person=9366316e-1add-af1b-4e0d-b2628b9574f0> .
+
+    <https://data.rkd.nl/excerpts/786733/person/ID2U23ME032ZL5DO2LJWYFEGUXN2LI0YQAXPU4PJCEN5HUZB4OXHB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-69f2-666d-e053-b784100a1840?person=62b5033f-1523-4c7e-a008-2b37bb8c6a3b> .
+
+    <https://data.rkd.nl/excerpts/786733/person/IDJ2DKM11V1HBRCS2VQ03NARI4CJGBQVZIR2OWCLHAOHU53TDJYE0I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-69f2-666d-e053-b784100a1840?person=55bd72e7-0306-bfae-bbb8-e4e8978e2e70> .
+
+    <https://data.rkd.nl/excerpts/786733/person/IDOLGPLCKLOQXZE45LN0BZIPJHMHJ0PMFZJ31DU4GONGFATWRXYB3> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-69f2-666d-e053-b784100a1840?person=ba6d504d-cef6-5c87-9cbb-40d9cfde8b5d> .
+
+    <https://data.rkd.nl/excerpts/786733/person/IDV05LX4NUSDFZELP11KJYX02RKO5FHAXRMUG4B1H35EESMFJJPPBJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-69f2-666d-e053-b784100a1840?person=ba6d504d-cef6-5c87-9cbb-40d9cfde8b5d> .
+
+    <https://data.rkd.nl/excerpts/786733/person/IDYWEK1SOTYWZEPURJQFFARLMWYGN3Q1SMHKNGETNDT3EEG5KDQUHJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-69f2-666d-e053-b784100a1840?person=26b67ce7-d19f-8217-a311-60afe8f764fb> .
+
+    <https://data.rkd.nl/excerpts/786749/person/ID30AVQ2UGVWBTB3XJRFB4KYOGTHLCEBGZU3EURKJH5WGMK1VDVYFI> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-e84a-1e00-e053-b784100af734?person=7f03363f-7774-4420-3301-49459ceb2c01> .
+
+    <https://data.rkd.nl/excerpts/786749/person/ID3N4ANWKJU0U3KUY1RF2SB01NGEELIIWNMJIXKACXFMFRNR3UGXPI> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-e84a-1e00-e053-b784100af734?person=02509f3d-0e82-6596-be26-7392856e238a> .
+
+    <https://data.rkd.nl/excerpts/786749/person/IDRDIAUPLK24N5GLQATOYMZUGI1M2MQKDW4SMRUZH4E0UYVNREVERM> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-e84a-1e00-e053-b784100af734?person=2f32ed80-666f-34f5-110a-87479e4e9c31> .
+
+    <https://data.rkd.nl/excerpts/786749/person/IDTKBWBO5TOYNRM4VJAK2Y5XG5GKT2PY45AWKZZTPBQDBVTAFHLXYO> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-e84a-1e00-e053-b784100af734?person=be256c13-7e69-c187-d120-65c24b4e3cef> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDBPIRAWLGBAT0L4PYKH5NA42HDB5RZONS0SNRVPPUXH3J5HPALFEF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=c79b7c72-a481-9536-f9f8-9adf04fad512>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=ec37da59-b9b5-8430-e181-98c6f041bb8d> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDCC2BSNK3S3UNOH51A0IETRPMWHQQIGQSNNPVQ5ZABMOPDB55JJH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=3f315bed-4097-35a9-9ad6-082c3577d337>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=a7f32eda-318d-9590-ad2a-5d203f9b3b72>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=6a827919-1316-6b17-06f6-8df5a23bd489>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=d2b7a118-06a0-6b2e-2fe9-471f8c47489a> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDCPGATYD0XIGPPSQ4JBM3W1JGKJF2BGYRXDUUTPM41VLT24C1HBPO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=70ae416a-bf76-26f4-417c-e7f0f05d18ee>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=f40c4f9b-4ad4-bf39-2422-40303de370fb> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDIDNJM21SNUW3E4PHZU13TJVRVEIEF4HHZ2KIOLLSQ2T14JCONFAM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=467c5e36-fbfb-5843-b7dc-9d16194031e8>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=f145ed09-7458-b25e-6ab1-d9b954c16948> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDIRHBGHBTGNILJYEGSH0NIU3RTONU1T3D0GDU3PGQXMSFXDFBH14K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=44a1f4fb-23ee-b771-92ac-10fb3845ee0f>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=1a437344-8d4f-b3a4-7eac-95b9a328f26e> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDN2XUJZTHAW0GJ3JFM2WJW20DPGMITNCNBCUDFNC1Y3AIA30FT5M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=c79b7c72-a481-9536-f9f8-9adf04fad512>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=ec37da59-b9b5-8430-e181-98c6f041bb8d> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDN5K0GRMHA3WBHLXVK0ROFU0S0PDOTVWQQQ1M01KVENLXKLFMH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=3f315bed-4097-35a9-9ad6-082c3577d337>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=a7f32eda-318d-9590-ad2a-5d203f9b3b72>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=6a827919-1316-6b17-06f6-8df5a23bd489>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=d2b7a118-06a0-6b2e-2fe9-471f8c47489a> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDP3F0IIZ2MU24FY1KJCF30SXRDM1DHWPHZGCWOVJMIUTCLN2KBCHI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=16a9670a-8f41-5cc0-3c4f-3db7e4d84d9a>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=e3a15f1f-6f40-d2e2-72d2-adbce5a6ec2d> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDSKB5ENQRYSPDFVRDL5CGSZXI5FSBA3B1PWUUJ2MPNTVXJ5QYWLGH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=31f07055-554c-6152-efc9-f01913063d80>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=b3b36a70-e841-ccbd-f605-44a9d0a8809f> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDUEKYRPLUQIH4LK1F2V0RK51J2NMLD5IM3PGKOCOXCTDXCUSGJNM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a5ff-666d-e053-b784100a1840?person=6c52769b-1dcc-a6d5-3d23-87ab1120bec3>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=2ba2664f-4b51-a21e-5ce3-f4a5f2e67f46> .
+
+    <https://data.rkd.nl/excerpts/786769/person/IDUOUUGEMZCY5JLDWEHPLZQ5BIE2VMY0F5XWEJOPPEPZZFJ3WEBIN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-8097-666d-e053-b784100a1840?person=658429d3-d725-870f-a86f-92b405a9bab5> .
+
+    <https://data.rkd.nl/excerpts/786773/person/IDCRQOTGEIHYMEILOEQKD5FNU01DWZVZTTHOZPH0MAUEDA1QP04D0L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-c23b-666d-e053-b784100a1840?person=2f06ed3c-1b94-3b32-51a3-f11489914b43> .
+
+    <https://data.rkd.nl/excerpts/786773/person/IDJSFLCK2UK2FLNVKKIAXOQ1U1KSAHHWGBI0EB3NKATL51IQ3A4NK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-c23b-666d-e053-b784100a1840?person=2f06ed3c-1b94-3b32-51a3-f11489914b43> .
+
+    <https://data.rkd.nl/excerpts/786808/person/IDVNSOPSVR4FQEPUDW2BN5EKAO3FCUKEIVS2BGADCAZA1L2SRT0LBL> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-fba8-6a83-e053-b784100a6e32?person=a7c7eda1-1c7c-db2b-6182-00653ae8d117> .
+
+    <https://data.rkd.nl/excerpts/786808/person/IDZPZRM2QS4CVHCPHRAIZP1GVMGNAAHI00D3DIZQKQHVMWAP1JM30G> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6d-fba8-6a83-e053-b784100a6e32?person=160333bf-bcc8-52be-f172-54ab3f6b9ccd> .
+
+    <https://data.rkd.nl/excerpts/786810/person/IDDSQ3RGAF1MYUFQ5PDI5DOEHVSGWV2XFLFCNBDSMUOYAP2A4JLXAE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-18af-666d-e053-b784100a1840?person=e25cde83-b512-81d1-e7d6-1a181e58ad15> .
+
+    <https://data.rkd.nl/excerpts/786821/person/ID3LWDKPVLDVCOCXJK12EFZHCCMLCQ2T1EZH2T5CPEBY3AZ2ZPUCC> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-7964-6a83-e053-b784100a6e32?person=404b46a3-5fc6-8f6f-8900-7e61d955e18c>,
+            <https://archief.amsterdam/indexen/deeds/b21a5c6e-7964-6a83-e053-b784100a6e32?person=ac84d153-40b7-5dae-6c8e-7aa3bfcee9c4> .
+
+    <https://data.rkd.nl/excerpts/786821/person/IDBW1L4Q3SV5VPIJBK40W12M5A3EEVC2C5JXIFOOC23HWQQ31UOBIK> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-7964-6a83-e053-b784100a6e32?person=494b4c7a-43a1-cd8e-89e3-6710f0e9f059> .
+
+    <https://data.rkd.nl/excerpts/786856/person/ID4L5ISB30EYCZG23FUW1HNT5O0BLOQG0LFCZAXMOMFPEDSVWAIHOC> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-18d2-6a83-e053-b784100a6e32?person=fae6d4a5-ae67-faeb-fe60-fbd93349b070> .
+
+    <https://data.rkd.nl/excerpts/786856/person/ID4XWLA31K5OXIFR0215NPMNCLNIZDCC2Z4EZNLZFK0Y1NOP3SSIFO> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-18d2-6a83-e053-b784100a6e32?person=84483855-19a3-244c-1e36-e7c6fab01594> .
+
+    <https://data.rkd.nl/excerpts/786856/person/IDFK0L3U2XH5V0IJA1YK0CQVMTAC0XDYCP4Q3T4MGP32HBCZSD34WL> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-18d2-6a83-e053-b784100a6e32?person=bd292448-4e65-982b-b768-885929a30217>,
+            <https://archief.amsterdam/indexen/deeds/b21a5c6e-18d2-6a83-e053-b784100a6e32?person=efa79db0-e5b6-11fe-28d0-d5e070866e1b> .
+
+    <https://data.rkd.nl/excerpts/786861/person/IDO300ID4BQMW0K1MPGXMVDKUL2LPC4ZZICBKOAIHHR2PY4PZBVFLN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-7acb-666d-e053-b784100a1840?person=ca94488a-5990-2271-3ac3-67bc5bc4193c> .
+
+    <https://data.rkd.nl/excerpts/786861/person/IDPEXUFQYARZDNDRXESIDXCULBCEJPU43O1P0S1KYSKDQYU13QYDH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-7acb-666d-e053-b784100a1840?person=ca94488a-5990-2271-3ac3-67bc5bc4193c> .
+
+    <https://data.rkd.nl/excerpts/786907/person/IDGNHMHN2DXAK5PWCZ0GAEPVMCGEURI4GP2XLNGBP0P5TPTQEUJI0O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1bb2-666d-e053-b784100a1840?person=4d0a5597-4493-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/786907/person/IDSBHS4GDAVRBHFVGTBECFPMS2ALMHV2KX40GUQKESQ0OEU2TW1ODP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-1bb2-666d-e053-b784100a1840?person=4d0a5597-4494-7040-e053-b784100a6264> .
+
+    <https://data.rkd.nl/excerpts/786974/person/IDM5MDV1LXA0BNOGRXLP01K2DMXJZPGBLQMHKQASE3A3ALMBQMUVIK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-a5a4-666d-e053-b784100a1840?person=115fa17f-d617-b154-1359-72c0bf4e426d> .
+
+    <https://data.rkd.nl/excerpts/786974/person/IDWFBU5N5PMTG4OTPAPDAAFFK2ROIUS0EVLXJBR0NPGBKYXZN5NTTO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-a5a4-666d-e053-b784100a1840?person=734e2e20-7a35-5217-cc06-b38314edef4b> .
+
+    <https://data.rkd.nl/excerpts/787045/person/ID44A4CB4X3TN2GKD0VNWN0BKDYCC5AAVTEIJW1PJ3AVU3NPEKLGUJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840?person=03fa45eb-f671-c39d-7cce-a823bdfef080> .
+
+    <https://data.rkd.nl/excerpts/787045/person/IDGBLCKMBET4QFOK25AOROIH5OUC21J3UXU0U2MTLNKCV1A5QJHBUC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840?person=295092f0-5a8f-8657-6dc8-95a2d3696136>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-7d87-1e00-e053-b784100af734?person=010f0755-1cb2-bb2a-0e8e-85529e893e20> .
+
+    <https://data.rkd.nl/excerpts/787045/person/IDSMOQODKK55DSTG2XIBOSYQ5QJ1D1UIGL1NC0QHMNOOMDKIMSNFC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6c7e-666d-e053-b784100a1840?person=090abbff-5239-80bc-d348-3873e9f1a84e>,
+            <https://archief.amsterdam/indexen/deeds/bebf5fd4-7d87-1e00-e053-b784100af734?person=8f761353-8372-937d-5e66-73bae72d7187> .
+
+    <https://data.rkd.nl/excerpts/787048/person/IDCYV4BXL4J3IFPSTXN2KSGJMOZNE5QHQOFSXTIEMN0VHHHJNFAFWO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=4b77a77a-34e9-7282-a0c8-96155933ef03> .
+
+    <https://data.rkd.nl/excerpts/787048/person/IDZBKZP450VFIXCK42NTZWONLPEBL3CQARPS5QGXC0XHPLSPEYMP1N> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=4b77a77a-34e9-7282-a0c8-96155933ef03> .
+
+    <https://data.rkd.nl/excerpts/787085/person/ID20HMJYEZEILHHGGG5ETAGR3GSEIOW3COSBGTXMM5ETWUENEDDPHG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-def1-666d-e053-b784100a1840?person=4b77a77a-34e9-7282-a0c8-96155933ef03>,
+            <https://archief.amsterdam/indexen/deeds/e557c10e-c715-7dcb-e053-b784100a971b?person=e2dcc671-533a-cfeb-8392-9c0965327296> .
+
+    <https://data.rkd.nl/excerpts/787085/person/ID52T4LSJAUQPHMCBP1TVPJO4FFOEJ0HCBDJWDITHELYO20GD0QX3F> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10e-c715-7dcb-e053-b784100a971b?person=096e57fc-6b08-b67c-0ab2-d9a5e66ca108> .
+
+    <https://data.rkd.nl/excerpts/787085/person/IDFRYOOURQ2SJSM1LEUSSAZE0BBHVZPNTM3BUBXKI5LUIYY4A0ULMJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10e-c715-7dcb-e053-b784100a971b?person=096e57fc-6b08-b67c-0ab2-d9a5e66ca108> .
+
+    <https://data.rkd.nl/excerpts/787262/person/ID2YQGCAAJUU2BDCPPEHBNL0U1ZNOPGFTTX3OQFKPWVYZJF2XR0SVF> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-9294-50ee-e053-b784100a6caf?person=ab0a58ae-0b88-6db1-29c3-04d69cc08cea> .
+
+    <https://data.rkd.nl/excerpts/787262/person/IDHARMGAH4RFEAKCVDENFW1OPIOHVSFHBU0WA2CWDEEZLXZ04YRFK> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-9294-50ee-e053-b784100a6caf?person=24435124-b67a-cb61-6e79-ecca6e026ed3> .
+
+    <https://data.rkd.nl/excerpts/787262/person/IDRWFNP03EG3TXM1MHKF1YSYETVJMDGZJKJXYYESO14PYLCV3MMB0C> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-9294-50ee-e053-b784100a6caf?person=2e6fbce1-0bbc-cbed-47cf-806c0a150a13> .
+
+    <https://data.rkd.nl/excerpts/787262/person/IDU4M53NLBUA1QMUHHA2YO1ZWCEHGBU4F3BR4QTSGGDYMAHKYJ33UI> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cc-9294-50ee-e053-b784100a6caf?person=5f15deda-24e5-e726-966a-c590fe3c5e98> .
+
+    <https://data.rkd.nl/excerpts/787287/person/ID0FGZ2KRDARWMJ2LRPELSKDEGGIQCRU0RZ0DGQPDH3JSBAJ4YSC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-55fa-666d-e053-b784100a1840?person=16a39248-2712-5bd8-67f6-e62b4a2a098e>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-3977-666d-e053-b784100a1840?person=64bb8bf0-e2f5-a455-b28e-74599c99892d>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-83d0-666d-e053-b784100a1840?person=4bd4a08e-bf5d-6127-f0ee-70e385ed8f66>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-749f-666d-e053-b784100a1840?person=9513881c-e057-aee1-9d62-9c6124405d59> .
+
+    <https://data.rkd.nl/excerpts/787287/person/IDAXZ4R1ZWFFTJIEMKEMRYZKFKAHMNNVLR1ZNMXCGL1BWA2FVD0VZN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-55fa-666d-e053-b784100a1840?person=16a39248-2712-5bd8-67f6-e62b4a2a098e>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e1-3977-666d-e053-b784100a1840?person=64bb8bf0-e2f5-a455-b28e-74599c99892d>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-83d0-666d-e053-b784100a1840?person=4bd4a08e-bf5d-6127-f0ee-70e385ed8f66>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-749f-666d-e053-b784100a1840?person=9513881c-e057-aee1-9d62-9c6124405d59> .
+
+    <https://data.rkd.nl/excerpts/787394/person/ID0CKNOPN44IP0N51OAJHDUEOZVDHZLHM3WZIDLUOTZUXOMLAMTLOB> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-b0bf-1e00-e053-b784100af734?person=59b2b8d4-76c5-fb59-b4ad-fbb7593d9a60> .
+
+    <https://data.rkd.nl/excerpts/787394/person/ID3HF2LI5FZJHZHHJ1KXDOJOMD0LB2GQGM1G3NIN5D5DWHVHDNAJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-b0bf-1e00-e053-b784100af734?person=4cc30a86-76e8-3326-fe21-e91a97a46a34> .
+
+    <https://data.rkd.nl/excerpts/787394/person/ID4UEAF2RZHG3QBIUGIG5VZ5FYBMAHXCZTIS3ARGN4SGE4R34TPSKC> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-b0bf-1e00-e053-b784100af734?person=59b2b8d4-76c5-fb59-b4ad-fbb7593d9a60> .
+
+    <https://data.rkd.nl/excerpts/787499/person/IDQ5SAY0BBNEEFKBSDPQHOWUM5EOROKJFQ3TEDS3DPTZWBGH5I002H> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-479d-666d-e053-b784100a1840?person=94e59e7e-38ff-1b7c-2eba-155105c9820a> .
+
+    <https://data.rkd.nl/excerpts/787499/person/IDZCYWPXFYCOI5NETWI022PEB5JCXSBRW3AYS22PFYV1BVDJ0A2LBO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-479d-666d-e053-b784100a1840?person=94e59e7e-38ff-1b7c-2eba-155105c9820a> .
+
+    <https://data.rkd.nl/excerpts/787510/person/IDA2UDJPBAW2Q2JZESLHDK0PONLKQL5L40UELA3VLVJVAS51UDA5KP> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9f2c-666d-e053-b784100a1840?person=3ed07ced-b8b7-3f14-4190-c2bb8c2e2bdb> .
+
+    <https://data.rkd.nl/excerpts/787510/person/IDCYOST54UNAJFPYOOV5E0WTUUOHETB011EITXRBJIMY2VL2NFBBO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-9f2c-666d-e053-b784100a1840?person=3ed07ced-b8b7-3f14-4190-c2bb8c2e2bdb> .
+
+    <https://data.rkd.nl/excerpts/787564/person/ID0AYDS01QOITCGUIOSQFXPY3ZGHDQIOMG0DSCXMHWGQ4A1AYS2TTN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9a50-666d-e053-b784100a1840?person=997363cf-3c12-ef52-2020-c9bbb4f8aaf3>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21df-9a50-666d-e053-b784100a1840?person=c717783d-31bf-ab26-f279-547777b46212> .
+
+    <https://data.rkd.nl/excerpts/787564/person/IDGKRK5LZ5JXH5MAADCV1KESNGVBQNTJUGCJE1NEM0452VJ3V3ELPH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9a50-666d-e053-b784100a1840?person=576e937a-fdec-7129-869b-441930f79f6f> .
+
+    <https://data.rkd.nl/excerpts/787564/person/IDHGRDLQCA1YECIIXV0SKGHCL3NLEGSLROVYPAABP12FTK34MAPNUO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9a50-666d-e053-b784100a1840?person=576e937a-fdec-7129-869b-441930f79f6f> .
+
+    <https://data.rkd.nl/excerpts/787564/person/IDMBZ3BQ2INTYJIFEILYGEXTVRTF4OTP2FZR5ODHHBR31YVD5XTIDH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9a50-666d-e053-b784100a1840?person=efb7b08e-f3d6-45d8-4eda-5854f325de2c> .
+
+    <https://data.rkd.nl/excerpts/787564/person/IDUZBSBCINZSEPGUIN3LKT4SPHQGKBV3QAL0S2QOEESMHK054SOBBL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-9a50-666d-e053-b784100a1840?person=e40b2950-3622-4d0d-8dc0-2c683cd5758b> .
+
+    <https://data.rkd.nl/excerpts/787568/person/ID41TBIC2XDOBRI1Z0FEBAONPCXIZB2IDM14VFU1M52VJYQDR3M3EF> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cb-fc55-50ee-e053-b784100a6caf?person=aec5383e-39f7-7744-c0cf-3c34bce75431>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-0bea-50ee-e053-b784100a6caf?person=9e6cfa81-140d-a89a-234d-6ffcd82a741b> .
+
+    <https://data.rkd.nl/excerpts/787568/person/IDRXBCMPNSENE5LVDNAVPJ0LUDCDWZVU52JOBBAIGYIT0CGR4TIT3I> owl:sameAs <https://archief.amsterdam/indexen/deeds/a3cb51cb-fc55-50ee-e053-b784100a6caf?person=d4a1d33d-e846-cea4-fd5d-2acd01e7533d>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-0bea-50ee-e053-b784100a6caf?person=4f11c151-f35f-b131-f4a3-bab6845db741> .
+
+    <https://data.rkd.nl/excerpts/787672/person/IDIPIIWFTAAGTLFZGWPX5I3VV2BDTWJFPLWOCLR5NK5KFKVNY5A3TN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-cb13-666d-e053-b784100a1840?person=f9d7c212-4f63-ed69-6bc9-ad0d44b9390f> .
+
+    <https://data.rkd.nl/excerpts/787672/person/IDQGXOA5J1DBLVJYWWOZYQCZMFAKENX02DHXWAYSHHAM4YCBSF4KDC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-cb13-666d-e053-b784100a1840?person=f9d7c212-4f63-ed69-6bc9-ad0d44b9390f> .
+
+    <https://data.rkd.nl/excerpts/787688/person/ID0EGT5FZ2BVY4IMEBNE3M2GPKPG3IW22SPIXYYSLKSE5PNCM2SHTH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=1cf96c2d-3a2d-f0c4-f17e-7577e93110cb>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=e8aa9095-47b7-0215-38ef-bfffea1fe823> .
+
+    <https://data.rkd.nl/excerpts/787688/person/IDVAC4E2RCZUBCI3PX0OILOYOZNJH0JRNUUR113NHGUU3ZXE3L3Y5B> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=6edc35a4-3e17-d3b5-9add-9cf8c1b09b6a>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=dbc0653a-84b2-067c-3979-79eadf07a957> .
+
+    <https://data.rkd.nl/excerpts/787688/person/IDWSASNTLFIFVZOSREWW2UJXQ3HGYKF4FNTWFQ3UDPEDUHWH5LFWZG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=4fceccfb-a5f8-d0ea-ce60-a2b0aa927f2c>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=f4b489f8-2e0d-2490-1409-8ca78de81d9a> .
+
+    <https://data.rkd.nl/excerpts/787688/person/IDXGE4OQJX2UH2C2POJOVO1LQIPLVMWSJR1U5UV0HYQMHX52QA4W2H> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=3083aa1d-3931-c1e2-6f50-65ad969239bc>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=8de6896c-72b9-d10b-c688-0ab948892888> .
+
+    <https://data.rkd.nl/excerpts/787688/person/IDYBOJHUAYJSCVGB2DVVIE3NVZGKRVA5E0WCJ1SKLVSSEVQVOKG14I> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=3aebb33f-8545-eef0-592f-f8a7b6ba44a3>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=928880fa-aef3-7bff-9fab-4b5e4ec44eef> .
+
+    <https://data.rkd.nl/excerpts/787688/person/IDZ3PMZFADAPXPL4EZVSJS0IVQ3LBU3O5K4GHFGAG1JUOBHTYCEN1F> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=3aebb33f-8545-eef0-592f-f8a7b6ba44a3>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=928880fa-aef3-7bff-9fab-4b5e4ec44eef> .
+
+    <https://data.rkd.nl/excerpts/787689/person/ID3IQMXJEVXSWONJLDYFPYVRJK0EUDGPPZAKCZN1KGUE22WXKEFTNK> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=1cf96c2d-3a2d-f0c4-f17e-7577e93110cb>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=e8aa9095-47b7-0215-38ef-bfffea1fe823> .
+
+    <https://data.rkd.nl/excerpts/787689/person/IDN2AJ1BJUCRGIHJ2NKPDPROKSKEU3QXI1OIJS5J5G4C1HW5SKZ1K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=6edc35a4-3e17-d3b5-9add-9cf8c1b09b6a>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=dbc0653a-84b2-067c-3979-79eadf07a957> .
+
+    <https://data.rkd.nl/excerpts/787689/person/IDUOKVL1DRQO0CIVO43VLPLX2LQAJGRLSTS55XMBYRC1GILNWE23K> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=6edc35a4-3e17-d3b5-9add-9cf8c1b09b6a>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=dbc0653a-84b2-067c-3979-79eadf07a957> .
+
+    <https://data.rkd.nl/excerpts/787689/person/IDYFMOJYQ5NSICUDMM13515AGJM1CORXXA2JONDPA4L1KJK53V1O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-22c0-666d-e053-b784100a1840?person=3aebb33f-8545-eef0-592f-f8a7b6ba44a3>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-d9cc-666d-e053-b784100a1840?person=928880fa-aef3-7bff-9fab-4b5e4ec44eef> .
+
+    <https://data.rkd.nl/excerpts/787941/person/IDZZ42Y5A1GGOOFRFK3QBGMSBMRCHZ4U0XSDYJSAFG3PIIJ01FLN0J> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-3be2-666d-e053-b784100a1840?person=28535141-f2be-458b-bb12-bfd152a22248> .
+
+    <https://data.rkd.nl/excerpts/787957/person/ID3J21UE3TP1MMH3CWGT2MSJJJZFBBY0ZEEDVEI2G4XVUDQE4KA04O> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-d3b8-666d-e053-b784100a1840?person=4d0a5598-d177-7040-e053-b784100a6264>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e2-6cb4-666d-e053-b784100a1840?person=d89ce748-5606-95bc-b73b-b1f6bd5ff3ae> .
+
+    <https://data.rkd.nl/excerpts/787964/person/IDG3F5BUUCGOLZLUEGVAWVHSDJCDDOHCUWSZIES4PXS5UTNRN2H52M> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21df-a19d-666d-e053-b784100a1840?person=524c86c8-235a-8be6-acd1-35f6620f9593> .
+
+    <https://data.rkd.nl/excerpts/787971/person/ID1HEJT3LAUU22K1TJ1GAGHIDZLIV33NXPGJS5LGPLWQ33V5VNR3> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-b258-666d-e053-b784100a1840?person=76e848eb-3b83-f8f3-14fd-7837fe8a533a>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-b258-666d-e053-b784100a1840?person=fd221d64-d9b4-228c-7829-bfa5f7b3745a> .
+
+    <https://data.rkd.nl/excerpts/787971/person/IDXJDGXA0BS13RE5XKKTCB4FYKYOSCWLTFIATWVOB4EIPHAEMC1KJF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-b258-666d-e053-b784100a1840?person=76e848eb-3b83-f8f3-14fd-7837fe8a533a>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-b258-666d-e053-b784100a1840?person=fd221d64-d9b4-228c-7829-bfa5f7b3745a> .
+
+    <https://data.rkd.nl/excerpts/787999/person/ID2LJSV0GIQSI4JNIAGSMEANFTCMEEPHR3MMGOLWL4Q4I2HTA2UD5L> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-3b82-666d-e053-b784100a1840?person=05b3b3b9-0f08-eaa7-0d03-4a1eb2b3c152> .
+
+    <https://data.rkd.nl/excerpts/787999/person/ID3LSDDFOMVHQROZPPDH3VN2B5FMDNNUIVI00E1GELRVHPUCNJN15C> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-3b82-666d-e053-b784100a1840?person=61273e07-44bd-7e10-35e0-c57fb8d5cfd9> .
+
+    <https://data.rkd.nl/excerpts/787999/person/IDDYYY1HAKWKAFP3MCRBQ0EFAAADQVYHGA1S3NZEBMJDXVW0JEUD3C> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-3b82-666d-e053-b784100a1840?person=9f986b2c-aaa2-47bb-e09f-5a7d1a49b3ee> .
+
+    <https://data.rkd.nl/excerpts/787999/person/IDIYKND1JFKOYYB2TBKHEKZZFUMM3WEUOAK1E5HUGCM2NCOKP444PI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-3b82-666d-e053-b784100a1840?person=f55d9871-99ac-ea25-e19c-aaa2a5119daa> .
+
+    <https://data.rkd.nl/excerpts/787999/person/IDLJOSCEGJUYKYLKS2UG5FDDERVB02EC1WO0GUW1JWKZYJILERHSXM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-3b82-666d-e053-b784100a1840?person=420306c0-72b5-8910-e11d-a1df415afa5d> .
+
+    <https://data.rkd.nl/excerpts/788000/person/ID0SPHHPAO10YPIRUXI0AWYZG5VEFD1KWOHRC0KBGQQAUVL0OHAC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6899-666d-e053-b784100a1840?person=c6b8b516-a368-35f5-18a1-0526b0513dee> .
+
+    <https://data.rkd.nl/excerpts/788000/person/IDJGRTBV3EAFLBCRXGZQ1RKZX1CF0H4201CIM0Y2KG30W4KXAS3VFO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6899-666d-e053-b784100a1840?person=c6b8b516-a368-35f5-18a1-0526b0513dee> .
+
+    <https://data.rkd.nl/excerpts/788071/person/IDT5BUQAZWYNK1D4KVO3CKBSDY3F52GR2MIQXYVXNYXV2GXMM1DLPM> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-064d-666d-e053-b784100a1840?person=99f8b4e0-84ca-5106-18ef-b25efca36439> .
+
+    <https://data.rkd.nl/excerpts/788073/person/IDBBZCF54FAKF5OYC4GWHJNLL2CNYOZXJFSQWKQ4GRDNSQG4QYR0OH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c08d-666d-e053-b784100a1840?person=1da4a4a9-2325-e164-7e8d-5a27e873d20e> .
+
+    <https://data.rkd.nl/excerpts/788179/person/IDFMU3NIQPJIUSOHQ20BYNRZQZNKSQDPKYB3IU24GVBF0VMLR01OFF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6ead-666d-e053-b784100a1840?person=1d590f60-48fa-488e-99c9-f9faae41cd4f> .
+
+    <https://data.rkd.nl/excerpts/788179/person/IDIMEVWUYUTX03O2UJEDJ520T3CG53KXU2UKQC1WI2OO4QGOQ2WIMC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-6ead-666d-e053-b784100a1840?person=1d590f60-48fa-488e-99c9-f9faae41cd4f> .
+
+    <https://data.rkd.nl/excerpts/788193/person/ID2MKKZUI3FSLUJACR232N2XKPZNWCOURTESXNUGDXVFKYYRBOBOTF> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c982-1e00-e053-b784100af734?person=8ff72925-a170-8f64-4c52-089ee1b94ba3> .
+
+    <https://data.rkd.nl/excerpts/788193/person/IDS2FU2KJVS3SDFJIVBO5BKPEPY4IAIPGPNPYFSMVFUEIBLLNPNPK> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-c982-1e00-e053-b784100af734?person=8ff72925-a170-8f64-4c52-089ee1b94ba3> .
+
+    <https://data.rkd.nl/excerpts/788197/person/IDFBYJ4RPN5PE4KKGGTEAH2QOMSDBCJ5UF2G5HACM2T4VQTADFCWRN> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-fc26-666d-e053-b784100a1840?person=a2a4260f-daaa-2ffc-9018-fc9113088827> .
+
+    <https://data.rkd.nl/excerpts/788197/person/IDGWVRKIQXH0XAI1HUXOSCE4NCHLPVZC0VALAV5JCAZBZCPLEBNHON> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-fc26-666d-e053-b784100a1840?person=a2a4260f-daaa-2ffc-9018-fc9113088827> .
+
+    <https://data.rkd.nl/excerpts/788220/person/ID0VNXYKCMTP0KDUBLMEF0GYISIFO42QCHKZX3JQOYHAVCUVS0RYPH> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-76f5-1e00-e053-b784100af734?person=4150c48f-8ffe-ec6b-939e-52b81efe2268> .
+
+    <https://data.rkd.nl/excerpts/788220/person/ID3F4EPCUP23VXBAAG2JRQ4JZAGFOKYQNNX1P4H1ENGHUVN413P4II> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-76f5-1e00-e053-b784100af734?person=4150c48f-8ffe-ec6b-939e-52b81efe2268> .
+
+    <https://data.rkd.nl/excerpts/788246/person/IDVZDSEKLUJ00LNX2LR3BJPQSAHLVTUQLR0L1XLQMLLGRYSORYSYHK> owl:sameAs <https://archief.amsterdam/indexen/deeds/e557c10f-358f-7dcb-e053-b784100a971b?person=92cd697f-cac8-c205-a3f6-aec6d956842a> .
+
+    <https://data.rkd.nl/excerpts/788251/person/IDKWTZGZU0HBODB1HARK5BIVQNKBQNYHAWY3CRDNRXLCQB0SSX5RL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-6be1-666d-e053-b784100a1840?person=f747f960-621a-d0f6-8d4f-108cac2bf268>,
+            <https://archief.amsterdam/indexen/deeds/a3cb51cc-1503-50ee-e053-b784100a6caf?person=baaa8cc6-52b6-fb6a-0bc5-6d0ec72832e3> .
+
+    <https://data.rkd.nl/excerpts/788425/person/IDITPRD0S1SGFBNMHF4EHRS2XX3I5P2YF0AZB2ESFRRBSYW3CJD4AG> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f682-666d-e053-b784100a1840?person=a473a30d-1405-b013-1048-daba8b929de3>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-c032-666d-e053-b784100a1840?person=eddbb2b7-9bbe-47c7-1baa-6d097a44c5ce> .
+
+    <https://data.rkd.nl/excerpts/788425/person/IDYRUA1D0ZSCP4LHVX012VEKV5UDE5QI0UK45UWPK1JBLHI3ORGE0G> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-f682-666d-e053-b784100a1840?person=a473a30d-1405-b013-1048-daba8b929de3>,
+            <https://archief.amsterdam/indexen/deeds/9d6d21e3-c032-666d-e053-b784100a1840?person=eddbb2b7-9bbe-47c7-1baa-6d097a44c5ce> .
+
+    <https://data.rkd.nl/excerpts/788501/person/IDWSSNZGALS3IDF14QBOBQ1N5A2GK10GRMH5OY15LEFMILMDZMFGC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c759-666d-e053-b784100a1840?person=8c80204a-d881-8019-786b-7d4bdace159c> .
+
+    <https://data.rkd.nl/excerpts/788501/person/IDZ2WVK4WEDBF1CMPDDZ33LRNFBGEGZG5FKI4WGOMCSJCFV2NUWCUE> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e2-c759-666d-e053-b784100a1840?person=689b572c-6473-6b88-1ae8-58c965c211e0> .
+
+    <https://data.rkd.nl/excerpts/788520/person/IDCZYAE0R5SU2UI1VDBWHFNBBYGI3CPAWQVBAILKINWFQRHEG0JOHO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-da4a-666d-e053-b784100a1840?person=dcc3f459-4ed5-7554-7a74-fe3f629a1657> .
+
+    <https://data.rkd.nl/excerpts/788520/person/IDFHGKIH04T2ZYLV2XYPWAKQJUQMJ5JHWECWZYCO1RQ5GCK1IQJAH> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-da4a-666d-e053-b784100a1840?person=7e071734-a78c-9c47-b53f-7c6b4c32e30e> .
+
+    <https://data.rkd.nl/excerpts/788520/person/IDSZT4VYWZWEJTPRNKLK0ESXBHHINCOLM34QM03PBULTL25OEKQKRJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-da4a-666d-e053-b784100a1840?person=7bee131c-8508-e58e-c2a7-c7c2013a77b4> .
+
+    <https://data.rkd.nl/excerpts/788520/person/IDXB2ZT4E2T05SN3WXOWUNRNJUERCHRB5IIEF4OOHPPNVYZTVFCEF> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-da4a-666d-e053-b784100a1840?person=c3a31b7a-de69-e1b8-e8f2-620e46c45172> .
+
+    <https://data.rkd.nl/excerpts/788549/person/IDMJEWXC3NEREUGP2YMLY32GC4ANKXSNRAPXBPYTGQPMTLHGU33BCJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd5-049d-1e00-e053-b784100af734?person=589dcc4b-0961-2c01-ab79-5dfa1a29e839> .
+
+    <https://data.rkd.nl/excerpts/788574/person/ID0LB241UUOHNXNJB5LTGBHIPVODK1KSYYERCSRQOE0KDNHVWBVXFB> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-b22d-666d-e053-b784100a1840?person=9b1f897e-ca29-b54e-f414-48706818fec7> .
+
+    <https://data.rkd.nl/excerpts/788661/person/IDG4AK0Q3CSLWDLTYVW15B3PRZGU02C4WVPAE4CLHIYAGZM41YDHC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840?person=1c35fa24-de5f-c61d-a053-904dece2be84> .
+
+    <https://data.rkd.nl/excerpts/788661/person/IDHQN1IYBDY3KVHNWE10KJKODIABKRE1YK2NEIUDP5GUUQ4SJCD1KC> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840?person=6e9bed84-f11e-3bf4-8c6f-c0e9cc5bb3e7> .
+
+    <https://data.rkd.nl/excerpts/788661/person/IDNTEOYN4DNH3SNHDC21N4CELHCBLUJWAS3CDMGSNADE0TQGFSPU1H> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840?person=aef29186-8116-8753-c290-8f1433101a11> .
+
+    <https://data.rkd.nl/excerpts/788661/person/IDQ1V0UF2DKLYNNFFAKIXQW1QR5I2NOBISLBNLYCG3IRPRW32BE2C> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840?person=50ce22d6-52e9-f1d7-00a6-06fbe9d0d286> .
+
+    <https://data.rkd.nl/excerpts/788661/person/IDUMNKOM1HFKN3HBEZ2ML04XU1BHIRFD0LHRUPWRJZHKH3CDX0BFXO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840?person=9f52303e-2881-83e3-2cd0-33e19403da61> .
+
+    <https://data.rkd.nl/excerpts/788661/person/IDV24VUVNB3T4BNYKHBB0GI1EYHO0YEFTJNRI0ZKJDJHQGFPO1ENL> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840?person=9f52303e-2881-83e3-2cd0-33e19403da61> .
+
+    <https://data.rkd.nl/excerpts/788661/person/IDZE5AVPFVI0GQF1FHNPGXNFAPNQ2PG04XAJM1JM4XMSQXAIG24HI> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e3-4304-666d-e053-b784100a1840?person=a39db887-3f93-3693-c35b-c25707947057> .
+
+    <https://data.rkd.nl/excerpts/788673/person/IDMVFTBJ0OBGM3FOJLAAIWMNLHVPF0LWJYKPTANLLI3TRZSAW04QWJ> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-44f9-666d-e053-b784100a1840?person=0bb78c28-021c-91e7-3f29-39df1a6eb92e> .
+
+    <https://data.rkd.nl/excerpts/788673/person/IDTT0NIEFDVCZQK1MD2GQVR1TO4FXRLLRF4DWLZSIPCCJ1OLB2DSFO> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e0-44f9-666d-e053-b784100a1840?person=0bb78c28-021c-91e7-3f29-39df1a6eb92e> .
+
+    <https://data.rkd.nl/excerpts/788678/person/ID3E43NOYKONQ0MI03MBEYJDHGZPAHE30GJQZU4QFEAVKEMOAADN3P> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-739e-6a83-e053-b784100a6e32?person=ef1daa52-aa7f-db5c-7a2b-d80b9175790a> .
+
+    <https://data.rkd.nl/excerpts/788678/person/IDDTWBITISAUYZBY0Y0MV0J0LWXEYMJFKVU4FU3ZCERJGHYAT0G4YB> owl:sameAs <https://archief.amsterdam/indexen/deeds/b21a5c6e-739e-6a83-e053-b784100a6e32?person=889cfc4c-8112-5f55-4373-0d7ccda955cd> .
+
+    <https://data.rkd.nl/excerpts/788680/person/IDIFYTELM0CO4LHBONRGZBFCTTWNMUCSGD5M3QOUCHTNZAFYI0FFLK> owl:sameAs <https://archief.amsterdam/indexen/deeds/bebf5fd4-f457-1e00-e053-b784100af734?person=40e1aede-8de6-13f6-20ea-9fa3d3d28e13> .
+}
+
