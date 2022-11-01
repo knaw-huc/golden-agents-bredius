@@ -2,6 +2,8 @@
 
 Pipeline to transform the RKD's Bredius RDF data to fit in the [Golden Agents](https://www.goldenagents.org) infrastructure and to reconcile the Bredius notes to their origin: the [Notarial Deeds in the Amsterdam City Archives](https://archief.amsterdam/uitleg/indexen/49-notariele-archieven-1578-1915).
 
+This release contains both the scripts to transform the data and the resulting data.
+
 **Table of contents**
 - [Golden Agents / RKD - Bredius Notes](#golden-agents--rkd---bredius-notes)
   - [Introduction](#introduction)
@@ -200,7 +202,8 @@ The result can be found in [`bredius_linkset_deeds.trig`](linksets/bredius_links
 
 ## License and citation
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) 
+[![DOI](https://zenodo.org/badge/399210210.svg)](https://zenodo.org/badge/latestdoi/399210210)
 
 The original data was created in the Bredius Notes project and is processed by the RKD (https://rkd.nl/en/). The data in this repository is licensed under a Creative Commons Attribution 4.0 International license and can be used freely, as long as you provide attribution to both the Golden Agents Project (e.g. by citation) as well as the RKD (e.g. by linking to individual excerpts on rkd.nl).
 
