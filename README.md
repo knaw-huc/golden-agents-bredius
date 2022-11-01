@@ -204,6 +204,18 @@ The result can be found in [`bredius_linkset_deeds.trig`](linksets/bredius_links
 
 The original data was created in the Bredius Notes project and is processed by the RKD (https://rkd.nl/en/). The data in this repository is licensed under a Creative Commons Attribution 4.0 International license and can be used freely, as long as you provide attribution to both the Golden Agents Project (e.g. by citation) as well as the RKD (e.g. by linking to individual excerpts on rkd.nl).
 
+* Van Wissen, L., Reinders, J., Golden Agents project, & RKD Netherlands Institute for Art History. (2022). Golden Agents / RKD - Bredius Notes (Version v1.0) [Data set]. https://github.com/knaw-huc/golden-agents-bredius/
+
+```bibtex
+@misc{van_Wissen_Golden_Agents_2022,
+author = {van Wissen, Leon and Reinders, Jirsi and {Golden Agents project} and {RKD Netherlands Institute for Art History}},
+month = {11},
+title = {{Golden Agents / RKD - Bredius Notes}},
+url = {https://github.com/knaw-huc/golden-agents-bredius/},
+year = {2022}
+}
+```
+
 ## Contact
 
 More info and questions: https://www.goldenagents.org/about/ or l.vanwissen@uva.nl
