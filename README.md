@@ -1,8 +1,5 @@
 # Golden Agents / RKD - Bredius Notes
 
-:warning: | This repository is work in progress and contains unfinished data. 
-:---: | :---
-
 Pipeline to transform the RKD's Bredius RDF data to fit in the [Golden Agents](https://www.goldenagents.org) infrastructure and to reconcile the Bredius notes to their origin: the [Notarial Deeds in the Amsterdam City Archives](https://archief.amsterdam/uitleg/indexen/49-notariele-archieven-1578-1915).
 
 **Table of contents**
@@ -18,6 +15,7 @@ Pipeline to transform the RKD's Bredius RDF data to fit in the [Golden Agents](h
   - [Linksets / Reconciliation](#linksets--reconciliation)
     - [Person linkset](#person-linkset)
     - [Deed linkset](#deed-linkset)
+  - [Statistics](#statistics)
   - [License](#license)
   - [Contact](#contact)
 
@@ -35,8 +33,8 @@ More information on the notes and the crowdsourcing project can be read on the w
 ## Data
 ### Files
 * [`data/ga_20220926_BrediusExportVolledig.trig`](data/ga_20220926_BrediusExportVolledig.trig): the Bredius excerpts (with changes and additions, see below)
-* [`notaries/bredius_linkset_excerpt2inventory.trig`](notaries/bredius_linkset_excerpt2inventory.trig): linkset between the Bredius excerpts and notaries (Notarissennetwerk)
-* [`inventory/bredius_linkset_excerpt2inventory.trig`](inventories/bredius_linkset_excerpt_inventories.trig): linkset between the Bredius excerpts and inventories (EAD)
+* [`notaries/bredius_linkset_excerpt2notary.trig`](notaries/bredius_linkset_excerpt2notary.trig): linkset between the Bredius excerpts and notaries (Notarissennetwerk)
+* [`inventories/bredius_linkset_excerpt2inventory.trig`](inventories/bredius_linkset_excerpt2inventory.trig): linkset between the Bredius excerpts and inventories (EAD)
 * [`linksets/bredius_linkset_9d6ca8c8fb1bc3be9c08d7e791bd08e0_15_accepted.trig`](linksets/bredius_linkset_9d6ca8c8fb1bc3be9c08d7e791bd08e0_15_accepted.trig): linkset between persons in the Bredius excerpts and persons in the Amsterdam Notarial Archives. Created with Lenticular Lens. Contains only the accepted links. Pick [`linksets/bredius_linkset_persons.trig`](linksets/bredius_linkset_persons.trig) if you want a simplified version with just the `owl:sameAs` links.
 * [`linksets/bredius_linkset_deeds.trig`](linksets/bredius_linkset_deeds.trig): linkset between external documents in the Bredius excerpts and deeds in the Amsterdam Notarial Archives.
 
@@ -187,6 +185,18 @@ CONSTRUCT {
 ```
 
 The result can be found in [`bredius_linkset_deeds.trig`](linksets/bredius_linkset_deeds.trig).
+
+## Statistics
+
+| # | Property | Value |
+| --- | --- | --- |
+| 1 | Total number of statements | 511.838 |
+| 2 | Total number of persons in excerpts | 30.295 |
+| 3 | Total number of excerpts | 11.117 |
+| 4 | Total number of excerpts linked to notaries | 3.731 |
+| 5 | Total number of links | 860 |
+| 6 | Total number of linked persons | 711 |
+| 7 | Total number of linked deeds | 249 |
 
 ## License
 
