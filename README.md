@@ -16,7 +16,7 @@ Pipeline to transform the RKD's Bredius RDF data to fit in the [Golden Agents](h
     - [Person linkset](#person-linkset)
     - [Deed linkset](#deed-linkset)
   - [Statistics](#statistics)
-  - [License](#license)
+  - [License and citation](#license-and-citation)
   - [Contact](#contact)
 
 ## Introduction
@@ -198,7 +198,7 @@ The result can be found in [`bredius_linkset_deeds.trig`](linksets/bredius_links
 | 6 | Total number of linked persons | 711 |
 | 7 | Total number of linked deeds | 249 |
 
-## License
+## License and citation
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 

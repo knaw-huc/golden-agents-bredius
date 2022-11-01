@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: Golden Agents / RKD - Bredius Notes
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Leon
+    name-particle: van
+    family-names: Wissen
+    email: l.vanwissen@uva.nl
+    affiliation: University of Amsterdam
+    orcid: "https://orcid.org/0000-0001-8672-025X"
+  - given-names: Jirsi
+    family-names: Reinders
+    email: jirsi.reinders@huygens.knaw.nl
+    affiliation: >-
+      Huygens Institute for the History of the
+      Netherlands
+    orcid: "https://orcid.org/0000-0003-2702-4371"
+  - name: Golden Agents project
+  - name: RKD Netherlands Institute for Art History
+identifiers:
+  - type: doi
+    value:
+    description: URL for release of data
+repository-code: "https://github.com/knaw-huc/golden-agents-bredius/"
+abstract: >-
+  Data from the RKD's Bredius Notes project, enriched
+  with information from and links to the Golden
+  Agents project (https://www.goldenagents.org/).
+keywords:
+  - Abraham Bredius
+  - Golden Agents
+  - Linked Open Data
+  - Archival Sources
+  - Digital Humanities
+license: CC-BY-4.0
+version: v1.0
+date-released: "2022-11-01"
