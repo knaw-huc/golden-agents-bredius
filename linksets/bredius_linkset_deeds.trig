@@ -1,12 +1,4 @@
-@prefix schema: <https://schema.org/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix rpp: <https://data.goldenagents.org/ontology/roar/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix rdf4j: <http://rdf4j.org/schema/rdf4j#> .
-@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
 
 <https://data.goldenagents.org/datasets/bredius/> {
   <https://data.rkd.nl/collection/bredius/externalitem/777565> owl:sameAs <https://archief.amsterdam/indexen/deeds/9d6d21e1-0e23-666d-e053-b784100a1840> .
