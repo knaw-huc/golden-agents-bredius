@@ -210,12 +210,15 @@ The original data was created in the Bredius Notes project and is processed by t
 * Van Wissen, L., Reinders, J., Golden Agents project, & RKD Netherlands Institute for Art History. (2022). Golden Agents / RKD - Bredius Notes (Version v1.0) [Data set]. https://github.com/knaw-huc/golden-agents-bredius/
 
 ```bibtex
-@misc{van_Wissen_Golden_Agents_2022,
-author = {van Wissen, Leon and Reinders, Jirsi and {Golden Agents project} and {RKD Netherlands Institute for Art History}},
-month = {11},
-title = {{Golden Agents / RKD - Bredius Notes}},
-url = {https://github.com/knaw-huc/golden-agents-bredius/},
-year = {2022}
+@misc{goldenagents2022bredius,
+  doi = {10.5281/ZENODO.7271871},
+  url = {https://zenodo.org/record/7271871},
+  author = {van Wissen, Leon and Reinders, Jirsi and {Golden Agents Project} and {RKD Netherlands Institute For Art History}},
+  keywords = {Abraham Bredius,  Golden Agents,  Linked Open Data,  Archival Sources,  Digital Humanities},
+  title = {Golden Agents / RKD - Bredius Notes},
+  publisher = {Zenodo},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
 
